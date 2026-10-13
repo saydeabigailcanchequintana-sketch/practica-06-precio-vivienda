@@ -140,6 +140,7 @@ A nivel geográfico, los estados con mayor monto promedio fueron **Quintana Roo*
 
 ```
 practica-06-precio-vivienda/
+├── practica_precio_vivienda.ipynb  # Notebook ejecutable paso a paso (todos los requisitos)
 ├── proyecto.py               # Req 1-2: ingesta, limpieza + modelos y CV
 ├── analisis.py               # Req 3-6: descriptiva, correlaciones, regresión, conclusiones
 ├── visualizaciones.py        # Generación de 5 gráficos
@@ -167,6 +168,16 @@ practica-06-precio-vivienda/
 ```
 
 ## Reproducción
+
+### Opción A — Notebook interactivo (recomendado para revisar el modelo)
+
+```bash
+pip install -r requirements.txt
+pip install jupyter
+jupyter notebook practica_precio_vivienda.ipynb
+```
+
+### Opción B — Scripts
 
 ```bash
 pip install -r requirements.txt
