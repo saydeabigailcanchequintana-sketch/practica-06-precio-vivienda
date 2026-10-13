@@ -1,0 +1,2832 @@
+﻿[
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  28,
+        "monto":  0.0
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  1,
+        "monto":  39157.20
+    },
+    {
+        "año":  0,
+        "organismo":  "HABITAT MEXICO",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  73,
+        "monto":  8077657.48
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  5,
+        "monto":  0.0
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  3,
+        "monto":  117471.60
+    },
+    {
+        "año":  0,
+        "organismo":  "HABITAT MEXICO",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  165,
+        "monto":  18941912.55
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  255,
+        "monto":  0.0
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  148,
+        "monto":  0.0
+    },
+    {
+        "año":  0,
+        "organismo":  "SHF (FONDEO)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "No disponible",
+        "valor_vivienda":  "No disponible",
+        "acciones":  0,
+        "monto":  1360174558.049999992112
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  19,
+        "monto":  0.0
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  346187,
+        "monto":  471894707.38
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  67107,
+        "monto":  2556908554.11
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Reconstrucción",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  157,
+        "monto":  22941580.90
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Ampliación",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  33,
+        "monto":  8397582.14
+    },
+    {
+        "año":  0,
+        "organismo":  "SHF (FONDEO)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  21135,
+        "monto":  0
+    },
+    {
+        "año":  0,
+        "organismo":  "HABITAT MEXICO",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  161,
+        "monto":  16098801.88
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  11,
+        "monto":  0.0
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  177511,
+        "monto":  258965407.34
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  116634,
+        "monto":  4462737539.25
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Reconstrucción",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  238,
+        "monto":  35700042.34
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Ampliación",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  63,
+        "monto":  14135221.07
+    },
+    {
+        "año":  0,
+        "organismo":  "SHF (FONDEO)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  32538,
+        "monto":  0
+    },
+    {
+        "año":  0,
+        "organismo":  "HABITAT MEXICO",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  915,
+        "monto":  58850299.757999999991
+    },
+    {
+        "año":  0,
+        "organismo":  "INSUS",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Regularización de asentamientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  4707,
+        "monto":  63604640
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  1,
+        "monto":  0
+    },
+    {
+        "año":  0,
+        "organismo":  "INSUS",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Regularización de asentamientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  6806,
+        "monto":  91942006
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  6,
+        "monto":  5718181.87
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  50,
+        "monto":  13550414.3029632
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  12587,
+        "monto":  2455869385.57
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  1,
+        "monto":  198031.68
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  18,
+        "monto":  3171938
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  225,
+        "monto":  20628384
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  6,
+        "monto":  6671084.03
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  27,
+        "monto":  9198618.7301280
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  38603,
+        "monto":  7675974446.63
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  7,
+        "monto":  1386221.76
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  23,
+        "monto":  16260941.38
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  26,
+        "monto":  12890047.08
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  20,
+        "monto":  3856489
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  115,
+        "monto":  9842207
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  1,
+        "monto":  188557
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  1,
+        "monto":  302000.0
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  1148,
+        "monto":  496697307.5959248
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  6,
+        "monto":  1973998
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  965,
+        "monto":  420279495.4236592
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  82,
+        "monto":  51143261.15
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  1,
+        "monto":  360000
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  4,
+        "monto":  921552.10
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Ampliación",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  3,
+        "monto":  880736.14
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  8,
+        "monto":  2676116.5369280
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  9,
+        "monto":  185897.04
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Reconstrucción",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  525,
+        "monto":  127041056.80
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  595,
+        "monto":  85693737
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  4,
+        "monto":  1156654.03
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Ampliación",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  6,
+        "monto":  1852806.57
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  5,
+        "monto":  1757359.0472880
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  3,
+        "monto":  66123.91
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Reconstrucción",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  874,
+        "monto":  207796092.80
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  384,
+        "monto":  58332653
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  3,
+        "monto":  1435764.7013504
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  481,
+        "monto":  128825393.7603616
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  1870,
+        "monto":  597029152.7819360
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  1,
+        "monto":  55467
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  4,
+        "monto":  502182
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  22,
+        "monto":  4927457
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  2,
+        "monto":  682839.5662592
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  207,
+        "monto":  54391826.9881168
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  1076,
+        "monto":  334375755.6181824
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  17,
+        "monto":  9425800.0
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  3,
+        "monto":  230818
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  2,
+        "monto":  235021
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  13,
+        "monto":  2722082
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  252,
+        "monto":  143312454.61
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  16,
+        "monto":  13795388.56
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  29888,
+        "monto":  17591550592.0839104
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  1,
+        "monto":  590268.3839472
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  1107,
+        "monto":  502608967.53
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  214,
+        "monto":  94795779
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  7,
+        "monto":  3215660
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  350,
+        "monto":  202540033.03
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  19,
+        "monto":  13531604.52
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  25767,
+        "monto":  14764609817.1004016
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  1,
+        "monto":  626879.863824
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  3314,
+        "monto":  1528292191.34
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  131,
+        "monto":  82367634.32
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  8,
+        "monto":  8300700.0
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  215,
+        "monto":  92098814
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  5,
+        "monto":  2454281
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  518,
+        "monto":  296996380.72
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  58761,
+        "monto":  32881557798.4733296
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  1,
+        "monto":  420000.00
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  199,
+        "monto":  95731550
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  584,
+        "monto":  338318894.87
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  48779,
+        "monto":  26923827929.6070720
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  234,
+        "monto":  169733266.32
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  145,
+        "monto":  69681878
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  4,
+        "monto":  1933844.13
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Ampliación",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  2,
+        "monto":  952758.92
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  4552,
+        "monto":  2614046831.1815280
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Reconstrucción",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  3,
+        "monto":  1321052.77
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  238,
+        "monto":  126967648
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  6,
+        "monto":  2845194.65
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Ampliación",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  8,
+        "monto":  3601283.08
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  3604,
+        "monto":  1987473961.0688416
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Reconstrucción",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  3,
+        "monto":  1292000.00
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  146,
+        "monto":  78945095
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  1142,
+        "monto":  734194695.8701264
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  582,
+        "monto":  300185188.0965024
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  3188,
+        "monto":  1684862323.5828816
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  16,
+        "monto":  5849610
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  31,
+        "monto":  11010557
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  184,
+        "monto":  68978006
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  782,
+        "monto":  481393151.0731600
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  305,
+        "monto":  150445185.6598832
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  1414,
+        "monto":  726567299.8307664
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  39,
+        "monto":  30809800.0
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  21,
+        "monto":  7606928
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  24,
+        "monto":  6591311
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  112,
+        "monto":  41702450
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "No disponible",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  1,
+        "monto":  0
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  4085,
+        "monto":  3191538307.33
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  61,
+        "monto":  50115937.60
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  88781,
+        "monto":  57435308716.7697280
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  453,
+        "monto":  371989706.64
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  3031,
+        "monto":  2201007245
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Autoproducción",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  2,
+        "monto":  1314621
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  14,
+        "monto":  10160882
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  7302,
+        "monto":  5820358971.15
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  130,
+        "monto":  109747374.99
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  69381,
+        "monto":  38974409384.0998816
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  826,
+        "monto":  653853548.15
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  217,
+        "monto":  195843443.93
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  13,
+        "monto":  17438415.77
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  2784,
+        "monto":  2013106909
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  14,
+        "monto":  9892368
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  5730,
+        "monto":  4514608129.52
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  89991,
+        "monto":  60883191367.6364128
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  7,
+        "monto":  2294538.80
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  2738,
+        "monto":  2033770094
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  9272,
+        "monto":  7517422157.89
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  67264,
+        "monto":  39103807332.5476976
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  11,
+        "monto":  5085801.60
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  382,
+        "monto":  422910790.58
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  2382,
+        "monto":  1773186652
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  1,
+        "monto":  812729.39
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  4339,
+        "monto":  3019780159.5658112
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  385,
+        "monto":  354621219
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  2,
+        "monto":  1508815.19
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Ampliación",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  1,
+        "monto":  704000.0
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  2723,
+        "monto":  1613577893.0138752
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  266,
+        "monto":  242241664
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  7,
+        "monto":  3390029.23
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  763,
+        "monto":  598294305.8253520
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  540,
+        "monto":  463511422.7555920
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  2403,
+        "monto":  2076378389.5466288
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  353,
+        "monto":  192843374
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  360,
+        "monto":  174522618
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  627,
+        "monto":  390181448
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  10,
+        "monto":  6565714.62
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  483,
+        "monto":  333388186.4977968
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  217,
+        "monto":  163379089.6545536
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  1010,
+        "monto":  848724310.7846672
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  38,
+        "monto":  44539200.0
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  305,
+        "monto":  161444691
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  321,
+        "monto":  156312900
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  385,
+        "monto":  239398323
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "No disponible",
+        "valor_vivienda":  "Media",
+        "acciones":  2,
+        "monto":  0
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  6826,
+        "monto":  7988001013.29
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  51,
+        "monto":  62179044.51
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  57576,
+        "monto":  58449999318.1818720
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  102,
+        "monto":  133206284.34
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  23561,
+        "monto":  32216571423
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  247,
+        "monto":  291604232
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  9066,
+        "monto":  10126266105.96
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  70,
+        "monto":  80653279.05
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  40331,
+        "monto":  33566938169.0705488
+    },
+    {
+        "año":  0,
+        "organismo":  "CONAVI",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  74,
+        "monto":  89537107.80
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  154,
+        "monto":  285002090.29
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  1,
+        "monto":  3000000.0
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  19326,
+        "monto":  26065279557
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  162,
+        "monto":  189881494
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  7755,
+        "monto":  8762200347.67
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  46529,
+        "monto":  51515795625.9200080
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  15474,
+        "monto":  20753246198
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  11002,
+        "monto":  12291208658.83
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  33854,
+        "monto":  30354133873.1792304
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  286,
+        "monto":  557834164.61
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  12548,
+        "monto":  16727582700
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  573,
+        "monto":  747679759.3877872
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  2,
+        "monto":  4538849
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  624,
+        "monto":  1074294859
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  3,
+        "monto":  1981173.49
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  363,
+        "monto":  388930554.9471952
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  1,
+        "monto":  2100000
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  290,
+        "monto":  491449296
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  11,
+        "monto":  8823092.14
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  215,
+        "monto":  341844837.8546704
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  359,
+        "monto":  557704057.4359824
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  1274,
+        "monto":  1926837105.7059872
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  2624,
+        "monto":  2619246549
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  2158,
+        "monto":  1803531827
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  1548,
+        "monto":  1806186158
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  15,
+        "monto":  12745690.16
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  124,
+        "monto":  153950362.4006048
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  164,
+        "monto":  227042902.8883184
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  524,
+        "monto":  780465842.9281424
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  29,
+        "monto":  46813300.0
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  1626,
+        "monto":  1580372290
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  1478,
+        "monto":  1192882978
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  833,
+        "monto":  964709416
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "No disponible",
+        "valor_vivienda":  "Residencial",
+        "acciones":  3,
+        "monto":  0
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  743,
+        "monto":  698155272.47
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  8,
+        "monto":  12096277.69
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  18400,
+        "monto":  20348927771.5086192
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  31705,
+        "monto":  76631853542
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  1172,
+        "monto":  2472194775
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  866,
+        "monto":  788640209.90
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  2,
+        "monto":  2492747.23
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  11810,
+        "monto":  10985138077.2872880
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  12,
+        "monto":  38790704.38
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  1,
+        "monto":  6445800.0
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  21708,
+        "monto":  50987060240
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  679,
+        "monto":  1380177846
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  824,
+        "monto":  848533635.77
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  6668,
+        "monto":  11739033591.6718048
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  16298,
+        "monto":  39510163813
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  1021,
+        "monto":  1035254133.79
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  4450,
+        "monto":  6567415299.9036384
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  43,
+        "monto":  148302357.66
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  11113,
+        "monto":  26132205249
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  1,
+        "monto":  274400.0
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  54,
+        "monto":  139175666.8041136
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  3,
+        "monto":  7639999
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  374,
+        "monto":  1305480974
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  14,
+        "monto":  25536375.5211712
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  2,
+        "monto":  4610067
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  120,
+        "monto":  422407894
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  14,
+        "monto":  13783491.68
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  33,
+        "monto":  86186837.5526224
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  39,
+        "monto":  95885349.7858112
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  119,
+        "monto":  291809922.1701968
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  2976,
+        "monto":  5001506853
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  2622,
+        "monto":  3885098050
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  947,
+        "monto":  2115852097
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  7,
+        "monto":  7395351.30
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  16,
+        "monto":  22049725.9329312
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  20,
+        "monto":  33253150.2998752
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  45,
+        "monto":  103629932.0435632
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  2,
+        "monto":  8358110.09
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  1526,
+        "monto":  2574371962
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  1402,
+        "monto":  1986999929
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  410,
+        "monto":  886385914
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "No disponible",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  1,
+        "monto":  0
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  30,
+        "monto":  7048440.64
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  2696,
+        "monto":  1399566816.8274336
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  11686,
+        "monto":  59871010997
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  2225,
+        "monto":  12296545934
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  22,
+        "monto":  4575721.68
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  1427,
+        "monto":  795517962.3133360
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  1,
+        "monto":  1600000.0
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Vivienda nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  6000,
+        "monto":  27990723916
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas nuevas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  877,
+        "monto":  3956308504
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  67,
+        "monto":  38232418.22
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  1102,
+        "monto":  1753606292.2722272
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  9883,
+        "monto":  58917302917
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  87,
+        "monto":  40335056.08
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  805,
+        "monto":  1185259410.6942688
+    },
+    {
+        "año":  0,
+        "organismo":  "BANJERCITO",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  5,
+        "monto":  30435781.53
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Viviendas existentes",
+        "destino_credito":  "Vivienda existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  4691,
+        "monto":  24207483012
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  178,
+        "monto":  1524864532
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Mejoramientos",
+        "destino_credito":  "Mejoramientos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  57,
+        "monto":  409656449
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  1,
+        "monto":  1099702.23
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  2,
+        "monto":  5266072.2848544
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  3,
+        "monto":  8662621.3383152
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  2740,
+        "monto":  10391498252
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  2593,
+        "monto":  11996669578
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  579,
+        "monto":  3395066944
+    },
+    {
+        "año":  0,
+        "organismo":  "FOVISSSTE",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  2,
+        "monto":  1350839.25
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  2,
+        "monto":  5410584.5463168
+    },
+    {
+        "año":  0,
+        "organismo":  "INFONAVIT",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  3,
+        "monto":  10427223.7380720
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  972,
+        "monto":  3343525899
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Liquidez",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  1014,
+        "monto":  3655684716
+    },
+    {
+        "año":  0,
+        "organismo":  "BANCA (CNBV)",
+        "modalidad":  "Otros programas",
+        "destino_credito":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  153,
+        "monto":  756312922
+    }
+]

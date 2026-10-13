@@ -1,0 +1,1631 @@
+﻿año,modalidad,sexo,valor_vivienda,acciones,monto,estado_clave,estado_nombre,monto_unitario
+0,Mejoramientos,Hombre,,6191,21417454.09,01,Aguascalientes,3459.449861088677
+0,Mejoramientos,Mujer,,5440,44975186.31,01,Aguascalientes,8267.497483455883
+0,Viviendas nuevas,Hombre,Económica,147,26119051.46,01,Aguascalientes,177680.62217687076
+0,Viviendas nuevas,Mujer,Económica,625,101816042.4460768,01,Aguascalientes,162905.66791372286
+0,Viviendas existentes,Hombre,Económica,10,4234102.3417552,01,Aguascalientes,423410.23417552
+0,Viviendas existentes,Mujer,Económica,15,5457037.7602496,01,Aguascalientes,363802.5173499733
+0,Mejoramientos,Hombre,Económica,6,795594.0,01,Aguascalientes,132599.0
+0,Mejoramientos,Mujer,Económica,6,1740850.0,01,Aguascalientes,290141.6666666667
+0,Otros programas,Hombre,Económica,32,9657963.883624,01,Aguascalientes,301811.37136325
+0,Otros programas,Mujer,Económica,20,6046988.2556176,01,Aguascalientes,302349.41278088
+0,Viviendas nuevas,Hombre,Popular,984,575032235.0027888,01,Aguascalientes,584382.3526451106
+0,Viviendas nuevas,Mujer,Popular,926,523975051.8230064,01,Aguascalientes,565847.7881457952
+0,Viviendas existentes,Hombre,Popular,1228,677262868.4459743,01,Aguascalientes,551516.9938485133
+0,Viviendas existentes,Mujer,Popular,1191,643380101.2635905,01,Aguascalientes,540201.596359018
+0,Mejoramientos,Hombre,Popular,45,26084212.1178688,01,Aguascalientes,579649.1581748623
+0,Mejoramientos,Mujer,Popular,31,17370583.9388096,01,Aguascalientes,560341.4173809548
+0,Otros programas,Hombre,Popular,144,72781290.567312,01,Aguascalientes,505425.62893966667
+0,Otros programas,Mujer,Popular,54,26336181.78148,01,Aguascalientes,487707.0700274074
+0,Viviendas nuevas,Hombre,Tradicional,2209,1399257463.6787343,01,Aguascalientes,633434.7956897847
+0,Viviendas nuevas,Mujer,Tradicional,1751,961525231.7204448,01,Aguascalientes,549129.2014394316
+0,Viviendas existentes,Hombre,Tradicional,1636,1079727834.2027647,01,Aguascalientes,659980.3387547461
+0,Viviendas existentes,Mujer,Tradicional,1364,794373924.278376,01,Aguascalientes,582385.5749841466
+0,Mejoramientos,Hombre,Tradicional,15,13655571.97392,01,Aguascalientes,910371.464928
+0,Mejoramientos,Mujer,Tradicional,9,7128980.309912,01,Aguascalientes,792108.9233235555
+0,Otros programas,Hombre,Tradicional,223,174305126.362952,01,Aguascalientes,781637.3379504574
+0,Otros programas,Mujer,Tradicional,156,116023211.8997328,01,Aguascalientes,743738.5378188
+0,Viviendas nuevas,Hombre,Media,2639,2766403283.738451,01,Aguascalientes,1048277.1063806181
+0,Viviendas nuevas,Mujer,Media,1999,1948933909.480776,01,Aguascalientes,974954.4319563662
+0,Viviendas existentes,Hombre,Media,1152,1283004989.7407649,01,Aguascalientes,1113719.6091499694
+0,Viviendas existentes,Mujer,Media,934,916555110.0661328,01,Aguascalientes,981322.3876511058
+0,Mejoramientos,Hombre,Media,18,24491966.5675712,01,Aguascalientes,1360664.8093095112
+0,Mejoramientos,Mujer,Media,7,8114661.9165776,01,Aguascalientes,1159237.4166539428
+0,Otros programas,Hombre,Media,365,404098859.0673008,01,Aguascalientes,1107120.1618282213
+0,Otros programas,Mujer,Media,192,213717773.3939728,01,Aguascalientes,1113113.4030936083
+0,Viviendas nuevas,Hombre,Residencial,1008,1833063508.9387343,01,Aguascalientes,1818515.385851919
+0,Viviendas nuevas,Mujer,Residencial,584,1018885350.6371088,01,Aguascalientes,1744666.6962964192
+0,Viviendas existentes,Hombre,Residencial,287,620622467.475928,01,Aguascalientes,2162447.6218673447
+0,Viviendas existentes,Mujer,Residencial,176,342329122.9886368,01,Aguascalientes,1945051.835162709
+0,Mejoramientos,Hombre,Residencial,1,2050619.568,01,Aguascalientes,2050619.568
+0,Mejoramientos,Mujer,Residencial,1,691312.008,01,Aguascalientes,691312.008
+0,Otros programas,Hombre,Residencial,169,274701901.2276096,01,Aguascalientes,1625455.0368497607
+0,Otros programas,Mujer,Residencial,83,136148909.58644,01,Aguascalientes,1640348.3082703615
+0,Viviendas nuevas,Hombre,Residencial plus,141,574997733.984232,01,Aguascalientes,4077998.113363347
+0,Viviendas nuevas,Mujer,Residencial plus,72,273904771.328,01,Aguascalientes,3804232.935111111
+0,Viviendas existentes,Hombre,Residencial plus,60,342283598.8765216,01,Aguascalientes,5704726.647942026
+0,Viviendas existentes,Mujer,Residencial plus,31,129726490.502,01,Aguascalientes,4184725.5000645164
+0,Otros programas,Hombre,Residencial plus,76,317082953.0,01,Aguascalientes,4172144.1184210526
+0,Otros programas,Mujer,Residencial plus,35,121419548.0,01,Aguascalientes,3469129.942857143
+0,Mejoramientos,Hombre,,15888,28487509.0,02,Baja California,1793.0204556898289
+0,Mejoramientos,Mujer,,10610,66425287.3,02,Baja California,6260.63028275212
+0,Otros programas,Hombre,,199,2754000.0,02,Baja California,13839.195979899498
+0,Otros programas,Mujer,,245,3382500.0,02,Baja California,13806.122448979591
+0,Viviendas nuevas,Hombre,Económica,169,27504823.23,02,Baja California,162750.43331360948
+0,Viviendas nuevas,Mujer,Económica,518,70400358.1421984,02,Baja California,135908.0273015413
+0,Viviendas existentes,Hombre,Económica,16,7595826.7438944,02,Baja California,474739.1714934
+0,Viviendas existentes,Mujer,Económica,13,5710223.3544992,02,Baja California,439247.95034609234
+0,Mejoramientos,Hombre,Económica,5,861861.0,02,Baja California,172372.2
+0,Mejoramientos,Mujer,Económica,7,1714694.0,02,Baja California,244956.2857142857
+0,Otros programas,Hombre,Económica,53,16949356.8855424,02,Baja California,319799.1865196679
+0,Otros programas,Mujer,Económica,26,8568954.459448,02,Baja California,329575.1715172308
+0,Viviendas nuevas,Hombre,Popular,98,43010680.414392,02,Baja California,438884.49402440817
+0,Viviendas nuevas,Mujer,Popular,198,85380057.2070304,02,Baja California,431212.4101365172
+0,Viviendas existentes,Hombre,Popular,660,392701080.8196896,02,Baja California,595001.6376055903
+0,Viviendas existentes,Mujer,Popular,737,442877827.63456,02,Baja California,600919.7118515061
+0,Mejoramientos,Hombre,Popular,18,10129324.9374288,02,Baja California,562740.2743016001
+0,Mejoramientos,Mujer,Popular,4,2368166.8854944,02,Baja California,592041.7213736
+0,Otros programas,Hombre,Popular,166,91943037.0500448,02,Baja California,553873.7171689447
+0,Otros programas,Mujer,Popular,114,63531205.8500928,02,Baja California,557291.279386779
+0,Viviendas nuevas,Hombre,Tradicional,4922,3010002924.684048,02,Baja California,611540.6185867632
+0,Viviendas nuevas,Mujer,Tradicional,4798,2625674387.1082864,02,Baja California,547243.515445662
+0,Viviendas existentes,Hombre,Tradicional,5094,3317026250.561571,02,Baja California,651163.3785947332
+0,Viviendas existentes,Mujer,Tradicional,4727,2692795233.524101,02,Baja California,569662.6260892957
+0,Mejoramientos,Hombre,Tradicional,562,413078028.3619888,02,Baja California,735014.2853416171
+0,Mejoramientos,Mujer,Tradicional,382,232514017.1959008,02,Baja California,608675.4376856042
+0,Otros programas,Hombre,Tradicional,175,142467189.923672,02,Baja California,814098.2281352686
+0,Otros programas,Mujer,Tradicional,93,70275913.173008,02,Baja California,755654.9803549247
+0,Viviendas nuevas,Hombre,Media,4538,5028520691.910976,02,Baja California,1108091.8228098229
+0,Viviendas nuevas,Mujer,Media,3600,3403052475.932293,02,Baja California,945292.3544256369
+0,Viviendas existentes,Hombre,Media,4244,4613621151.169315,02,Baja California,1087092.636939047
+0,Viviendas existentes,Mujer,Media,3607,3265226723.8359537,02,Baja California,905247.2203592885
+0,Mejoramientos,Hombre,Media,72,102957503.4042992,02,Baja California,1429965.325059711
+0,Mejoramientos,Mujer,Media,50,58030944.4031088,02,Baja California,1160618.888062176
+0,Otros programas,Hombre,Media,265,288334336.460344,02,Baja California,1088054.0998503547
+0,Otros programas,Mujer,Media,145,153749551.0779584,02,Baja California,1060341.731572127
+0,Viviendas nuevas,Hombre,Residencial,2382,5097566293.448578,02,Baja California,2140036.227308387
+0,Viviendas nuevas,Mujer,Residencial,1608,3333449196.808848,02,Baja California,2073040.5452791343
+0,Viviendas existentes,Hombre,Residencial,801,1812188134.2133408,02,Baja California,2262407.158818153
+0,Viviendas existentes,Mujer,Residencial,584,1269456116.5011983,02,Baja California,2173726.2268856135
+0,Mejoramientos,Hombre,Residencial,23,78987995.516112,02,Baja California,3434260.674613565
+0,Mejoramientos,Mujer,Residencial,3,10793462.0435712,02,Baja California,3597820.6811904
+0,Otros programas,Hombre,Residencial,291,436941848.7625984,02,Baja California,1501518.380627486
+0,Otros programas,Mujer,Residencial,163,231764485.2472208,02,Baja California,1421868.0076516615
+0,Viviendas nuevas,Hombre,Residencial plus,1051,4335373943.519909,02,Baja California,4124998.9947858313
+0,Viviendas nuevas,Mujer,Residencial plus,521,2063459984.5907247,02,Baja California,3960575.7861626195
+0,Viviendas existentes,Hombre,Residencial plus,305,1487016230.8352065,02,Baja California,4875463.05191871
+0,Viviendas existentes,Mujer,Residencial plus,131,531996262.379552,02,Baja California,4061040.170836275
+0,Mejoramientos,Hombre,Residencial plus,3,17000000.0,02,Baja California,5666666.666666667
+0,Mejoramientos,Mujer,Residencial plus,3,22553365.0,02,Baja California,7517788.333333333
+0,Otros programas,Hombre,Residencial plus,283,999119482.0,02,Baja California,3530457.5335689047
+0,Otros programas,Mujer,Residencial plus,92,281031774.0,02,Baja California,3054693.195652174
+0,Mejoramientos,Hombre,,4911,25896342.53,03,Baja California Sur,5273.130223986968
+0,Mejoramientos,Mujer,,3921,53724107.4,03,Baja California Sur,13701.634123947972
+0,Viviendas nuevas,Hombre,Económica,107,30656719.37,03,Baja California Sur,286511.3959813084
+0,Viviendas nuevas,Mujer,Económica,499,125140484.23,03,Baja California Sur,250782.53352705413
+0,Viviendas existentes,Hombre,Económica,3,1011611.612656,03,Baja California Sur,337203.87088533334
+0,Viviendas existentes,Mujer,Económica,9,3271476.9471936,03,Baja California Sur,363497.43857706664
+0,Mejoramientos,Hombre,Económica,2,521222.0,03,Baja California Sur,260611.0
+0,Mejoramientos,Mujer,Económica,2,483371.0,03,Baja California Sur,241685.5
+0,Otros programas,Hombre,Económica,92,28473746.6541792,03,Baja California Sur,309497.24624107825
+0,Otros programas,Mujer,Económica,61,18979432.7481728,03,Baja California Sur,311138.2417733246
+0,Viviendas nuevas,Hombre,Popular,22,10951158.4700432,03,Baja California Sur,497779.93045650906
+0,Viviendas nuevas,Mujer,Popular,29,12183730.9514992,03,Baja California Sur,420128.6534999724
+0,Viviendas existentes,Hombre,Popular,189,108425289.966792,03,Baja California Sur,573678.7828930793
+0,Viviendas existentes,Mujer,Popular,190,108486113.377848,03,Baja California Sur,570979.5440939368
+0,Mejoramientos,Hombre,Popular,15,8686792.0226704,03,Baja California Sur,579119.4681780266
+0,Mejoramientos,Mujer,Popular,6,3976489.6478304,03,Baja California Sur,662748.2746384001
+0,Otros programas,Hombre,Popular,67,35621475.4052528,03,Baja California Sur,531663.8120186985
+0,Otros programas,Mujer,Popular,42,23314315.9571152,03,Baja California Sur,555102.7608836952
+0,Viviendas nuevas,Hombre,Tradicional,364,278365520.696752,03,Baja California Sur,764740.4414745935
+0,Viviendas nuevas,Mujer,Tradicional,325,233811965.6431136,03,Baja California Sur,719421.4327480419
+0,Viviendas existentes,Hombre,Tradicional,758,573467180.6310816,03,Baja California Sur,756553.0087481288
+0,Viviendas existentes,Mujer,Tradicional,660,465402612.471984,03,Baja California Sur,705155.4734424
+0,Mejoramientos,Hombre,Tradicional,10,8516707.1354448,03,Baja California Sur,851670.7135444799
+0,Mejoramientos,Mujer,Tradicional,15,13035302.3948192,03,Baja California Sur,869020.1596546134
+0,Otros programas,Hombre,Tradicional,76,62151588.86108,03,Baja California Sur,817784.0639615789
+0,Otros programas,Mujer,Tradicional,56,42216425.6944432,03,Baja California Sur,753864.7445436287
+0,Viviendas nuevas,Hombre,Media,701,865857828.59756,03,Baja California Sur,1235175.2191120686
+0,Viviendas nuevas,Mujer,Media,604,717467478.965912,03,Baja California Sur,1187860.0645130994
+0,Viviendas existentes,Hombre,Media,913,1115423704.39276,03,Baja California Sur,1221712.7101782695
+0,Viviendas existentes,Mujer,Media,820,934318375.2595104,03,Baja California Sur,1139412.6527555005
+0,Mejoramientos,Hombre,Media,26,37034826.582736,03,Baja California Sur,1424416.4070283077
+0,Mejoramientos,Mujer,Media,9,12715107.3541824,03,Baja California Sur,1412789.7060202667
+0,Otros programas,Hombre,Media,69,76309496.0140512,03,Baja California Sur,1105934.7248413218
+0,Otros programas,Mujer,Media,41,44897299.6774336,03,Baja California Sur,1095056.0896935025
+0,Viviendas nuevas,Hombre,Residencial,446,998158750.5715072,03,Baja California Sur,2238024.10442042
+0,Viviendas nuevas,Mujer,Residencial,376,835674080.053976,03,Baja California Sur,2222537.446952064
+0,Viviendas existentes,Hombre,Residencial,280,662184649.1898175,03,Baja California Sur,2364945.1756779198
+0,Viviendas existentes,Mujer,Residencial,189,407613867.1122736,03,Baja California Sur,2156687.1275781672
+0,Mejoramientos,Hombre,Residencial,10,33381914.25,03,Baja California Sur,3338191.425
+0,Mejoramientos,Mujer,Residencial,3,6618013.375632,03,Baja California Sur,2206004.458544
+0,Otros programas,Hombre,Residencial,80,143943263.5746832,03,Baja California Sur,1799290.7946835398
+0,Otros programas,Mujer,Residencial,39,58549100.0,03,Baja California Sur,1501258.9743589743
+0,Viviendas nuevas,Hombre,Residencial plus,250,1548662832.6860545,03,Baja California Sur,6194651.330744218
+0,Viviendas nuevas,Mujer,Residencial plus,139,636365679.910056,03,Baja California Sur,4578170.359065151
+0,Viviendas existentes,Hombre,Residencial plus,85,547454714.85,03,Baja California Sur,6440643.704117647
+0,Viviendas existentes,Mujer,Residencial plus,39,175129492.8876928,03,Baja California Sur,4490499.817633149
+0,Mejoramientos,Hombre,Residencial plus,2,12000000.0,03,Baja California Sur,6000000.0
+0,Otros programas,Hombre,Residencial plus,54,208049464.0,03,Baja California Sur,3852767.8518518517
+0,Otros programas,Mujer,Residencial plus,26,105856519.0,03,Baja California Sur,4071404.576923077
+0,Mejoramientos,Hombre,,6038,22599222.39,04,Campeche,3742.83245942365
+0,Mejoramientos,Mujer,,3109,24946658.48,04,Campeche,8024.0136635574145
+0,Otros programas,Hombre,,160,2160000.0,04,Campeche,13500.0
+0,Otros programas,Mujer,,248,3348000.0,04,Campeche,13500.0
+0,Viviendas nuevas,Hombre,Económica,283,57296868.75,04,Campeche,202462.43374558302
+0,Viviendas nuevas,Mujer,Económica,608,115271319.06,04,Campeche,189590.98529605265
+0,Viviendas existentes,Hombre,Económica,4,1592074.0195808,04,Campeche,398018.5048952
+0,Viviendas existentes,Mujer,Económica,3,1863132.8698368,04,Campeche,621044.2899456
+0,Mejoramientos,Hombre,Económica,11,1327689.0,04,Campeche,120699.0
+0,Mejoramientos,Mujer,Económica,9,1208419.0,04,Campeche,134268.77777777778
+0,Otros programas,Hombre,Económica,24,7192128.179568,04,Campeche,299672.007482
+0,Otros programas,Mujer,Económica,10,2866454.2043584,04,Campeche,286645.42043584
+0,Viviendas nuevas,Hombre,Popular,5,3235285.5196832,04,Campeche,647057.10393664
+0,Viviendas nuevas,Mujer,Popular,1,427917.0,04,Campeche,427917.0
+0,Viviendas existentes,Hombre,Popular,143,82861279.5410912,04,Campeche,579449.5072803581
+0,Viviendas existentes,Mujer,Popular,102,56052881.245024,04,Campeche,549538.051421804
+0,Mejoramientos,Hombre,Popular,1,400000.0,04,Campeche,400000.0
+0,Mejoramientos,Mujer,Popular,1,578854.6814032,04,Campeche,578854.6814032
+0,Otros programas,Hombre,Popular,21,10578778.9624368,04,Campeche,503751.3791636572
+0,Otros programas,Mujer,Popular,23,12078771.3021952,04,Campeche,525163.969660661
+0,Viviendas nuevas,Hombre,Tradicional,69,49744802.9281904,04,Campeche,720939.1728723247
+0,Viviendas nuevas,Mujer,Tradicional,72,48863239.1140576,04,Campeche,678656.0988063556
+0,Viviendas existentes,Hombre,Tradicional,852,596322698.8900992,04,Campeche,699909.270997769
+0,Viviendas existentes,Mujer,Tradicional,782,529059541.0373504,04,Campeche,676546.727669246
+0,Mejoramientos,Hombre,Tradicional,7,6054777.37972,04,Campeche,864968.197102857
+0,Mejoramientos,Mujer,Tradicional,3,1865567.290776,04,Campeche,621855.763592
+0,Otros programas,Hombre,Tradicional,30,21492202.4324704,04,Campeche,716406.7477490134
+0,Otros programas,Mujer,Tradicional,12,8921012.7069888,04,Campeche,743417.7255824
+0,Viviendas nuevas,Hombre,Media,100,124778180.2679648,04,Campeche,1247781.802679648
+0,Viviendas nuevas,Mujer,Media,70,77208000.5240064,04,Campeche,1102971.4360572342
+0,Viviendas existentes,Hombre,Media,703,870385781.0718688,04,Campeche,1238102.1067878646
+0,Viviendas existentes,Mujer,Media,573,647376147.996568,04,Campeche,1129801.3054041325
+0,Mejoramientos,Hombre,Media,2,3180000.0,04,Campeche,1590000.0
+0,Mejoramientos,Mujer,Media,1,1316515.5139472,04,Campeche,1316515.5139472
+0,Otros programas,Hombre,Media,37,36983602.1753328,04,Campeche,999556.8155495351
+0,Otros programas,Mujer,Media,27,25310296.5432048,04,Campeche,937418.3904890666
+0,Viviendas nuevas,Hombre,Residencial,52,97564047.14212,04,Campeche,1876231.6758100002
+0,Viviendas nuevas,Mujer,Residencial,35,73338549.7294992,04,Campeche,2095387.1351285488
+0,Viviendas existentes,Hombre,Residencial,115,281220579.9554464,04,Campeche,2445396.3474386646
+0,Viviendas existentes,Mujer,Residencial,77,170881414.47108,04,Campeche,2219239.148975065
+0,Mejoramientos,Hombre,Residencial,2,6064800.0,04,Campeche,3032400.0
+0,Otros programas,Hombre,Residencial,25,38056530.0,04,Campeche,1522261.2
+0,Otros programas,Mujer,Residencial,8,13422166.0,04,Campeche,1677770.75
+0,Viviendas nuevas,Hombre,Residencial plus,7,31598696.0,04,Campeche,4514099.428571428
+0,Viviendas nuevas,Mujer,Residencial plus,7,20838638.0,04,Campeche,2976948.285714286
+0,Viviendas existentes,Hombre,Residencial plus,11,57721878.9256544,04,Campeche,5247443.538695854
+0,Viviendas existentes,Mujer,Residencial plus,6,22012614.8412,04,Campeche,3668769.1402000003
+0,Otros programas,Hombre,Residencial plus,15,39534570.0,04,Campeche,2635638.0
+0,Otros programas,Mujer,Residencial plus,3,5705074.0,04,Campeche,1901691.3333333333
+0,Mejoramientos,Hombre,,13330,28194427.0,05,Coahuila,2115.1108027006753
+0,Mejoramientos,Mujer,,8598,35888273.0,05,Coahuila,4174.025703652012
+0,Otros programas,Hombre,,32,432000.0,05,Coahuila,13500.0
+0,Otros programas,Mujer,,42,567000.0,05,Coahuila,13500.0
+0,Viviendas nuevas,Hombre,Económica,175,28061468.514,05,Coahuila,160351.24865142856
+0,Viviendas nuevas,Mujer,Económica,491,80048145.34,05,Coahuila,163030.84590631365
+0,Viviendas existentes,Hombre,Económica,19,6370244.0256912,05,Coahuila,335276.00135216845
+0,Viviendas existentes,Mujer,Económica,15,5794384.3877648,05,Coahuila,386292.2925176534
+0,Mejoramientos,Hombre,Económica,34,4534873.0,05,Coahuila,133378.61764705883
+0,Mejoramientos,Mujer,Económica,26,4363154.57,05,Coahuila,167813.63730769232
+0,Otros programas,Hombre,Económica,120,37798588.0763088,05,Coahuila,314988.23396924004
+0,Otros programas,Mujer,Económica,28,8376842.2684224,05,Coahuila,299172.93815794284
+0,Viviendas nuevas,Hombre,Popular,2305,1378867283.7421951,05,Coahuila,598207.0645302365
+0,Viviendas nuevas,Mujer,Popular,2205,1305952256.319291,05,Coahuila,592268.5969702001
+0,Viviendas existentes,Hombre,Popular,3526,2051653471.633664,05,Coahuila,581864.2857724514
+0,Viviendas existentes,Mujer,Popular,3280,1865068701.9556031,05,Coahuila,568618.5066937815
+0,Mejoramientos,Hombre,Popular,52,29766240.3760096,05,Coahuila,572427.6995386461
+0,Mejoramientos,Mujer,Popular,58,32651577.8179168,05,Coahuila,562958.2382399448
+0,Otros programas,Hombre,Popular,144,78146709.6025632,05,Coahuila,542685.4833511333
+0,Otros programas,Mujer,Popular,49,24910160.6597968,05,Coahuila,508370.62571013876
+0,Viviendas nuevas,Hombre,Tradicional,3783,2491544179.6984143,05,Coahuila,658615.960797889
+0,Viviendas nuevas,Mujer,Tradicional,2985,1658694227.1226864,05,Coahuila,555676.4579975499
+0,Viviendas existentes,Hombre,Tradicional,6849,4822130795.495349,05,Coahuila,704063.4830625418
+0,Viviendas existentes,Mujer,Tradicional,4937,2911205562.4537663,05,Coahuila,589670.9666708055
+0,Mejoramientos,Hombre,Tradicional,78,53245104.905016,05,Coahuila,682629.5500643076
+0,Mejoramientos,Mujer,Tradicional,46,30157195.2401024,05,Coahuila,655591.2008717913
+0,Otros programas,Hombre,Tradicional,163,124016078.3184352,05,Coahuila,760834.8363094184
+0,Otros programas,Mujer,Tradicional,71,57124398.7740768,05,Coahuila,804568.9968179831
+0,Viviendas nuevas,Hombre,Media,5075,5825338102.599395,05,Coahuila,1147849.8724333784
+0,Viviendas nuevas,Mujer,Media,3480,3507057347.3523984,05,Coahuila,1007775.0998139076
+0,Viviendas existentes,Hombre,Media,3370,3795224585.4698286,05,Coahuila,1126179.4022165663
+0,Viviendas existentes,Mujer,Media,2338,2171424130.537056,05,Coahuila,928752.8359867648
+0,Mejoramientos,Hombre,Media,41,66239049.8221104,05,Coahuila,1615586.5810270829
+0,Mejoramientos,Mujer,Media,13,19736413.0023184,05,Coahuila,1518185.615562954
+0,Otros programas,Hombre,Media,360,464225628.3361248,05,Coahuila,1289515.6342670133
+0,Otros programas,Mujer,Media,142,178903821.7529792,05,Coahuila,1259886.068682952
+0,Viviendas nuevas,Hombre,Residencial,1973,3661808609.935816,05,Coahuila,1855959.761751554
+0,Viviendas nuevas,Mujer,Residencial,1082,1935380355.3130271,05,Coahuila,1788706.4282005797
+0,Viviendas existentes,Hombre,Residencial,607,1382993242.1325855,05,Coahuila,2278407.318175594
+0,Viviendas existentes,Mujer,Residencial,363,760168997.5652544,05,Coahuila,2094129.469876734
+0,Mejoramientos,Hombre,Residencial,11,37507846.1384688,05,Coahuila,3409804.1944062547
+0,Mejoramientos,Mujer,Residencial,5,17142900.0,05,Coahuila,3428580.0
+0,Otros programas,Hombre,Residencial,218,362801810.9644992,05,Coahuila,1664228.4906628402
+0,Otros programas,Mujer,Residencial,86,157979437.9843264,05,Coahuila,1836970.2091200743
+0,Viviendas nuevas,Hombre,Residencial plus,457,1959539014.1495695,05,Coahuila,4287831.540808686
+0,Viviendas nuevas,Mujer,Residencial plus,201,823981275.012384,05,Coahuila,4099409.3284198213
+0,Viviendas existentes,Hombre,Residencial plus,201,1119954125.549744,05,Coahuila,5571911.072386785
+0,Viviendas existentes,Mujer,Residencial plus,84,432873572.5270672,05,Coahuila,5153256.815798419
+0,Mejoramientos,Hombre,Residencial plus,5,35517400.0,05,Coahuila,7103480.0
+0,Mejoramientos,Mujer,Residencial plus,1,6631000.0,05,Coahuila,6631000.0
+0,Otros programas,Hombre,Residencial plus,132,426984081.3839472,05,Coahuila,3234727.889272327
+0,Otros programas,Mujer,Residencial plus,44,159956249.0,05,Coahuila,3635369.2954545454
+0,Mejoramientos,Hombre,,2189,36280901.0,06,Colima,16574.18958428506
+0,Mejoramientos,Mujer,,2257,54817140.0,06,Colima,24287.61187416925
+0,Otros programas,Hombre,,1,13500.0,06,Colima,13500.0
+0,Otros programas,Mujer,,1,13500.0,06,Colima,13500.0
+0,Viviendas nuevas,Hombre,Económica,129,24606354.77,06,Colima,190746.9362015504
+0,Viviendas nuevas,Mujer,Económica,530,102696816.35,06,Colima,193767.5780188679
+0,Viviendas existentes,Hombre,Económica,15,5470921.7798272,06,Colima,364728.1186551467
+0,Viviendas existentes,Mujer,Económica,15,5285350.8245296,06,Colima,352356.72163530666
+0,Mejoramientos,Hombre,Económica,4,639352.0,06,Colima,159838.0
+0,Mejoramientos,Mujer,Económica,2,240483.0,06,Colima,120241.5
+0,Otros programas,Hombre,Económica,108,32319336.3258512,06,Colima,299253.11412825185
+0,Otros programas,Mujer,Económica,80,21935044.806296,06,Colima,274188.06007869996
+0,Viviendas nuevas,Hombre,Popular,467,275581574.4167216,06,Colima,590110.4377231726
+0,Viviendas nuevas,Mujer,Popular,448,256609591.5686864,06,Colima,572789.2668943893
+0,Viviendas existentes,Hombre,Popular,596,342775673.4266592,06,Colima,575126.9688366766
+0,Viviendas existentes,Mujer,Popular,653,370333169.1251728,06,Colima,567125.8332697899
+0,Mejoramientos,Hombre,Popular,6,3395839.2134112,06,Colima,565973.2022352
+0,Mejoramientos,Mujer,Popular,4,2215166.2919472,06,Colima,553791.5729868
+0,Otros programas,Hombre,Popular,125,63820766.9292688,06,Colima,510566.1354341504
+0,Otros programas,Mujer,Popular,72,34755510.8148608,06,Colima,482715.4279841778
+0,Viviendas nuevas,Hombre,Tradicional,1165,780243885.6610048,06,Colima,669737.2409107337
+0,Viviendas nuevas,Mujer,Tradicional,1136,688626671.9674032,06,Colima,606185.4506755309
+0,Viviendas existentes,Hombre,Tradicional,1263,860824001.406992,06,Colima,681570.8641385526
+0,Viviendas existentes,Mujer,Tradicional,1153,715143991.336208,06,Colima,620246.3064494432
+0,Mejoramientos,Hombre,Tradicional,5,3813759.1039168,06,Colima,762751.82078336
+0,Mejoramientos,Mujer,Tradicional,4,3318845.7419472,06,Colima,829711.4354868
+0,Otros programas,Hombre,Tradicional,103,74479997.0450048,06,Colima,723106.7674272311
+0,Otros programas,Mujer,Tradicional,76,47618195.934176,06,Colima,626555.2096602105
+0,Viviendas nuevas,Hombre,Media,746,869861260.5448112,06,Colima,1166033.8613201224
+0,Viviendas nuevas,Mujer,Media,721,761112549.7746048,06,Colima,1055634.604403058
+0,Viviendas existentes,Hombre,Media,610,702733857.8244385,06,Colima,1152022.7177449812
+0,Viviendas existentes,Mujer,Media,499,515444559.5590064,06,Colima,1032955.0291763655
+0,Mejoramientos,Hombre,Media,7,12157708.0851488,06,Colima,1736815.440735543
+0,Mejoramientos,Mujer,Media,3,2940253.3296624,06,Colima,980084.4432207999
+0,Otros programas,Hombre,Media,134,158290719.3572128,06,Colima,1181274.0250538269
+0,Otros programas,Mujer,Media,88,88579465.556904,06,Colima,1006584.8358739092
+0,Viviendas nuevas,Hombre,Residencial,279,560149418.167744,06,Colima,2007704.007769692
+0,Viviendas nuevas,Mujer,Residencial,179,351981140.376296,06,Colima,1966375.0859010948
+0,Viviendas existentes,Hombre,Residencial,122,290450735.752,06,Colima,2380743.7356721307
+0,Viviendas existentes,Mujer,Residencial,68,135165812.3353168,06,Colima,1987732.5343428943
+0,Mejoramientos,Hombre,Residencial,2,6314502.0,06,Colima,3157251.0
+0,Otros programas,Hombre,Residencial,72,113702837.2243136,06,Colima,1579206.072559911
+0,Otros programas,Mujer,Residencial,28,50717809.668,06,Colima,1811350.3452857141
+0,Viviendas nuevas,Hombre,Residencial plus,66,285276664.0,06,Colima,4322373.696969697
+0,Viviendas nuevas,Mujer,Residencial plus,25,118701893.0,06,Colima,4748075.72
+0,Viviendas existentes,Hombre,Residencial plus,42,246973875.0,06,Colima,5880330.357142857
+0,Viviendas existentes,Mujer,Residencial plus,20,102800923.0,06,Colima,5140046.15
+0,Otros programas,Hombre,Residencial plus,39,143199888.0,06,Colima,3671792.0
+0,Otros programas,Mujer,Residencial plus,15,79300112.0,06,Colima,5286674.133333334
+0,Viviendas nuevas,Hombre,,11,2654154.84,07,Chiapas,241286.80363636362
+0,Viviendas nuevas,Mujer,,9,2672469.24,07,Chiapas,296941.0266666667
+0,Mejoramientos,Hombre,,17172,156795542.31,07,Chiapas,9130.884131726067
+0,Mejoramientos,Mujer,,17030,228191595.96,07,Chiapas,13399.389075748679
+0,Otros programas,Hombre,,119,1606500.0,07,Chiapas,13500.0
+0,Otros programas,Mujer,,185,2497500.0,07,Chiapas,13500.0
+0,Viviendas nuevas,Hombre,Económica,1347,202118275.02,07,Chiapas,150050.6867260579
+0,Viviendas nuevas,Mujer,Económica,2953,464001494.3,07,Chiapas,157128.85008465967
+0,Viviendas existentes,Hombre,Económica,5,1843603.5068064,07,Chiapas,368720.70136128
+0,Viviendas existentes,Mujer,Económica,1,700000.0,07,Chiapas,700000.0
+0,Mejoramientos,Hombre,Económica,2,463661.69,07,Chiapas,231830.845
+0,Mejoramientos,Mujer,Económica,4,1179900.0,07,Chiapas,294975.0
+0,Otros programas,Hombre,Económica,39,12383366.8230752,07,Chiapas,317522.22623269743
+0,Otros programas,Mujer,Económica,27,8952505.2713024,07,Chiapas,331574.2693074963
+0,Viviendas nuevas,Hombre,Popular,431,184188577.1528992,07,Chiapas,427351.68712969654
+0,Viviendas nuevas,Mujer,Popular,1129,473897387.0040592,07,Chiapas,419749.6784801233
+0,Viviendas existentes,Hombre,Popular,706,392044970.5394016,07,Chiapas,555304.4908490108
+0,Viviendas existentes,Mujer,Popular,520,287190135.6671744,07,Chiapas,552288.7224368738
+0,Mejoramientos,Hombre,Popular,85,48172462.463304,07,Chiapas,566734.8525094588
+0,Mejoramientos,Mujer,Popular,50,28117623.0284032,07,Chiapas,562352.460568064
+0,Otros programas,Hombre,Popular,121,61239012.4367712,07,Chiapas,506107.54079976195
+0,Otros programas,Mujer,Popular,74,34176384.738496,07,Chiapas,461843.0370067027
+0,Viviendas nuevas,Hombre,Tradicional,648,487741411.2852416,07,Chiapas,752687.3630945086
+0,Viviendas nuevas,Mujer,Tradicional,769,597353358.5655088,07,Chiapas,776792.4038563184
+0,Viviendas existentes,Hombre,Tradicional,1304,945342199.2513536,07,Chiapas,724955.6742725105
+0,Viviendas existentes,Mujer,Tradicional,1339,968955846.469544,07,Chiapas,723641.4088644839
+0,Mejoramientos,Hombre,Tradicional,67,47008055.9015648,07,Chiapas,701612.7746502209
+0,Mejoramientos,Mujer,Tradicional,67,45286363.8174304,07,Chiapas,675915.8778720956
+0,Otros programas,Hombre,Tradicional,50,36236044.39612,07,Chiapas,724720.8879223999
+0,Otros programas,Mujer,Tradicional,35,26249051.6269968,07,Chiapas,749972.90362848
+0,Viviendas nuevas,Hombre,Media,528,707590567.701576,07,Chiapas,1340133.6509499545
+0,Viviendas nuevas,Mujer,Media,421,531695486.1155312,07,Chiapas,1262934.646355181
+0,Viviendas existentes,Hombre,Media,1131,1322106503.5397184,07,Chiapas,1168971.2674975407
+0,Viviendas existentes,Mujer,Media,1159,1332870853.0403087,07,Chiapas,1150017.9922694638
+0,Mejoramientos,Hombre,Media,14,17532632.1247136,07,Chiapas,1252330.8660509714
+0,Mejoramientos,Mujer,Media,11,12081479.3243616,07,Chiapas,1098316.302214691
+0,Otros programas,Hombre,Media,64,65861557.700912,07,Chiapas,1029086.83907675
+0,Otros programas,Mujer,Media,54,56897984.9187344,07,Chiapas,1053666.3873839704
+0,Viviendas nuevas,Hombre,Residencial,143,330900720.5373264,07,Chiapas,2313991.052708576
+0,Viviendas nuevas,Mujer,Residencial,112,245405269.8604304,07,Chiapas,2191118.4808966997
+0,Viviendas existentes,Hombre,Residencial,158,321532331.1620896,07,Chiapas,2035014.7541904405
+0,Viviendas existentes,Mujer,Residencial,118,236859822.3630288,07,Chiapas,2007286.6301951592
+0,Mejoramientos,Hombre,Residencial,4,14176100.0,07,Chiapas,3544025.0
+0,Otros programas,Hombre,Residencial,44,55480205.6422176,07,Chiapas,1260913.7645958546
+0,Otros programas,Mujer,Residencial,34,47851884.0,07,Chiapas,1407408.3529411764
+0,Viviendas nuevas,Hombre,Residencial plus,32,164754677.0,07,Chiapas,5148583.65625
+0,Viviendas nuevas,Mujer,Residencial plus,14,71743861.0,07,Chiapas,5124561.5
+0,Viviendas existentes,Hombre,Residencial plus,40,171270120.08,07,Chiapas,4281753.002
+0,Viviendas existentes,Mujer,Residencial plus,17,66406814.2880544,07,Chiapas,3906283.1934149647
+0,Otros programas,Hombre,Residencial plus,40,149607340.0,07,Chiapas,3740183.5
+0,Otros programas,Mujer,Residencial plus,6,18169963.0,07,Chiapas,3028327.1666666665
+0,Mejoramientos,Hombre,,22561,28608139.82,08,Chihuahua,1268.035096848544
+0,Mejoramientos,Mujer,,17347,40866914.51,08,Chihuahua,2355.849109932553
+0,Otros programas,Hombre,,13,175500.0,08,Chihuahua,13500.0
+0,Otros programas,Mujer,,19,256500.0,08,Chihuahua,13500.0
+0,Viviendas nuevas,Hombre,Económica,389,36942402.68,08,Chihuahua,94967.61614395886
+0,Viviendas nuevas,Mujer,Económica,1242,118218765.01,08,Chihuahua,95184.19082930757
+0,Viviendas existentes,Hombre,Económica,192,110375125.7993072,08,Chihuahua,574870.4468713916
+0,Viviendas existentes,Mujer,Económica,190,104842049.505712,08,Chihuahua,551800.260556379
+0,Mejoramientos,Hombre,Económica,65,8018208.0,08,Chihuahua,123357.04615384615
+0,Mejoramientos,Mujer,Económica,40,5134222.56,08,Chihuahua,128355.56399999998
+0,Otros programas,Hombre,Económica,69,20385001.7049632,08,Chihuahua,295434.8073183072
+0,Otros programas,Mujer,Económica,37,11190946.0914592,08,Chihuahua,302458.0024718703
+0,Viviendas nuevas,Hombre,Popular,744,442649951.3826192,08,Chihuahua,594959.6120734129
+0,Viviendas nuevas,Mujer,Popular,818,475099082.4926064,08,Chihuahua,580805.7243185898
+0,Viviendas existentes,Hombre,Popular,2472,1417439049.2427585,08,Chihuahua,573397.6736418926
+0,Viviendas existentes,Mujer,Popular,2769,1563851332.242947,08,Chihuahua,564771.1564618805
+0,Mejoramientos,Hombre,Popular,59,33523197.6209056,08,Chihuahua,568189.7901848407
+0,Mejoramientos,Mujer,Popular,57,32100588.7575872,08,Chihuahua,563168.2238173193
+0,Otros programas,Hombre,Popular,93,46863564.8936592,08,Chihuahua,503909.2999318193
+0,Otros programas,Mujer,Popular,60,29057529.6320624,08,Chihuahua,484292.16053437337
+0,Viviendas nuevas,Hombre,Tradicional,4084,2530299775.034688,08,Chihuahua,619564.0977068286
+0,Viviendas nuevas,Mujer,Tradicional,3882,2139688913.0685632,08,Chihuahua,551182.1002237411
+0,Viviendas existentes,Hombre,Tradicional,7829,4952602158.750728,08,Chihuahua,632597.0313897979
+0,Viviendas existentes,Mujer,Tradicional,7542,4220592378.488245,08,Chihuahua,559611.8242493032
+0,Mejoramientos,Hombre,Tradicional,64,40888800.554072,08,Chihuahua,638887.508657375
+0,Mejoramientos,Mujer,Tradicional,51,31019196.2062928,08,Chihuahua,608219.5334567216
+0,Otros programas,Hombre,Tradicional,122,94939493.3592656,08,Chihuahua,778192.5685185705
+0,Otros programas,Mujer,Tradicional,61,43059336.664136,08,Chihuahua,705890.7649858361
+0,Viviendas nuevas,Hombre,Media,3765,4141344593.0035872,08,Chihuahua,1099958.7232413245
+0,Viviendas nuevas,Mujer,Media,2973,2828051365.613144,08,Chihuahua,951244.9934790259
+0,Viviendas existentes,Hombre,Media,5141,5207967959.707167,08,Chihuahua,1013026.2516450431
+0,Viviendas existentes,Mujer,Media,4655,4007606169.8373666,08,Chihuahua,860925.0633377802
+0,Mejoramientos,Hombre,Media,30,44315831.554064,08,Chihuahua,1477194.3851354667
+0,Mejoramientos,Mujer,Media,24,35108434.3649392,08,Chihuahua,1462851.4318724666
+0,Otros programas,Hombre,Media,317,355956773.726224,08,Chihuahua,1122892.0306820946
+0,Otros programas,Mujer,Media,209,226606088.2187184,08,Chihuahua,1084239.656548892
+0,Viviendas nuevas,Hombre,Residencial,2454,4576910580.331888,08,Chihuahua,1865081.736076564
+0,Viviendas nuevas,Mujer,Residencial,1619,2824772813.666899,08,Chihuahua,1744763.9367924023
+0,Viviendas existentes,Hombre,Residencial,898,1987602716.5736897,08,Chihuahua,2213366.0540909683
+0,Viviendas existentes,Mujer,Residencial,594,1234493902.9050736,08,Chihuahua,2078272.5638132554
+0,Mejoramientos,Hombre,Residencial,8,28396236.362,08,Chihuahua,3549529.54525
+0,Mejoramientos,Mujer,Residencial,8,25750650.7257648,08,Chihuahua,3218831.3407206
+0,Otros programas,Hombre,Residencial,325,531569944.91976,08,Chihuahua,1635599.8305223384
+0,Otros programas,Mujer,Residencial,163,244426191.3359648,08,Chihuahua,1499547.1861102134
+0,Viviendas nuevas,Hombre,Residencial plus,566,2324407621.55953,08,Chihuahua,4106727.2465716074
+0,Viviendas nuevas,Mujer,Residencial plus,262,1045619216.9434336,08,Chihuahua,3990913.0417688307
+0,Viviendas existentes,Hombre,Residencial plus,232,1338753648.3204064,08,Chihuahua,5770489.863450028
+0,Viviendas existentes,Mujer,Residencial plus,112,530336730.140872,08,Chihuahua,4735149.376257786
+0,Mejoramientos,Hombre,Residencial plus,9,75514999.0,08,Chihuahua,8390555.444444444
+0,Mejoramientos,Mujer,Residencial plus,2,12628750.0,08,Chihuahua,6314375.0
+0,Otros programas,Hombre,Residencial plus,188,810614258.0,08,Chihuahua,4311777.968085106
+0,Otros programas,Mujer,Residencial plus,62,210948558.82,08,Chihuahua,3402396.11
+0,Mejoramientos,Hombre,,23437,85561358.97,09,Ciudad de México,3650.6958642317704
+0,Mejoramientos,Mujer,,14524,56059261.51,09,Ciudad de México,3859.767385706417
+0,Viviendas nuevas,Hombre,Económica,23,2422553.0,09,Ciudad de México,105328.39130434782
+0,Viviendas nuevas,Mujer,Económica,14,1290338.0,09,Ciudad de México,92167.0
+0,Viviendas existentes,Hombre,Económica,2,756571.2768192,09,Ciudad de México,378285.6384096
+0,Viviendas existentes,Mujer,Económica,1,342952.1119472,09,Ciudad de México,342952.1119472
+0,Mejoramientos,Hombre,Económica,94,8481365.29,09,Ciudad de México,90227.29031914893
+0,Mejoramientos,Mujer,Económica,61,5035714.12,09,Ciudad de México,82552.69049180328
+0,Otros programas,Hombre,Económica,31,8228186.814,09,Ciudad de México,265425.3810967742
+0,Otros programas,Mujer,Económica,25,5847231.8530688,09,Ciudad de México,233889.274122752
+0,Viviendas nuevas,Hombre,Popular,10,3647500.004,09,Ciudad de México,364750.0004
+0,Viviendas nuevas,Mujer,Popular,8,2445267.0,09,Ciudad de México,305658.375
+0,Viviendas existentes,Hombre,Popular,62,34549718.5706928,09,Ciudad de México,557253.5253337548
+0,Viviendas existentes,Mujer,Popular,63,40095667.386872,09,Ciudad de México,636439.1648709842
+0,Mejoramientos,Hombre,Popular,12,6469978.0,09,Ciudad de México,539164.8333333334
+0,Mejoramientos,Mujer,Popular,5,3153496.0,09,Ciudad de México,630699.2
+0,Otros programas,Hombre,Popular,46,24534753.4029648,09,Ciudad de México,533364.2044122783
+0,Otros programas,Mujer,Popular,36,19016119.4872288,09,Ciudad de México,528225.5413119111
+0,Viviendas nuevas,Hombre,Tradicional,100,65056366.9219344,09,Ciudad de México,650563.669219344
+0,Viviendas nuevas,Mujer,Tradicional,140,87635701.2303344,09,Ciudad de México,625969.2945023886
+0,Viviendas existentes,Hombre,Tradicional,1137,821091652.4625056,09,Ciudad de México,722156.2466688703
+0,Viviendas existentes,Mujer,Tradicional,1176,859242295.1161696,09,Ciudad de México,730648.2101327972
+0,Mejoramientos,Hombre,Tradicional,20,17659795.0,09,Ciudad de México,882989.75
+0,Mejoramientos,Mujer,Tradicional,10,8347809.21,09,Ciudad de México,834780.921
+0,Otros programas,Hombre,Tradicional,57,47806903.7582208,09,Ciudad de México,838717.6097933473
+0,Otros programas,Mujer,Tradicional,58,43363159.136176,09,Ciudad de México,747640.6747616552
+0,Viviendas nuevas,Hombre,Media,3850,4443842938.496709,09,Ciudad de México,1154244.9190900542
+0,Viviendas nuevas,Mujer,Media,3824,4163651384.071274,09,Ciudad de México,1088820.9686378853
+0,Viviendas existentes,Hombre,Media,5125,6358990599.311789,09,Ciudad de México,1240778.6535242514
+0,Viviendas existentes,Mujer,Media,5430,6388300776.037046,09,Ciudad de México,1176482.6475206348
+0,Mejoramientos,Hombre,Media,42,77051910.0,09,Ciudad de México,1834569.2857142857
+0,Mejoramientos,Mujer,Media,19,36256531.0,09,Ciudad de México,1908238.4736842106
+0,Otros programas,Hombre,Media,361,396335672.2932048,09,Ciudad de México,1097882.7487346393
+0,Otros programas,Mujer,Media,328,313683404.6504208,09,Ciudad de México,956351.8434464048
+0,Viviendas nuevas,Hombre,Residencial,6288,11079929275.201406,09,Ciudad de México,1762075.2664124374
+0,Viviendas nuevas,Mujer,Residencial,5601,9304084657.682207,09,Ciudad de México,1661147.0554690603
+0,Viviendas existentes,Hombre,Residencial,4719,9585405300.654278,09,Ciudad de México,2031236.5544933837
+0,Viviendas existentes,Mujer,Residencial,4273,8135403785.926656,09,Ciudad de México,1903909.1471862055
+0,Mejoramientos,Hombre,Residencial,34,117369153.0,09,Ciudad de México,3452033.911764706
+0,Mejoramientos,Mujer,Residencial,17,60304378.0,09,Ciudad de México,3547316.3529411764
+0,Otros programas,Hombre,Residencial,527,945893445.2873472,09,Ciudad de México,1794864.222556636
+0,Otros programas,Mujer,Residencial,376,678910633.7640576,09,Ciudad de México,1805613.387670366
+0,Viviendas nuevas,Hombre,Residencial plus,3238,13107890910.075905,09,Ciudad de México,4048144.197058649
+0,Viviendas nuevas,Mujer,Residencial plus,2036,7062388781.015133,09,Ciudad de México,3468756.76867148
+0,Viviendas existentes,Hombre,Residencial plus,3454,18677432942.687943,09,Ciudad de México,5407479.138010406
+0,Viviendas existentes,Mujer,Residencial plus,2010,8362496367.669661,09,Ciudad de México,4160445.954064508
+0,Mejoramientos,Hombre,Residencial plus,13,118782305.0,09,Ciudad de México,9137100.384615384
+0,Mejoramientos,Mujer,Residencial plus,8,53852750.0,09,Ciudad de México,6731593.75
+0,Otros programas,Hombre,Residencial plus,789,4591919823.23,09,Ciudad de México,5819923.73032953
+0,Otros programas,Mujer,Residencial plus,380,1416215006.0,09,Ciudad de México,3726881.594736842
+0,Mejoramientos,Hombre,,7887,43812436.25,10,Durango,5555.019177126917
+0,Mejoramientos,Mujer,,6972,81125308.24,10,Durango,11635.873241537578
+0,Viviendas nuevas,Hombre,Económica,164,22331766.45,10,Durango,136169.30762195121
+0,Viviendas nuevas,Mujer,Económica,491,73932552.81,10,Durango,150575.46397148678
+0,Viviendas existentes,Hombre,Económica,5,2403899.4003424,10,Durango,480779.88006848004
+0,Viviendas existentes,Mujer,Económica,4,1602806.1018944,10,Durango,400701.5254736
+0,Mejoramientos,Hombre,Económica,4,693501.0798944,10,Durango,173375.2699736
+0,Mejoramientos,Mujer,Económica,3,883823.5019472,10,Durango,294607.8339824
+0,Otros programas,Hombre,Económica,88,26829531.812128,10,Durango,304881.0433196364
+0,Otros programas,Mujer,Económica,63,18393857.6750032,10,Durango,291965.9948413207
+0,Viviendas nuevas,Hombre,Popular,632,369068891.7466304,10,Durango,583969.7654218836
+0,Viviendas nuevas,Mujer,Popular,559,311803050.4564448,10,Durango,557787.2101188637
+0,Viviendas existentes,Hombre,Popular,2033,1162317030.4649007,10,Durango,571725.0518764883
+0,Viviendas existentes,Mujer,Popular,1727,972357496.3823664,10,Durango,563032.7135972012
+0,Mejoramientos,Hombre,Popular,678,372774834.3261216,10,Durango,549815.3898615363
+0,Mejoramientos,Mujer,Popular,668,353674651.0726592,10,Durango,529453.0704680526
+0,Otros programas,Hombre,Popular,262,172492127.4666832,10,Durango,658366.8987277985
+0,Otros programas,Mujer,Popular,168,100985123.8247136,10,Durango,601101.9275280571
+0,Viviendas nuevas,Hombre,Tradicional,722,486022901.7397504,10,Durango,673161.9137669672
+0,Viviendas nuevas,Mujer,Tradicional,643,406455789.8529664,10,Durango,632124.0899735092
+0,Viviendas existentes,Hombre,Tradicional,2430,1574397837.041024,10,Durango,647900.3444613267
+0,Viviendas existentes,Mujer,Tradicional,1887,1075509942.6285071,10,Durango,569957.5742599402
+0,Mejoramientos,Hombre,Tradicional,361,242327881.4270768,10,Durango,671268.3696040908
+0,Mejoramientos,Mujer,Tradicional,233,131305016.3802416,10,Durango,563540.842833655
+0,Otros programas,Hombre,Tradicional,114,97116812.9413664,10,Durango,851901.8679067228
+0,Otros programas,Mujer,Tradicional,65,52931169.1664016,10,Durango,814325.6794831016
+0,Viviendas nuevas,Hombre,Media,789,869232941.0748304,10,Durango,1101689.4056715213
+0,Viviendas nuevas,Mujer,Media,583,611528153.8103104,10,Durango,1048933.368456793
+0,Viviendas existentes,Hombre,Media,865,950593985.2569872,10,Durango,1098952.584112124
+0,Viviendas existentes,Mujer,Media,646,611605214.54672,10,Durango,946757.2980599381
+0,Mejoramientos,Hombre,Media,60,61219272.3411728,10,Durango,1020321.2056862133
+0,Mejoramientos,Mujer,Media,41,36256851.3514912,10,Durango,884313.4475973463
+0,Otros programas,Hombre,Media,80,83259472.0353792,10,Durango,1040743.4004422401
+0,Otros programas,Mujer,Media,59,70991179.5936528,10,Durango,1203240.3320958102
+0,Viviendas nuevas,Hombre,Residencial,301,636335829.0679536,10,Durango,2114072.5218204437
+0,Viviendas nuevas,Mujer,Residencial,181,355560194.4358016,10,Durango,1964420.9637337106
+0,Viviendas existentes,Hombre,Residencial,123,281108461.949344,10,Durango,2285434.6499946667
+0,Viviendas existentes,Mujer,Residencial,72,132723210.190624,10,Durango,1843377.9193142222
+0,Mejoramientos,Hombre,Residencial,5,20136800.0,10,Durango,4027360.0
+0,Otros programas,Hombre,Residencial,47,81444024.394,10,Durango,1732851.5828510637
+0,Otros programas,Mujer,Residencial,30,49391088.8461088,10,Durango,1646369.6282036267
+0,Viviendas nuevas,Hombre,Residencial plus,53,253295292.08,10,Durango,4779156.4543396225
+0,Viviendas nuevas,Mujer,Residencial plus,24,116561495.336,10,Durango,4856728.972333333
+0,Viviendas existentes,Hombre,Residencial plus,26,122666937.0,10,Durango,4717959.115384615
+0,Viviendas existentes,Mujer,Residencial plus,5,16229439.0,10,Durango,3245887.8
+0,Mejoramientos,Hombre,Residencial plus,3,23694750.0,10,Durango,7898250.0
+0,Mejoramientos,Mujer,Residencial plus,2,14776700.0,10,Durango,7388350.0
+0,Otros programas,Hombre,Residencial plus,26,84746186.0,10,Durango,3259468.6923076925
+0,Otros programas,Mujer,Residencial plus,10,56488775.0,10,Durango,5648877.5
+0,Viviendas nuevas,Hombre,,4,120000.0,11,Guanajuato,30000.0
+0,Viviendas nuevas,Mujer,,14,420000.0,11,Guanajuato,30000.0
+0,Mejoramientos,Hombre,,14120,22169019.7,11,Guanajuato,1570.043888101983
+0,Mejoramientos,Mujer,,9251,49038469.09,11,Guanajuato,5300.883049400065
+0,Otros programas,Hombre,,25,337500.0,11,Guanajuato,13500.0
+0,Otros programas,Mujer,,62,837000.0,11,Guanajuato,13500.0
+0,Viviendas nuevas,Hombre,Económica,246,46595994.45,11,Guanajuato,189414.61158536587
+0,Viviendas nuevas,Mujer,Económica,1401,301075400.86,11,Guanajuato,214900.35750178446
+0,Viviendas existentes,Hombre,Económica,159,62487331.2668864,11,Guanajuato,393002.0834395371
+0,Viviendas existentes,Mujer,Económica,90,37509353.5616144,11,Guanajuato,416770.5951290489
+0,Mejoramientos,Hombre,Económica,7,1695443.0,11,Guanajuato,242206.14285714287
+0,Mejoramientos,Mujer,Económica,4,1350202.0,11,Guanajuato,337550.5
+0,Otros programas,Hombre,Económica,146,43860146.60868,11,Guanajuato,300411.9630731507
+0,Otros programas,Mujer,Económica,72,22692586.1508288,11,Guanajuato,315174.80765040003
+0,Viviendas nuevas,Hombre,Popular,1589,918432676.8629984,11,Guanajuato,577994.1327016981
+0,Viviendas nuevas,Mujer,Popular,1485,830456633.6434256,11,Guanajuato,559230.0563255391
+0,Viviendas existentes,Hombre,Popular,4282,2397018998.0496817,11,Guanajuato,559789.5838509299
+0,Viviendas existentes,Mujer,Popular,3054,1683634241.498704,11,Guanajuato,551288.2257690582
+0,Mejoramientos,Hombre,Popular,728,386913226.5384272,11,Guanajuato,531474.2122780593
+0,Mejoramientos,Mujer,Popular,796,413156486.0133488,11,Guanajuato,519040.81157455884
+0,Otros programas,Hombre,Popular,416,225892159.9793392,11,Guanajuato,543009.9999503347
+0,Otros programas,Mujer,Popular,257,139232672.1487664,11,Guanajuato,541761.3702286631
+0,Viviendas nuevas,Hombre,Tradicional,6185,3935729831.5880146,11,Guanajuato,636334.6534499619
+0,Viviendas nuevas,Mujer,Tradicional,5022,2890699735.329227,11,Guanajuato,575607.2750556008
+0,Viviendas existentes,Hombre,Tradicional,6145,4066415751.195616,11,Guanajuato,661743.8163052263
+0,Viviendas existentes,Mujer,Tradicional,4577,2647192872.8456016,11,Guanajuato,578368.5542594716
+0,Mejoramientos,Hombre,Tradicional,252,171396380.1160176,11,Guanajuato,680144.3655397524
+0,Mejoramientos,Mujer,Tradicional,153,97681110.2642752,11,Guanajuato,638438.6291782692
+0,Otros programas,Hombre,Tradicional,260,180460753.4138464,11,Guanajuato,694079.8208224862
+0,Otros programas,Mujer,Tradicional,151,102867569.2285472,11,Guanajuato,681242.1803215046
+0,Viviendas nuevas,Hombre,Media,5297,5774845551.775891,11,Guanajuato,1090210.6006750786
+0,Viviendas nuevas,Mujer,Media,4137,4054384414.9385233,11,Guanajuato,980030.0737100613
+0,Viviendas existentes,Hombre,Media,3504,3819113785.461603,11,Guanajuato,1089929.7332938365
+0,Viviendas existentes,Mujer,Media,2758,2700065761.089194,11,Guanajuato,978994.1120700486
+0,Mejoramientos,Hombre,Media,49,74929612.1746592,11,Guanajuato,1529175.7586665142
+0,Mejoramientos,Mujer,Media,20,19904557.9472176,11,Guanajuato,995227.8973608799
+0,Otros programas,Hombre,Media,503,515743972.5044304,11,Guanajuato,1025335.9294322672
+0,Otros programas,Mujer,Media,271,266221287.8656656,11,Guanajuato,982366.375888065
+0,Viviendas nuevas,Hombre,Residencial,2009,3823981202.5306015,11,Guanajuato,1903425.1879196623
+0,Viviendas nuevas,Mujer,Residencial,1250,2195902479.38976,11,Guanajuato,1756721.983511808
+0,Viviendas existentes,Hombre,Residencial,931,2092142826.3334513,11,Guanajuato,2247199.5986395823
+0,Viviendas existentes,Mujer,Residencial,493,1049145878.8528736,11,Guanajuato,2128084.9469632325
+0,Mejoramientos,Hombre,Residencial,10,29648460.0,11,Guanajuato,2964846.0
+0,Mejoramientos,Mujer,Residencial,3,11135969.0,11,Guanajuato,3711989.6666666665
+0,Otros programas,Hombre,Residencial,299,497544808.6182848,11,Guanajuato,1664029.4602618222
+0,Otros programas,Mujer,Residencial,142,226954498.0,11,Guanajuato,1598271.1126760563
+0,Viviendas nuevas,Hombre,Residencial plus,415,1898779760.9997568,11,Guanajuato,4575372.918071703
+0,Viviendas nuevas,Mujer,Residencial plus,182,802283061.4648,11,Guanajuato,4408148.689367033
+0,Viviendas existentes,Hombre,Residencial plus,227,1233442569.07984,11,Guanajuato,5433667.705197533
+0,Viviendas existentes,Mujer,Residencial plus,93,453646034.9065056,11,Guanajuato,4877914.353833393
+0,Mejoramientos,Hombre,Residencial plus,3,21730600.0,11,Guanajuato,7243533.333333333
+0,Mejoramientos,Mujer,Residencial plus,3,21376214.0,11,Guanajuato,7125404.666666667
+0,Otros programas,Hombre,Residencial plus,212,711920865.0,11,Guanajuato,3358117.287735849
+0,Otros programas,Mujer,Residencial plus,82,288160763.0,11,Guanajuato,3514155.6463414636
+0,Viviendas nuevas,Hombre,,16,3695750.0,12,Guerrero,230984.375
+0,Viviendas nuevas,Mujer,,49,12317250.0,12,Guerrero,251372.44897959183
+0,Mejoramientos,Hombre,,3647,72298656.14,12,Guerrero,19824.14481491637
+0,Mejoramientos,Mujer,,3297,80649410.53,12,Guerrero,24461.452996663633
+0,Otros programas,Hombre,,130,1741500.0,12,Guerrero,13396.153846153846
+0,Otros programas,Mujer,,188,2538000.0,12,Guerrero,13500.0
+0,Viviendas nuevas,Hombre,Económica,391,76760906.24,12,Guerrero,196319.45329923273
+0,Viviendas nuevas,Mujer,Económica,1143,245020713.67,12,Guerrero,214366.32867016623
+0,Viviendas existentes,Hombre,Económica,7,2592428.3064336,12,Guerrero,370346.9009190857
+0,Viviendas existentes,Mujer,Económica,3,1341519.0480016,12,Guerrero,447173.0160005333
+0,Mejoramientos,Hombre,Económica,243,46146315.8,12,Guerrero,189902.5341563786
+0,Mejoramientos,Mujer,Económica,381,68000814.8,12,Guerrero,178479.82887139107
+0,Otros programas,Hombre,Económica,5,1348019.4082896,12,Guerrero,269603.88165791996
+0,Otros programas,Mujer,Económica,1,289921.3449984,12,Guerrero,289921.3449984
+0,Viviendas nuevas,Hombre,Popular,78,33884925.7125968,12,Guerrero,434422.1245204717
+0,Viviendas nuevas,Mujer,Popular,125,54648040.2845424,12,Guerrero,437184.32227633917
+0,Viviendas existentes,Hombre,Popular,392,212317446.5108944,12,Guerrero,541626.139058404
+0,Viviendas existentes,Mujer,Popular,432,234492049.0304688,12,Guerrero,542805.6690520111
+0,Mejoramientos,Hombre,Popular,3,1604210.77,12,Guerrero,534736.9233333333
+0,Otros programas,Hombre,Popular,12,5856771.2002384,12,Guerrero,488064.26668653334
+0,Otros programas,Mujer,Popular,8,4167256.761144,12,Guerrero,520907.095143
+0,Viviendas nuevas,Hombre,Tradicional,228,168351597.362576,12,Guerrero,738384.1989586666
+0,Viviendas nuevas,Mujer,Tradicional,347,255289090.3037216,12,Guerrero,735703.430270091
+0,Viviendas existentes,Hombre,Tradicional,788,586406610.1624511,12,Guerrero,744170.8250792527
+0,Viviendas existentes,Mujer,Tradicional,924,689715841.87104,12,Guerrero,746445.7163106493
+0,Mejoramientos,Hombre,Tradicional,8,6932660.1408128,12,Guerrero,866582.5176016
+0,Mejoramientos,Mujer,Tradicional,3,1646500.9655728,12,Guerrero,548833.6551909334
+0,Otros programas,Hombre,Tradicional,17,11020502.1273872,12,Guerrero,648264.8310227764
+0,Otros programas,Mujer,Tradicional,38,22563091.2704656,12,Guerrero,593765.5597490948
+0,Viviendas nuevas,Hombre,Media,562,663014888.4429104,12,Guerrero,1179741.794382403
+0,Viviendas nuevas,Mujer,Media,516,568997445.3160224,12,Guerrero,1102708.2273566325
+0,Viviendas existentes,Hombre,Media,602,736507309.5485184,12,Guerrero,1223434.0690174724
+0,Viviendas existentes,Mujer,Media,646,753410518.1528736,12,Guerrero,1166270.1519394328
+0,Mejoramientos,Hombre,Media,2,4036400.0,12,Guerrero,2018200.0
+0,Mejoramientos,Mujer,Media,4,5533837.3039472,12,Guerrero,1383459.3259868
+0,Otros programas,Hombre,Media,35,36911402.6875312,12,Guerrero,1054611.5053580343
+0,Otros programas,Mujer,Media,31,24456732.2060544,12,Guerrero,788926.8453565936
+0,Viviendas nuevas,Hombre,Residencial,127,319624890.3442496,12,Guerrero,2516731.4200334614
+0,Viviendas nuevas,Mujer,Residencial,80,194329660.1273088,12,Guerrero,2429120.7515913597
+0,Viviendas existentes,Hombre,Residencial,139,314163754.0090016,12,Guerrero,2260170.892151091
+0,Viviendas existentes,Mujer,Residencial,86,189030352.272752,12,Guerrero,2198027.352008744
+0,Otros programas,Hombre,Residencial,18,31644856.0,12,Guerrero,1758047.5555555555
+0,Otros programas,Mujer,Residencial,20,32182230.4981312,12,Guerrero,1609111.52490656
+0,Viviendas nuevas,Hombre,Residencial plus,56,346535880.576,12,Guerrero,6188140.724571428
+0,Viviendas nuevas,Mujer,Residencial plus,27,149575563.0,12,Guerrero,5539835.666666667
+0,Viviendas existentes,Hombre,Residencial plus,91,548660986.0,12,Guerrero,6029241.604395605
+0,Viviendas existentes,Mujer,Residencial plus,31,167996557.0,12,Guerrero,5419243.774193549
+0,Otros programas,Hombre,Residencial plus,32,197730248.0,12,Guerrero,6179070.25
+0,Otros programas,Mujer,Residencial plus,11,32463038.0,12,Guerrero,2951185.272727273
+0,Mejoramientos,Hombre,,21182,66528221.07,13,Hidalgo,3140.790344160136
+0,Mejoramientos,Mujer,,10431,90468575.36,13,Hidalgo,8673.049118972294
+0,Otros programas,Hombre,,23,310500.0,13,Hidalgo,13500.0
+0,Otros programas,Mujer,,43,580500.0,13,Hidalgo,13500.0
+0,Viviendas nuevas,Hombre,Económica,1247,331626449.37,13,Hidalgo,265939.4140898156
+0,Viviendas nuevas,Mujer,Económica,4212,1143502601.84,13,Hidalgo,271486.8475403609
+0,Viviendas existentes,Hombre,Económica,15,7356292.3079696,13,Hidalgo,490419.48719797336
+0,Viviendas existentes,Mujer,Económica,11,6535078.8018688,13,Hidalgo,594098.0728971637
+0,Mejoramientos,Hombre,Económica,2,689370.0,13,Hidalgo,344685.0
+0,Mejoramientos,Mujer,Económica,2,671884.0,13,Hidalgo,335942.0
+0,Otros programas,Hombre,Económica,60,18875395.6273328,13,Hidalgo,314589.9271222133
+0,Otros programas,Mujer,Económica,32,9968730.8375344,13,Hidalgo,311522.83867295
+0,Viviendas nuevas,Hombre,Popular,1655,998773729.8116416,13,Hidalgo,603488.6584964602
+0,Viviendas nuevas,Mujer,Popular,1381,811485414.0201728,13,Hidalgo,587607.1064592127
+0,Viviendas existentes,Hombre,Popular,1433,755119625.7560208,13,Hidalgo,526950.1924326733
+0,Viviendas existentes,Mujer,Popular,1236,665522372.8580592,13,Hidalgo,538448.5217298213
+0,Mejoramientos,Hombre,Popular,10,4825858.3264032,13,Hidalgo,482585.83264031995
+0,Mejoramientos,Mujer,Popular,9,4710586.7992016,13,Hidalgo,523398.53324462223
+0,Otros programas,Hombre,Popular,98,50330816.1297216,13,Hidalgo,513579.7564257306
+0,Otros programas,Mujer,Popular,56,28051896.1649984,13,Hidalgo,500926.7172321143
+0,Viviendas nuevas,Hombre,Tradicional,4106,2853142264.3673425,13,Hidalgo,694871.4720816714
+0,Viviendas nuevas,Mujer,Tradicional,3401,2162434236.219992,13,Hidalgo,635823.0626933232
+0,Viviendas existentes,Hombre,Tradicional,2043,1426107874.3301055,13,Hidalgo,698045.9492560477
+0,Viviendas existentes,Mujer,Tradicional,1767,1183441291.8510463,13,Hidalgo,669746.0621681077
+0,Mejoramientos,Hombre,Tradicional,70,54392423.6811792,13,Hidalgo,777034.6240168457
+0,Mejoramientos,Mujer,Tradicional,50,36996312.7844944,13,Hidalgo,739926.255689888
+0,Otros programas,Hombre,Tradicional,116,86270975.0628336,13,Hidalgo,743715.3022658069
+0,Otros programas,Mujer,Tradicional,78,51001370.9024656,13,Hidalgo,653863.7295187897
+0,Viviendas nuevas,Hombre,Media,4093,4977489887.877502,13,Hidalgo,1216098.1890734187
+0,Viviendas nuevas,Mujer,Media,3071,3338891747.2724767,13,Hidalgo,1087232.7408897677
+0,Viviendas existentes,Hombre,Media,1247,1520233735.844336,13,Hidalgo,1219112.859538361
+0,Viviendas existentes,Mujer,Media,998,1112117098.452216,13,Hidalgo,1114345.7900322804
+0,Mejoramientos,Hombre,Media,10,13833634.479728,13,Hidalgo,1383363.4479728001
+0,Mejoramientos,Mujer,Media,3,4035414.6826304,13,Hidalgo,1345138.2275434667
+0,Otros programas,Hombre,Media,150,152846074.2895072,13,Hidalgo,1018973.8285967148
+0,Otros programas,Mujer,Media,91,88578461.9464608,13,Hidalgo,973389.6917193495
+0,Viviendas nuevas,Hombre,Residencial,574,1214525585.1985376,13,Hidalgo,2115898.232053201
+0,Viviendas nuevas,Mujer,Residencial,377,746068116.686384,13,Hidalgo,1978960.5217145463
+0,Viviendas existentes,Hombre,Residencial,171,395588151.6053744,13,Hidalgo,2313381.003540201
+0,Viviendas existentes,Mujer,Residencial,113,222055184.9783136,13,Hidalgo,1965090.1325514477
+0,Otros programas,Hombre,Residencial,59,98943245.0,13,Hidalgo,1677004.152542373
+0,Otros programas,Mujer,Residencial,53,85201470.0,13,Hidalgo,1607574.9056603773
+0,Viviendas nuevas,Hombre,Residencial plus,57,258597858.1312544,13,Hidalgo,4536804.528618499
+0,Viviendas nuevas,Mujer,Residencial plus,20,118041375.0,13,Hidalgo,5902068.75
+0,Viviendas existentes,Hombre,Residencial plus,32,201159646.0,13,Hidalgo,6286238.9375
+0,Viviendas existentes,Mujer,Residencial plus,17,88885369.0,13,Hidalgo,5228551.117647059
+0,Otros programas,Hombre,Residencial plus,35,140632631.0,13,Hidalgo,4018075.1714285715
+0,Otros programas,Mujer,Residencial plus,11,38041124.0,13,Hidalgo,3458284.0
+0,Viviendas nuevas,Mujer,,1,6700.0,14,Jalisco,6700.0
+0,Mejoramientos,Hombre,,22263,127097143.26,14,Jalisco,5708.89562323137
+0,Mejoramientos,Mujer,,15483,128033957.3,14,Jalisco,8269.324891816832
+0,Otros programas,Hombre,,52,702000.0,14,Jalisco,13500.0
+0,Otros programas,Mujer,,57,769500.0,14,Jalisco,13500.0
+0,Viviendas nuevas,Hombre,Económica,277,53036607.967648,14,Jalisco,191467.89880017328
+0,Viviendas nuevas,Mujer,Económica,829,155432174.62,14,Jalisco,187493.57613992764
+0,Viviendas existentes,Hombre,Económica,153,58006059.8924288,14,Jalisco,379124.57446031895
+0,Viviendas existentes,Mujer,Económica,159,64948379.9238144,14,Jalisco,408480.37687933585
+0,Mejoramientos,Hombre,Económica,29,6231728.4874112,14,Jalisco,214887.18922107585
+0,Mejoramientos,Mujer,Económica,10,2391643.0,14,Jalisco,239164.3
+0,Otros programas,Hombre,Económica,281,89317374.1550016,14,Jalisco,317855.4240391516
+0,Otros programas,Mujer,Económica,133,41994427.2099152,14,Jalisco,315747.57300688117
+0,Viviendas nuevas,Hombre,Popular,2950,1701168944.3813808,14,Jalisco,576667.4387733494
+0,Viviendas nuevas,Mujer,Popular,2807,1574782169.1365297,14,Jalisco,561019.654127727
+0,Viviendas existentes,Hombre,Popular,7359,3993513548.0606976,14,Jalisco,542670.6818943738
+0,Viviendas existentes,Mujer,Popular,6990,3734108560.2674737,14,Jalisco,534207.233228537
+0,Mejoramientos,Hombre,Popular,1002,610416326.330056,14,Jalisco,609197.9304691177
+0,Mejoramientos,Mujer,Popular,667,393239906.2025328,14,Jalisco,589565.0767654165
+0,Otros programas,Hombre,Popular,578,316944572.3269824,14,Jalisco,548347.0109463363
+0,Otros programas,Mujer,Popular,286,151034407.2400032,14,Jalisco,528092.3330070042
+0,Viviendas nuevas,Hombre,Tradicional,8269,5356423424.159827,14,Jalisco,647771.607710706
+0,Viviendas nuevas,Mujer,Tradicional,6961,4005950339.74064,14,Jalisco,575484.8929378883
+0,Viviendas existentes,Hombre,Tradicional,6125,4142497596.3709617,14,Jalisco,676326.1381830141
+0,Viviendas existentes,Mujer,Tradicional,4566,2610342855.018451,14,Jalisco,571691.3830526612
+0,Mejoramientos,Hombre,Tradicional,532,386842461.0786464,14,Jalisco,727147.4832305384
+0,Mejoramientos,Mujer,Tradicional,274,186614621.8170848,14,Jalisco,681075.2621061489
+0,Otros programas,Hombre,Tradicional,476,374181227.9132656,14,Jalisco,786095.0166245075
+0,Otros programas,Mujer,Tradicional,257,182245981.6163536,14,Jalisco,709128.3331375626
+0,Viviendas nuevas,Hombre,Media,7484,8030094864.702192,14,Jalisco,1072968.3143642694
+0,Viviendas nuevas,Mujer,Media,5480,5369066366.616142,14,Jalisco,979756.6362438216
+0,Viviendas existentes,Hombre,Media,5475,6277605626.044034,14,Jalisco,1146594.6348938874
+0,Viviendas existentes,Mujer,Media,4212,4309380717.125836,14,Jalisco,1023119.8283774541
+0,Mejoramientos,Hombre,Media,271,455340263.9181744,14,Jalisco,1680222.3760818243
+0,Mejoramientos,Mujer,Media,133,200426722.1673344,14,Jalisco,1506967.8358446197
+0,Otros programas,Hombre,Media,989,1091083659.4592447,14,Jalisco,1103219.0692206721
+0,Otros programas,Mujer,Media,532,545867122.7631184,14,Jalisco,1026066.0202314255
+0,Viviendas nuevas,Hombre,Residencial,5494,10521862494.510523,14,Jalisco,1915155.1682763966
+0,Viviendas nuevas,Mujer,Residencial,3457,6214166494.130838,14,Jalisco,1797560.455345918
+0,Viviendas existentes,Hombre,Residencial,2589,5519474209.646309,14,Jalisco,2131894.248608076
+0,Viviendas existentes,Mujer,Residencial,1704,3357168494.248357,14,Jalisco,1970169.3041363596
+0,Mejoramientos,Hombre,Residencial,109,347355565.8877152,14,Jalisco,3186748.3108964697
+0,Mejoramientos,Mujer,Residencial,34,115800555.2592064,14,Jalisco,3405898.684094306
+0,Otros programas,Hombre,Residencial,834,1453671585.7067552,14,Jalisco,1743011.4936531836
+0,Otros programas,Mujer,Residencial,386,626769364.8373328,14,Jalisco,1623754.8311848
+0,Viviendas nuevas,Hombre,Residencial plus,1895,8247563675.684285,14,Jalisco,4352276.346007538
+0,Viviendas nuevas,Mujer,Residencial plus,855,3409524336.1246095,14,Jalisco,3987747.7615492507
+0,Viviendas existentes,Hombre,Residencial plus,1297,7214281422.25555,14,Jalisco,5562283.28624175
+0,Viviendas existentes,Mujer,Residencial plus,661,3324422695.059915,14,Jalisco,5029383.804931792
+0,Mejoramientos,Hombre,Residencial plus,33,327073688.0,14,Jalisco,9911323.878787879
+0,Mejoramientos,Mujer,Residencial plus,10,65608471.0,14,Jalisco,6560847.1
+0,Otros programas,Hombre,Residencial plus,882,3810269077.0,14,Jalisco,4320032.967120182
+0,Otros programas,Mujer,Residencial plus,301,1110869029.0,14,Jalisco,3690594.780730897
+0,Viviendas nuevas,Mujer,,3,697319.7,15,México,232439.9
+0,Mejoramientos,Hombre,,93093,1565520414.73,15,México,16816.73611044869
+0,Mejoramientos,Mujer,,94695,2769202911.178,15,México,29243.391004572575
+0,Otros programas,Hombre,,383,5170500.0,15,México,13500.0
+0,Otros programas,Mujer,,333,4495500.0,15,México,13500.0
+0,Viviendas nuevas,Hombre,Económica,160,28392127.02,15,México,177450.793875
+0,Viviendas nuevas,Mujer,Económica,460,87066542.53,15,México,189275.09245652173
+0,Viviendas existentes,Hombre,Económica,84,31775152.1089088,15,México,378275.6203441524
+0,Viviendas existentes,Mujer,Económica,85,34313810.90728,15,México,403691.8930268235
+0,Mejoramientos,Hombre,Económica,12,2270835.09,15,México,189236.25749999998
+0,Mejoramientos,Mujer,Económica,2,662719.0,15,México,331359.5
+0,Otros programas,Hombre,Económica,61,18025428.2448496,15,México,295498.82368605904
+0,Otros programas,Mujer,Económica,38,11210980.1999968,15,México,295025.7947367579
+0,Viviendas nuevas,Hombre,Popular,1852,1097404504.2472625,15,México,592551.0282112649
+0,Viviendas nuevas,Mujer,Popular,1224,705298408.3445584,15,México,576224.1898239856
+0,Viviendas existentes,Hombre,Popular,5072,2648686864.103987,15,México,522217.44166088075
+0,Viviendas existentes,Mujer,Popular,3602,1881216576.2105937,15,México,522270.0100529133
+0,Mejoramientos,Hombre,Popular,72,43718418.2401104,15,México,607200.2533348666
+0,Mejoramientos,Mujer,Popular,30,15989014.3831808,15,México,532967.1461060267
+0,Otros programas,Hombre,Popular,96,54128095.2885312,15,México,563834.3259222
+0,Otros programas,Mujer,Popular,51,27915427.4655984,15,México,547361.3228548706
+0,Viviendas nuevas,Hombre,Tradicional,6608,4345905310.193618,15,México,657673.3217605354
+0,Viviendas nuevas,Mujer,Tradicional,5761,3452607222.287306,15,México,599306.9297495758
+0,Viviendas existentes,Hombre,Tradicional,9135,6209758099.569515,15,México,679776.4750486606
+0,Viviendas existentes,Mujer,Tradicional,6639,4153128364.197635,15,México,625565.3508356131
+0,Mejoramientos,Hombre,Tradicional,206,146415785.8452608,15,México,710756.2419672854
+0,Mejoramientos,Mujer,Tradicional,147,95319583.4194192,15,México,648432.5402681578
+0,Otros programas,Hombre,Tradicional,203,151853648.788688,15,México,748047.5309787586
+0,Otros programas,Mujer,Tradicional,129,82374834.0967488,15,México,638564.6054011534
+0,Viviendas nuevas,Hombre,Media,5259,5806797389.024187,15,México,1104163.7933113114
+0,Viviendas nuevas,Mujer,Media,4311,4390708263.27829,15,México,1018489.5066755485
+0,Viviendas existentes,Hombre,Media,4850,5938731755.173544,15,México,1224480.7742625864
+0,Viviendas existentes,Mujer,Media,3732,4062685455.202909,15,México,1088608.1069675533
+0,Mejoramientos,Hombre,Media,129,154210807.9029264,15,México,1195432.6194025301
+0,Mejoramientos,Mujer,Media,107,108317622.3515856,15,México,1012314.2275849121
+0,Otros programas,Hombre,Media,351,368484913.0357712,15,México,1049814.5670534791
+0,Otros programas,Mujer,Media,212,222887524.3050144,15,México,1051356.246721766
+0,Viviendas nuevas,Hombre,Residencial,3861,7068680704.43298,15,México,1830790.1332382748
+0,Viviendas nuevas,Mujer,Residencial,2858,5058520698.835048,15,México,1769951.2592145023
+0,Viviendas existentes,Hombre,Residencial,2108,4566714947.474728,15,México,2166373.314741332
+0,Viviendas existentes,Mujer,Residencial,1585,3281400910.861563,15,México,2070284.4863479894
+0,Mejoramientos,Hombre,Residencial,21,73504238.5183856,15,México,3500201.834208838
+0,Mejoramientos,Mujer,Residencial,4,15000000.0,15,México,3750000.0
+0,Otros programas,Hombre,Residencial,358,644309039.6922096,15,México,1799745.9209279597
+0,Otros programas,Mujer,Residencial,185,327798696.3179152,15,México,1771884.8449617038
+0,Viviendas nuevas,Hombre,Residencial plus,1390,5849983131.831589,15,México,4208620.958152222
+0,Viviendas nuevas,Mujer,Residencial plus,799,3002883953.753571,15,México,3758302.820717861
+0,Viviendas existentes,Hombre,Residencial plus,1296,6833854091.367573,15,México,5273035.564326831
+0,Viviendas existentes,Mujer,Residencial plus,695,2950232001.821011,15,México,4244938.132116563
+0,Mejoramientos,Hombre,Residencial plus,13,118086954.0,15,México,9083611.846153846
+0,Mejoramientos,Mujer,Residencial plus,2,15782391.0,15,México,7891195.5
+0,Otros programas,Hombre,Residencial plus,474,2162085922.7188544,15,México,4561362.706157921
+0,Otros programas,Mujer,Residencial plus,158,597643685.7662448,15,México,3782554.973204081
+0,Mejoramientos,Hombre,,4771,55554845.0,16,Michoacán,11644.27688115699
+0,Mejoramientos,Mujer,,3909,70826004.0,16,Michoacán,18118.701458173447
+0,Otros programas,Hombre,,283,3813140.0,16,Michoacán,13473.992932862191
+0,Otros programas,Mujer,,415,5588506.0,16,Michoacán,13466.27951807229
+0,Viviendas nuevas,Hombre,Económica,1033,211823122.26,16,Michoacán,205056.2654985479
+0,Viviendas nuevas,Mujer,Económica,2964,621186822.26,16,Michoacán,209577.2004925776
+0,Viviendas existentes,Hombre,Económica,8,2915464.563232,16,Michoacán,364433.070404
+0,Viviendas existentes,Mujer,Económica,15,6463271.2058688,16,Michoacán,430884.74705792003
+0,Mejoramientos,Hombre,Económica,98,25816926.0,16,Michoacán,263438.02040816325
+0,Mejoramientos,Mujer,Económica,88,24067049.158176,16,Michoacán,273489.1949792727
+0,Otros programas,Hombre,Económica,61,19262404.1405584,16,Michoacán,315777.1170583344
+0,Otros programas,Mujer,Económica,33,10516608.2280592,16,Michoacán,318685.09781997575
+0,Viviendas nuevas,Hombre,Popular,753,424283126.8166576,16,Michoacán,563457.0077246448
+0,Viviendas nuevas,Mujer,Popular,948,520316570.8848464,16,Michoacán,548857.1422835932
+0,Viviendas existentes,Hombre,Popular,1371,752284634.7798609,16,Michoacán,548712.3521370247
+0,Viviendas existentes,Mujer,Popular,1363,731402207.779088,16,Michoacán,536612.0379890595
+0,Mejoramientos,Hombre,Popular,22,12240189.7431552,16,Michoacán,556372.2610525091
+0,Mejoramientos,Mujer,Popular,9,3856985.955704,16,Michoacán,428553.9950782222
+0,Otros programas,Hombre,Popular,153,75004199.8749152,16,Michoacán,490223.528594217
+0,Otros programas,Mujer,Popular,85,40254700.4824512,16,Michoacán,473584.71155824943
+0,Viviendas nuevas,Hombre,Tradicional,1488,975093176.970576,16,Michoacán,655304.5544157097
+0,Viviendas nuevas,Mujer,Tradicional,1436,888177384.622968,16,Michoacán,618507.9280104233
+0,Viviendas existentes,Hombre,Tradicional,2102,1427643699.7321632,16,Michoacán,679183.4917850443
+0,Viviendas existentes,Mujer,Tradicional,1912,1212649159.8853152,16,Michoacán,634230.7321575916
+0,Mejoramientos,Hombre,Tradicional,30,28140872.2476688,16,Michoacán,938029.0749222933
+0,Mejoramientos,Mujer,Tradicional,17,14453134.8964208,16,Michoacán,850184.4056718117
+0,Otros programas,Hombre,Tradicional,125,81333131.4103712,16,Michoacán,650665.0512829695
+0,Otros programas,Mujer,Tradicional,74,48700975.5935056,16,Michoacán,658121.2918041297
+0,Viviendas nuevas,Hombre,Media,1292,1440737906.9754672,16,Michoacán,1115122.2190212593
+0,Viviendas nuevas,Mujer,Media,1146,1162101801.2077136,16,Michoacán,1014050.4373540258
+0,Viviendas existentes,Hombre,Media,1550,1703109634.3771985,16,Michoacán,1098780.4092756119
+0,Viviendas existentes,Mujer,Media,1229,1248438224.005872,16,Michoacán,1015816.2929258519
+0,Mejoramientos,Hombre,Media,18,29937336.5655696,16,Michoacán,1663185.3647538666
+0,Mejoramientos,Mujer,Media,20,35000162.0081984,16,Michoacán,1750008.10040992
+0,Otros programas,Hombre,Media,224,222345434.6214512,16,Michoacán,992613.5474171928
+0,Otros programas,Mujer,Media,125,118719131.8017872,16,Michoacán,949753.0544142976
+0,Viviendas nuevas,Hombre,Residencial,561,1089967203.1030416,16,Michoacán,1942900.540290627
+0,Viviendas nuevas,Mujer,Residencial,377,711732485.2815984,16,Michoacán,1887884.5763437625
+0,Viviendas existentes,Hombre,Residencial,445,956744218.803552,16,Michoacán,2149987.008547308
+0,Viviendas existentes,Mujer,Residencial,293,590394982.2210672,16,Michoacán,2014999.9393210483
+0,Mejoramientos,Hombre,Residencial,4,10751216.283112,16,Michoacán,2687804.070778
+0,Mejoramientos,Mujer,Residencial,2,4044823.5737888,16,Michoacán,2022411.7868944
+0,Otros programas,Hombre,Residencial,168,274942806.217752,16,Michoacán,1636564.3227247142
+0,Otros programas,Mujer,Residencial,109,143314425.13,16,Michoacán,1314811.2397247707
+0,Viviendas nuevas,Hombre,Residencial plus,146,771721403.6220672,16,Michoacán,5285763.03850731
+0,Viviendas nuevas,Mujer,Residencial plus,63,234330918.7783024,16,Michoacán,3719538.393306387
+0,Viviendas existentes,Hombre,Residencial plus,111,533751926.2356896,16,Michoacán,4808575.912033239
+0,Viviendas existentes,Mujer,Residencial plus,44,199157654.2336464,16,Michoacán,4526310.323491964
+0,Mejoramientos,Mujer,Residencial plus,2,17124500.0,16,Michoacán,8562250.0
+0,Otros programas,Hombre,Residencial plus,102,391305935.0,16,Michoacán,3836332.6960784313
+0,Otros programas,Mujer,Residencial plus,48,148506700.0,16,Michoacán,3093889.5833333335
+0,Mejoramientos,Hombre,,4784,20527521.8,17,Morelos,4290.869941471572
+0,Mejoramientos,Mujer,,3818,38239708.0,17,Morelos,10015.638554216868
+0,Otros programas,Hombre,,31,418500.0,17,Morelos,13500.0
+0,Otros programas,Mujer,,72,972000.0,17,Morelos,13500.0
+0,Viviendas nuevas,Hombre,Económica,333,91768695.39,17,Morelos,275581.6678378378
+0,Viviendas nuevas,Mujer,Económica,1153,323263620.22,17,Morelos,280367.4069557676
+0,Viviendas existentes,Hombre,Económica,9,3542511.6123744,17,Morelos,393612.4013749333
+0,Viviendas existentes,Mujer,Económica,3,1161838.6715904,17,Morelos,387279.55719679996
+0,Mejoramientos,Hombre,Económica,44,11879005.0,17,Morelos,269977.38636363635
+0,Mejoramientos,Mujer,Económica,60,17013608.0,17,Morelos,283560.13333333336
+0,Otros programas,Hombre,Económica,5,1477159.4854048,17,Morelos,295431.89708096
+0,Otros programas,Mujer,Económica,6,1746640.049832,17,Morelos,291106.674972
+0,Viviendas nuevas,Hombre,Popular,8,4450690.0431696,17,Morelos,556336.2553962
+0,Viviendas nuevas,Mujer,Popular,34,17225981.8525456,17,Morelos,506646.5250748706
+0,Viviendas existentes,Hombre,Popular,687,345639349.920264,17,Morelos,503114.04646326636
+0,Viviendas existentes,Mujer,Popular,457,244768012.0790944,17,Morelos,535597.4006107099
+0,Mejoramientos,Hombre,Popular,1,500000.0,17,Morelos,500000.0
+0,Mejoramientos,Mujer,Popular,2,1100000.0,17,Morelos,550000.0
+0,Otros programas,Hombre,Popular,34,17705035.820504,17,Morelos,520736.3476618823
+0,Otros programas,Mujer,Popular,21,11026792.7140256,17,Morelos,525085.3673345523
+0,Viviendas nuevas,Hombre,Tradicional,146,106038536.9150448,17,Morelos,726291.3487331836
+0,Viviendas nuevas,Mujer,Tradicional,145,97880169.9627904,17,Morelos,675035.6549157959
+0,Viviendas existentes,Hombre,Tradicional,1360,970522219.1872704,17,Morelos,713619.2788141695
+0,Viviendas existentes,Mujer,Tradicional,1091,740788798.9987617,17,Morelos,678999.8157642179
+0,Mejoramientos,Hombre,Tradicional,4,3765286.0,17,Morelos,941321.5
+0,Mejoramientos,Mujer,Tradicional,2,1886075.0,17,Morelos,943037.5
+0,Otros programas,Hombre,Tradicional,103,80807581.6421392,17,Morelos,784539.6275935845
+0,Otros programas,Mujer,Tradicional,63,49841738.9784192,17,Morelos,791138.7139431619
+0,Viviendas nuevas,Hombre,Media,2105,2856529312.415992,17,Morelos,1357021.0510289748
+0,Viviendas nuevas,Mujer,Media,1405,1723033188.588101,17,Morelos,1226358.1413438441
+0,Viviendas existentes,Hombre,Media,1014,1251926250.304704,17,Morelos,1234641.2724898462
+0,Viviendas existentes,Mujer,Media,954,1086972361.000536,17,Morelos,1139384.0262060126
+0,Mejoramientos,Hombre,Media,9,15815415.5466608,17,Morelos,1757268.394073422
+0,Mejoramientos,Mujer,Media,2,3850562.0,17,Morelos,1925281.0
+0,Otros programas,Hombre,Media,120,138848111.727832,17,Morelos,1157067.5977319332
+0,Otros programas,Mujer,Media,103,90901410.1313952,17,Morelos,882537.9624407302
+0,Viviendas nuevas,Hombre,Residencial,760,1501193590.9191215,17,Morelos,1975254.724893581
+0,Viviendas nuevas,Mujer,Residencial,501,956770155.0394912,17,Morelos,1909720.8683422979
+0,Viviendas existentes,Hombre,Residencial,428,938073014.103552,17,Morelos,2191759.3787466167
+0,Viviendas existentes,Mujer,Residencial,313,638869572.2204688,17,Morelos,2041116.8441548522
+0,Mejoramientos,Hombre,Residencial,3,8502700.0,17,Morelos,2834233.3333333335
+0,Mejoramientos,Mujer,Residencial,2,5985003.0,17,Morelos,2992501.5
+0,Otros programas,Hombre,Residencial,120,227205470.856808,17,Morelos,1893378.9238067335
+0,Otros programas,Mujer,Residencial,63,116667211.7868944,17,Morelos,1851860.5045538794
+0,Viviendas nuevas,Hombre,Residencial plus,196,870598154.9999104,17,Morelos,4441827.321428114
+0,Viviendas nuevas,Mujer,Residencial plus,90,399168662.5782976,17,Morelos,4435207.361981085
+0,Viviendas existentes,Hombre,Residencial plus,174,997378805.1163296,17,Morelos,5732062.09836971
+0,Viviendas existentes,Mujer,Residencial plus,112,602128433.6868207,17,Morelos,5376146.729346613
+0,Mejoramientos,Hombre,Residencial plus,2,16414683.0,17,Morelos,8207341.5
+0,Otros programas,Hombre,Residencial plus,86,324668207.0,17,Morelos,3775211.7093023257
+0,Otros programas,Mujer,Residencial plus,44,148117646.0,17,Morelos,3366310.1363636362
+0,Mejoramientos,Hombre,,3213,29426467.0,18,Nayarit,9158.564270152505
+0,Mejoramientos,Mujer,,2542,37936535.0,18,Nayarit,14923.892604248624
+0,Otros programas,Hombre,,19,256500.0,18,Nayarit,13500.0
+0,Otros programas,Mujer,,23,310500.0,18,Nayarit,13500.0
+0,Viviendas nuevas,Hombre,Económica,152,36672556.94,18,Nayarit,241266.8219736842
+0,Viviendas nuevas,Mujer,Económica,445,104505972.49,18,Nayarit,234844.88199999998
+0,Viviendas existentes,Hombre,Económica,2,774301.0583136,18,Nayarit,387150.5291568
+0,Mejoramientos,Hombre,Económica,3,381422.0,18,Nayarit,127140.66666666667
+0,Mejoramientos,Mujer,Económica,2,189905.0,18,Nayarit,94952.5
+0,Otros programas,Hombre,Económica,12,3684767.1092224,18,Nayarit,307063.9257685333
+0,Otros programas,Mujer,Económica,7,2389898.7011104,18,Nayarit,341414.10015862854
+0,Viviendas nuevas,Hombre,Popular,29,13219677.9349344,18,Nayarit,455850.9632736
+0,Viviendas nuevas,Mujer,Popular,79,36376145.8713808,18,Nayarit,460457.5426757063
+0,Viviendas existentes,Hombre,Popular,170,101893859.2686416,18,Nayarit,599375.6427567153
+0,Viviendas existentes,Mujer,Popular,238,138040015.6115472,18,Nayarit,580000.0655947361
+0,Mejoramientos,Hombre,Popular,1,461297.0,18,Nayarit,461297.0
+0,Mejoramientos,Mujer,Popular,2,1101927.2419472,18,Nayarit,550963.6209736
+0,Otros programas,Hombre,Popular,27,13234887.7565008,18,Nayarit,490181.0280185481
+0,Otros programas,Mujer,Popular,20,10152702.5717152,18,Nayarit,507635.12858576
+0,Viviendas nuevas,Hombre,Tradicional,792,546465817.5900512,18,Nayarit,689982.0929167313
+0,Viviendas nuevas,Mujer,Tradicional,897,566032468.0572993,18,Nayarit,631028.3924830538
+0,Viviendas existentes,Hombre,Tradicional,927,616433100.7976384,18,Nayarit,664976.3762649822
+0,Viviendas existentes,Mujer,Tradicional,1048,661601850.00852,18,Nayarit,631299.4751989695
+0,Mejoramientos,Hombre,Tradicional,1,1124360.7848752,18,Nayarit,1124360.7848752
+0,Mejoramientos,Mujer,Tradicional,6,4862780.3917392,18,Nayarit,810463.3986232
+0,Otros programas,Hombre,Tradicional,44,31757288.255736,18,Nayarit,721756.5512667273
+0,Otros programas,Mujer,Tradicional,35,25232949.6050544,18,Nayarit,720941.4172872686
+0,Viviendas nuevas,Hombre,Media,1254,1472605868.9507697,18,Nayarit,1174326.849243038
+0,Viviendas nuevas,Mujer,Media,1149,1273549806.4150767,18,Nayarit,1108398.4390035481
+0,Viviendas existentes,Hombre,Media,590,702375148.1311249,18,Nayarit,1190466.3527646184
+0,Viviendas existentes,Mujer,Media,570,615861428.5646592,18,Nayarit,1080458.6466046653
+0,Mejoramientos,Hombre,Media,4,7514728.389808,18,Nayarit,1878682.097452
+0,Mejoramientos,Mujer,Media,4,5427311.766,18,Nayarit,1356827.9415
+0,Otros programas,Hombre,Media,60,63463284.5379104,18,Nayarit,1057721.4089651734
+0,Otros programas,Mujer,Media,59,60821699.5861344,18,Nayarit,1030876.2641717694
+0,Viviendas nuevas,Hombre,Residencial,238,500352412.7867984,18,Nayarit,2102321.0621294053
+0,Viviendas nuevas,Mujer,Residencial,178,358147990.3479008,18,Nayarit,2012067.3615050607
+0,Viviendas existentes,Hombre,Residencial,154,366074434.9647504,18,Nayarit,2377106.7205503276
+0,Viviendas existentes,Mujer,Residencial,122,267498008.9525952,18,Nayarit,2192606.630758977
+0,Mejoramientos,Hombre,Residencial,1,4040000.0,18,Nayarit,4040000.0
+0,Mejoramientos,Mujer,Residencial,1,2650000.0,18,Nayarit,2650000.0
+0,Otros programas,Hombre,Residencial,60,92015875.158,18,Nayarit,1533597.9193000002
+0,Otros programas,Mujer,Residencial,25,28207358.0,18,Nayarit,1128294.32
+0,Viviendas nuevas,Hombre,Residencial plus,99,620240807.26,18,Nayarit,6265058.6591919195
+0,Viviendas nuevas,Mujer,Residencial plus,53,288358291.076,18,Nayarit,5440722.473132075
+0,Viviendas existentes,Hombre,Residencial plus,61,415149722.0890016,18,Nayarit,6805733.149000026
+0,Viviendas existentes,Mujer,Residencial plus,27,129682678.9899472,18,Nayarit,4803062.18481286
+0,Otros programas,Hombre,Residencial plus,36,196913248.0,18,Nayarit,5469812.444444444
+0,Otros programas,Mujer,Residencial plus,18,83747850.0,18,Nayarit,4652658.333333333
+0,Viviendas nuevas,Hombre,,21,820810.0,19,Nuevo León,39086.19047619047
+0,Viviendas nuevas,Mujer,,46,1581920.0,19,Nuevo León,34389.565217391304
+0,Mejoramientos,Hombre,,31073,46551940.36,19,Nuevo León,1498.1475995237022
+0,Mejoramientos,Mujer,,16529,42168544.74,19,Nuevo León,2551.185476435356
+0,Otros programas,Hombre,,14,189000.0,19,Nuevo León,13500.0
+0,Otros programas,Mujer,,14,189000.0,19,Nuevo León,13500.0
+0,Viviendas nuevas,Hombre,Económica,238,25680025.96,19,Nuevo León,107899.2687394958
+0,Viviendas nuevas,Mujer,Económica,754,78667411.05,19,Nuevo León,104333.43640583554
+0,Viviendas existentes,Hombre,Económica,158,63867265.8133536,19,Nuevo León,404223.2013503392
+0,Viviendas existentes,Mujer,Económica,130,55773793.7690864,19,Nuevo León,429029.18283912615
+0,Mejoramientos,Hombre,Económica,64,9056402.0,19,Nuevo León,141506.28125
+0,Mejoramientos,Mujer,Económica,33,4708384.0,19,Nuevo León,142678.30303030304
+0,Otros programas,Hombre,Económica,100,28943601.666488,19,Nuevo León,289436.01666488
+0,Otros programas,Mujer,Económica,48,14405681.372184,19,Nuevo León,300118.3619205
+0,Viviendas nuevas,Hombre,Popular,6042,3587221665.763701,19,Nuevo León,593714.277683499
+0,Viviendas nuevas,Mujer,Popular,3731,2162704590.5876145,19,Nuevo León,579658.1588280929
+0,Viviendas existentes,Hombre,Popular,8615,4926213134.62063,19,Nuevo León,571818.1235775542
+0,Viviendas existentes,Mujer,Popular,5314,2991493597.922856,19,Nuevo León,562945.727874079
+0,Mejoramientos,Hombre,Popular,879,519672779.9431888,19,Nuevo León,591209.0784336618
+0,Mejoramientos,Mujer,Popular,381,216730616.9891504,19,Nuevo León,568846.7637510509
+0,Otros programas,Hombre,Popular,296,167925581.0489504,19,Nuevo León,567316.1521924001
+0,Otros programas,Mujer,Popular,134,73019448.32492,19,Nuevo León,544921.2561561194
+0,Viviendas nuevas,Hombre,Tradicional,15430,10454588657.196526,19,Nuevo León,677549.4917172084
+0,Viviendas nuevas,Mujer,Tradicional,10075,5662721560.458046,19,Nuevo León,562056.7305665554
+0,Viviendas existentes,Hombre,Tradicional,7941,5741114887.156982,19,Nuevo León,722971.2740406728
+0,Viviendas existentes,Mujer,Tradicional,4285,2701982918.908587,19,Nuevo León,630567.775707955
+0,Mejoramientos,Hombre,Tradicional,1100,774565696.2631232,19,Nuevo León,704150.6329664756
+0,Mejoramientos,Mujer,Tradicional,599,335577785.480744,19,Nuevo León,560230.0258443139
+0,Otros programas,Hombre,Tradicional,350,276506994.0325584,19,Nuevo León,790019.9829501668
+0,Otros programas,Mujer,Tradicional,147,100267612.3856208,19,Nuevo León,682092.6012627266
+0,Viviendas nuevas,Hombre,Media,7558,8188949571.01116,19,Nuevo León,1083481.0228911298
+0,Viviendas nuevas,Mujer,Media,4943,4516518270.545165,19,Nuevo León,913720.0628252408
+0,Viviendas existentes,Hombre,Media,5117,6334468435.560877,19,Nuevo León,1237926.2137113302
+0,Viviendas existentes,Mujer,Media,3323,3456957512.136587,19,Nuevo León,1040312.2215277121
+0,Mejoramientos,Hombre,Media,138,225586146.6154048,19,Nuevo León,1634682.2218507596
+0,Mejoramientos,Mujer,Media,46,74006325.3697664,19,Nuevo León,1608833.160212313
+0,Otros programas,Hombre,Media,719,836929683.5342607,19,Nuevo León,1164019.0313411136
+0,Otros programas,Mujer,Media,304,365472698.0672288,19,Nuevo León,1202212.8225895683
+0,Viviendas nuevas,Hombre,Residencial,7596,14418107668.615826,19,Nuevo León,1898118.4397861804
+0,Viviendas nuevas,Mujer,Residencial,4410,7734347708.302688,19,Nuevo León,1753820.34201875
+0,Viviendas existentes,Hombre,Residencial,2493,5563258938.83263,19,Nuevo León,2231551.9209116045
+0,Viviendas existentes,Mujer,Residencial,1394,2913716839.959296,19,Nuevo León,2090184.2467426802
+0,Mejoramientos,Hombre,Residencial,77,260670978.9523328,19,Nuevo León,3385337.388991335
+0,Mejoramientos,Mujer,Residencial,17,57218825.0,19,Nuevo León,3365813.2352941176
+0,Otros programas,Hombre,Residencial,908,1612790570.6021647,19,Nuevo León,1776201.0689451154
+0,Otros programas,Mujer,Residencial,363,654240200.637368,19,Nuevo León,1802314.6023067988
+0,Viviendas nuevas,Hombre,Residencial plus,2970,13472491789.845894,19,Nuevo León,4536192.521833634
+0,Viviendas nuevas,Mujer,Residencial plus,1246,4742836049.22747,19,Nuevo León,3806449.4777106503
+0,Viviendas existentes,Hombre,Residencial plus,1327,7454473618.696576,19,Nuevo León,5617538.522001942
+0,Viviendas existentes,Mujer,Residencial plus,545,2675245421.4596705,19,Nuevo León,4908707.195338845
+0,Mejoramientos,Hombre,Residencial plus,50,396253236.0,19,Nuevo León,7925064.72
+0,Mejoramientos,Mujer,Residencial plus,8,68559000.0,19,Nuevo León,8569875.0
+0,Otros programas,Hombre,Residencial plus,956,4074009693.520368,19,Nuevo León,4261516.415816285
+0,Otros programas,Mujer,Residencial plus,262,984624908.948144,19,Nuevo León,3758110.3394967327
+0,Mejoramientos,Hombre,,7061,65195298.3,20,Oaxaca,9233.153703441438
+0,Mejoramientos,Mujer,,5672,97973581.12,20,Oaxaca,17273.198363892807
+0,Otros programas,Hombre,,720,9720000.0,20,Oaxaca,13500.0
+0,Otros programas,Mujer,,1189,16051500.0,20,Oaxaca,13500.0
+0,Viviendas nuevas,Hombre,Económica,324,57395085.774,20,Oaxaca,177145.32646296296
+0,Viviendas nuevas,Mujer,Económica,989,188903314.14,20,Oaxaca,191004.3621233569
+0,Viviendas existentes,Hombre,Económica,2,752977.3799472,20,Oaxaca,376488.6899736
+0,Viviendas existentes,Mujer,Económica,7,3327486.2276512,20,Oaxaca,475355.1753787428
+0,Mejoramientos,Hombre,Económica,7,1718446.0,20,Oaxaca,245492.2857142857
+0,Mejoramientos,Mujer,Económica,5,1267178.43,20,Oaxaca,253435.686
+0,Otros programas,Hombre,Económica,35,10793130.0750896,20,Oaxaca,308375.14500256
+0,Otros programas,Mujer,Económica,23,7181097.7992608,20,Oaxaca,312221.6434461217
+0,Viviendas nuevas,Hombre,Popular,40,21743194.4535632,20,Oaxaca,543579.8613390799
+0,Viviendas nuevas,Mujer,Popular,40,22668229.0527392,20,Oaxaca,566705.72631848
+0,Viviendas existentes,Hombre,Popular,196,111170599.4952368,20,Oaxaca,567196.9362001878
+0,Viviendas existentes,Mujer,Popular,171,97100679.7253472,20,Oaxaca,567840.232311972
+0,Mejoramientos,Hombre,Popular,29,15532065.2676528,20,Oaxaca,535588.457505269
+0,Mejoramientos,Mujer,Popular,48,25099053.1848272,20,Oaxaca,522896.9413505667
+0,Otros programas,Hombre,Popular,47,25331479.064696,20,Oaxaca,538967.639674383
+0,Otros programas,Mujer,Popular,35,20638237.8186464,20,Oaxaca,589663.9376756115
+0,Viviendas nuevas,Hombre,Tradicional,333,267306586.1331984,20,Oaxaca,802722.4808804757
+0,Viviendas nuevas,Mujer,Tradicional,385,296297485.583856,20,Oaxaca,769603.8586593661
+0,Viviendas existentes,Hombre,Tradicional,420,312055462.4214944,20,Oaxaca,742989.1962416534
+0,Viviendas existentes,Mujer,Tradicional,507,382591354.1653472,20,Oaxaca,754618.055552953
+0,Mejoramientos,Hombre,Tradicional,5,4519481.8101632,20,Oaxaca,903896.36203264
+0,Mejoramientos,Mujer,Tradicional,3,2355543.7979296,20,Oaxaca,785181.2659765333
+0,Otros programas,Hombre,Tradicional,21,15363970.5677856,20,Oaxaca,731617.6460850285
+0,Otros programas,Mujer,Tradicional,26,15280856.593592,20,Oaxaca,587725.2535996923
+0,Viviendas nuevas,Hombre,Media,324,372942794.1178512,20,Oaxaca,1151058.0065365778
+0,Viviendas nuevas,Mujer,Media,314,335490838.4471232,20,Oaxaca,1068442.1606596282
+0,Viviendas existentes,Hombre,Media,401,463770512.459312,20,Oaxaca,1156534.943788808
+0,Viviendas existentes,Mujer,Media,456,514946353.648248,20,Oaxaca,1129268.3194040526
+0,Mejoramientos,Hombre,Media,12,15696162.4084848,20,Oaxaca,1308013.5340404
+0,Mejoramientos,Mujer,Media,6,8396150.8999472,20,Oaxaca,1399358.4833245333
+0,Otros programas,Hombre,Media,31,37400208.3875184,20,Oaxaca,1206458.3350812388
+0,Otros programas,Mujer,Media,32,32531478.2584608,20,Oaxaca,1016608.6955769
+0,Viviendas nuevas,Hombre,Residencial,87,187311983.5514736,20,Oaxaca,2153011.3051893516
+0,Viviendas nuevas,Mujer,Residencial,65,140889724.1547888,20,Oaxaca,2167534.2177659813
+0,Viviendas existentes,Hombre,Residencial,69,157141171.8387952,20,Oaxaca,2277408.2875187714
+0,Viviendas existentes,Mujer,Residencial,43,90562463.480904,20,Oaxaca,2106103.8018814884
+0,Mejoramientos,Hombre,Residencial,5,20219150.0,20,Oaxaca,4043830.0
+0,Mejoramientos,Mujer,Residencial,1,3935000.0,20,Oaxaca,3935000.0
+0,Otros programas,Hombre,Residencial,34,44069010.3750688,20,Oaxaca,1296147.3639726117
+0,Otros programas,Mujer,Residencial,31,49763451.3901312,20,Oaxaca,1605272.6254881031
+0,Viviendas nuevas,Hombre,Residencial plus,23,129840855.0,20,Oaxaca,5645254.565217392
+0,Viviendas nuevas,Mujer,Residencial plus,19,97500875.0,20,Oaxaca,5131625.0
+0,Viviendas existentes,Hombre,Residencial plus,28,136069678.0,20,Oaxaca,4859631.357142857
+0,Viviendas existentes,Mujer,Residencial plus,11,45996755.0,20,Oaxaca,4181523.1818181816
+0,Mejoramientos,Hombre,Residencial plus,3,30873700.0,20,Oaxaca,10291233.333333334
+0,Otros programas,Hombre,Residencial plus,23,90042482.0,20,Oaxaca,3914890.5217391304
+0,Otros programas,Mujer,Residencial plus,16,66267840.0,20,Oaxaca,4141740.0
+0,Mejoramientos,Hombre,,9644,54892280.06,21,Puebla,5691.858156366653
+0,Mejoramientos,Mujer,,6183,63753854.36,21,Puebla,10311.152249716966
+0,Otros programas,Hombre,,197,2659500.0,21,Puebla,13500.0
+0,Otros programas,Mujer,,241,3253500.0,21,Puebla,13500.0
+0,Viviendas nuevas,Hombre,Económica,332,54045920.081024,21,Puebla,162788.9159066988
+0,Viviendas nuevas,Mujer,Económica,1349,225854293.4674624,21,Puebla,167423.49404556144
+0,Viviendas existentes,Hombre,Económica,5,1458557.9576768,21,Puebla,291711.59153535997
+0,Viviendas existentes,Mujer,Económica,2,1020533.44,21,Puebla,510266.72
+0,Mejoramientos,Hombre,Económica,130,35464518.0,21,Puebla,272803.9846153846
+0,Mejoramientos,Mujer,Económica,286,80426370.0,21,Puebla,281211.0839160839
+0,Otros programas,Hombre,Económica,27,7412250.708576,21,Puebla,274527.80402133334
+0,Otros programas,Mujer,Económica,19,6354609.9231904,21,Puebla,334453.1538521263
+0,Viviendas nuevas,Hombre,Popular,1542,851905364.3651007,21,Puebla,552467.8108723091
+0,Viviendas nuevas,Mujer,Popular,1862,969038169.54756,21,Puebla,520428.66248526314
+0,Viviendas existentes,Hombre,Popular,1498,830825922.0494112,21,Puebla,554623.4459608886
+0,Viviendas existentes,Mujer,Popular,1221,657088237.2258176,21,Puebla,538155.804443749
+0,Mejoramientos,Hombre,Popular,4,1990900.3995568,21,Puebla,497725.0998892
+0,Mejoramientos,Mujer,Popular,5,2324902.87,21,Puebla,464980.574
+0,Otros programas,Hombre,Popular,119,56360852.922936,21,Puebla,473620.61279778153
+0,Otros programas,Mujer,Popular,47,21964670.0374128,21,Puebla,467333.40505133616
+0,Viviendas nuevas,Hombre,Tradicional,2314,1522170375.0175295,21,Puebla,657809.1508286644
+0,Viviendas nuevas,Mujer,Tradicional,2088,1267881680.4290593,21,Puebla,607223.0270254115
+0,Viviendas existentes,Hombre,Tradicional,2128,1470868923.6783855,21,Puebla,691197.8024804443
+0,Viviendas existentes,Mujer,Tradicional,1851,1182795749.6111584,21,Puebla,639003.6464674005
+0,Mejoramientos,Hombre,Tradicional,13,11401164.4707472,21,Puebla,877012.6515959385
+0,Mejoramientos,Mujer,Tradicional,12,10319126.6747888,21,Puebla,859927.2228990666
+0,Otros programas,Hombre,Tradicional,134,105401616.4791472,21,Puebla,786579.2274563224
+0,Otros programas,Mujer,Tradicional,78,52094960.2137168,21,Puebla,667884.1053040616
+0,Viviendas nuevas,Hombre,Media,3108,3497311198.438005,21,Puebla,1125261.0033584314
+0,Viviendas nuevas,Mujer,Media,2533,2618032859.5195823,21,Puebla,1033570.0195497759
+0,Viviendas existentes,Hombre,Media,1788,2197001481.0804896,21,Puebla,1228748.0319242112
+0,Viviendas existentes,Mujer,Media,1382,1538403962.182325,21,Puebla,1113172.1868178907
+0,Mejoramientos,Hombre,Media,21,35875670.9798608,21,Puebla,1708365.284755276
+0,Mejoramientos,Mujer,Media,5,9197514.6884768,21,Puebla,1839502.9376953603
+0,Otros programas,Hombre,Media,275,309014227.23368,21,Puebla,1123688.0990315636
+0,Otros programas,Mujer,Media,204,201502018.9950784,21,Puebla,987754.9950739138
+0,Viviendas nuevas,Hombre,Residencial,1373,2574371572.1724415,21,Puebla,1874997.5034030892
+0,Viviendas nuevas,Mujer,Residencial,866,1629789953.9965153,21,Puebla,1881974.5427211493
+0,Viviendas existentes,Hombre,Residencial,678,1504732452.9357104,21,Puebla,2219369.3996101925
+0,Viviendas existentes,Mujer,Residencial,451,979459082.7072432,21,Puebla,2171749.6290626237
+0,Mejoramientos,Hombre,Residencial,4,12944463.0,21,Puebla,3236115.75
+0,Mejoramientos,Mujer,Residencial,1,3375000.0,21,Puebla,3375000.0
+0,Otros programas,Hombre,Residencial,192,336360168.77084,21,Puebla,1751875.8790147917
+0,Otros programas,Mujer,Residencial,92,150100189.4533664,21,Puebla,1631523.7984061565
+0,Viviendas nuevas,Hombre,Residencial plus,302,1382390886.0234897,21,Puebla,4577453.264978442
+0,Viviendas nuevas,Mujer,Residencial plus,169,669648174.9286944,21,Puebla,3962415.2362644635
+0,Viviendas existentes,Hombre,Residencial plus,183,1141858006.832624,21,Puebla,6239661.239522535
+0,Viviendas existentes,Mujer,Residencial plus,105,538998489.5201088,21,Puebla,5133318.94781056
+0,Mejoramientos,Hombre,Residencial plus,1,8995500.0,21,Puebla,8995500.0
+0,Mejoramientos,Mujer,Residencial plus,1,5550757.0,21,Puebla,5550757.0
+0,Otros programas,Hombre,Residencial plus,147,617103406.0,21,Puebla,4197982.353741497
+0,Otros programas,Mujer,Residencial plus,43,178697374.0,21,Puebla,4155752.88372093
+0,Mejoramientos,Hombre,,5229,16865930.83,22,Querétaro,3225.4600937081655
+0,Mejoramientos,Mujer,,3861,47402305.72,22,Querétaro,12277.209458689458
+0,Otros programas,Hombre,,137,1849500.0,22,Querétaro,13500.0
+0,Otros programas,Mujer,,183,2470500.0,22,Querétaro,13500.0
+0,Viviendas nuevas,Hombre,Económica,58,14260083.66,22,Querétaro,245863.51137931034
+0,Viviendas nuevas,Mujer,Económica,197,54100216.13,22,Querétaro,274620.38644670055
+0,Viviendas existentes,Hombre,Económica,5,2303250.8535408,22,Querétaro,460650.17070816003
+0,Viviendas existentes,Mujer,Económica,3,1348068.2954304,22,Querétaro,449356.09847679996
+0,Mejoramientos,Hombre,Económica,9,1828567.14,22,Querétaro,203174.12666666665
+0,Mejoramientos,Mujer,Económica,4,624875.75,22,Querétaro,156218.9375
+0,Otros programas,Hombre,Económica,33,10316048.2865088,22,Querétaro,312607.5238336
+0,Otros programas,Mujer,Económica,22,6165714.2812848,22,Querétaro,280259.74005839997
+0,Viviendas nuevas,Hombre,Popular,15,5715064.5278416,22,Querétaro,381004.3018561067
+0,Viviendas nuevas,Mujer,Popular,18,9647528.2006944,22,Querétaro,535973.7889274667
+0,Viviendas existentes,Hombre,Popular,574,322886347.4355664,22,Querétaro,562519.7690515094
+0,Viviendas existentes,Mujer,Popular,492,278243315.3742464,22,Querétaro,565535.1938500943
+0,Mejoramientos,Hombre,Popular,5,2696437.48,22,Querétaro,539287.496
+0,Mejoramientos,Mujer,Popular,11,5930080.0,22,Querétaro,539098.1818181818
+0,Otros programas,Hombre,Popular,127,71754921.6543696,22,Querétaro,564999.3831052724
+0,Otros programas,Mujer,Popular,75,41289639.8255552,22,Querétaro,550528.5310074027
+0,Viviendas nuevas,Hombre,Tradicional,2692,1918012225.3425632,22,Querétaro,712485.967809273
+0,Viviendas nuevas,Mujer,Tradicional,2336,1504950930.384408,22,Querétaro,644242.6928015446
+0,Viviendas existentes,Hombre,Tradicional,2678,1896337947.4278767,22,Querétaro,708117.2320492445
+0,Viviendas existentes,Mujer,Tradicional,2200,1366910911.9963665,22,Querétaro,621323.1418165303
+0,Mejoramientos,Hombre,Tradicional,33,31290491.2322032,22,Querétaro,948196.7040061576
+0,Mejoramientos,Mujer,Tradicional,13,12211009.7205744,22,Querétaro,939308.4400441846
+0,Otros programas,Hombre,Tradicional,340,267328074.8504496,22,Querétaro,786259.0436777929
+0,Otros programas,Mujer,Tradicional,165,117150155.807976,22,Querétaro,710000.9442907636
+0,Viviendas nuevas,Hombre,Media,5975,6687740787.703567,22,Querétaro,1119287.1611219358
+0,Viviendas nuevas,Mujer,Media,4582,4719968002.427384,22,Querétaro,1030110.86914609
+0,Viviendas existentes,Hombre,Media,3418,3936917266.46265,22,Querétaro,1151818.9779001316
+0,Viviendas existentes,Mujer,Media,2568,2632104161.4628,22,Querétaro,1024962.679697352
+0,Mejoramientos,Hombre,Media,26,41686640.3271984,22,Querétaro,1603332.3202768615
+0,Mejoramientos,Mujer,Media,21,32707505.8661248,22,Querétaro,1557500.2793392763
+0,Otros programas,Hombre,Media,723,829980535.9063984,22,Querétaro,1147967.5462052536
+0,Otros programas,Mujer,Media,403,420209755.9837168,22,Querétaro,1042704.1091407364
+0,Viviendas nuevas,Hombre,Residencial,4283,7770797025.127475,22,Querétaro,1814335.051395628
+0,Viviendas nuevas,Mujer,Residencial,2712,4730595468.241264,22,Querétaro,1744319.8629208202
+0,Viviendas existentes,Hombre,Residencial,1424,3098613455.7602673,22,Querétaro,2175992.595337266
+0,Viviendas existentes,Mujer,Residencial,897,1803037020.1598735,22,Querétaro,2010074.715897295
+0,Mejoramientos,Hombre,Residencial,10,30354843.1005424,22,Querétaro,3035484.31005424
+0,Mejoramientos,Mujer,Residencial,8,26875483.0,22,Querétaro,3359435.375
+0,Otros programas,Hombre,Residencial,558,940439306.806624,22,Querétaro,1685375.1018039857
+0,Otros programas,Mujer,Residencial,251,411571309.3175856,22,Querétaro,1639726.331942572
+0,Viviendas nuevas,Hombre,Residencial plus,748,2815227404.869282,22,Querétaro,3763673.0011621416
+0,Viviendas nuevas,Mujer,Residencial plus,306,1168160924.9440353,22,Querétaro,3817519.362562207
+0,Viviendas existentes,Hombre,Residencial plus,334,1820303387.9212737,22,Querétaro,5450010.143476867
+0,Viviendas existentes,Mujer,Residencial plus,159,766596291.6063328,22,Querétaro,4821360.324568131
+0,Mejoramientos,Hombre,Residencial plus,8,82312122.0,22,Querétaro,10289015.25
+0,Mejoramientos,Mujer,Residencial plus,4,25117600.0,22,Querétaro,6279400.0
+0,Otros programas,Hombre,Residencial plus,281,1078487418.0,22,Querétaro,3838033.516014235
+0,Otros programas,Mujer,Residencial plus,127,465265277.0,22,Querétaro,3663506.1181102362
+0,Mejoramientos,Hombre,,2660,15558317.0,23,Quintana Roo,5848.991353383459
+0,Mejoramientos,Mujer,,1953,22289000.76,23,Quintana Roo,11412.698801843319
+0,Otros programas,Hombre,,502,6777000.0,23,Quintana Roo,13500.0
+0,Otros programas,Mujer,,678,9153000.0,23,Quintana Roo,13500.0
+0,Viviendas nuevas,Hombre,Económica,814,159785650.52,23,Quintana Roo,196296.86796068796
+0,Viviendas nuevas,Mujer,Económica,2273,444094014.88,23,Quintana Roo,195377.9211966564
+0,Viviendas existentes,Hombre,Económica,11,4045058.2326896,23,Quintana Roo,367732.5666081454
+0,Viviendas existentes,Mujer,Económica,6,3187599.2552544,23,Quintana Roo,531266.5425424
+0,Mejoramientos,Hombre,Económica,24,3158645.0,23,Quintana Roo,131610.20833333334
+0,Mejoramientos,Mujer,Económica,24,3137143.0,23,Quintana Roo,130714.29166666667
+0,Otros programas,Hombre,Económica,17,4771939.0147824,23,Quintana Roo,280702.2949872
+0,Otros programas,Mujer,Económica,10,3130776.6419632,23,Quintana Roo,313077.66419632
+0,Viviendas nuevas,Hombre,Popular,1209,710593345.4238528,23,Quintana Roo,587752.9738824258
+0,Viviendas nuevas,Mujer,Popular,1561,850801956.5690897,23,Quintana Roo,545036.48723196
+0,Viviendas existentes,Hombre,Popular,1015,581156605.863576,23,Quintana Roo,572568.0845946562
+0,Viviendas existentes,Mujer,Popular,1084,621495006.6439072,23,Quintana Roo,573334.8769777742
+0,Mejoramientos,Hombre,Popular,176,97471369.54052,23,Quintana Roo,553814.5996620455
+0,Mejoramientos,Mujer,Popular,158,86373894.9566688,23,Quintana Roo,546670.2212447393
+0,Otros programas,Hombre,Popular,19,10382970.2930384,23,Quintana Roo,546472.1206862315
+0,Otros programas,Mujer,Popular,19,10721099.7815728,23,Quintana Roo,564268.4095564631
+0,Viviendas nuevas,Hombre,Tradicional,9352,5624172828.703688,23,Quintana Roo,601387.1715893593
+0,Viviendas nuevas,Mujer,Tradicional,7213,4224011444.6446414,23,Quintana Roo,585610.9031810123
+0,Viviendas existentes,Hombre,Tradicional,2180,1455008104.7644176,23,Quintana Roo,667434.9104423934
+0,Viviendas existentes,Mujer,Tradicional,1930,1252588902.194696,23,Quintana Roo,649009.7938832622
+0,Mejoramientos,Hombre,Tradicional,195,134365184.101352,23,Quintana Roo,689052.2261607795
+0,Mejoramientos,Mujer,Tradicional,155,97920646.4309856,23,Quintana Roo,631746.1060063588
+0,Otros programas,Hombre,Tradicional,39,26879800.4727408,23,Quintana Roo,689225.6531472
+0,Otros programas,Mujer,Tradicional,43,26462716.2683392,23,Quintana Roo,615412.0062404466
+0,Viviendas nuevas,Hombre,Media,4938,4963678279.563254,23,Quintana Roo,1005200.1376191281
+0,Viviendas nuevas,Mujer,Media,4127,3979755679.0011873,23,Quintana Roo,964321.7055975739
+0,Viviendas existentes,Hombre,Media,1723,2068090781.5707233,23,Quintana Roo,1200284.8413062817
+0,Viviendas existentes,Mujer,Media,1559,1759497328.0845792,23,Quintana Roo,1128606.368238986
+0,Mejoramientos,Hombre,Media,18,31208070.4245808,23,Quintana Roo,1733781.690254489
+0,Mejoramientos,Mujer,Media,12,17896062.8558672,23,Quintana Roo,1491338.5713222667
+0,Otros programas,Hombre,Media,105,114289936.2897904,23,Quintana Roo,1088475.5837122896
+0,Otros programas,Mujer,Media,80,85332052.95052,23,Quintana Roo,1066650.6618815
+0,Viviendas nuevas,Hombre,Residencial,2400,5101693034.090329,23,Quintana Roo,2125705.4308709707
+0,Viviendas nuevas,Mujer,Residencial,1819,3717478921.0355825,23,Quintana Roo,2043693.7443845973
+0,Viviendas existentes,Hombre,Residencial,705,1641773596.4607968,23,Quintana Roo,2328756.874412478
+0,Viviendas existentes,Mujer,Residencial,507,1186507535.408739,23,Quintana Roo,2340251.549129663
+0,Mejoramientos,Hombre,Residencial,8,28800000.0,23,Quintana Roo,3600000.0
+0,Mejoramientos,Mujer,Residencial,1,2900000.0,23,Quintana Roo,2900000.0
+0,Otros programas,Hombre,Residencial,120,206827247.9084528,23,Quintana Roo,1723560.3992371068
+0,Otros programas,Mujer,Residencial,71,113864676.0,23,Quintana Roo,1603727.8309859154
+0,Viviendas nuevas,Hombre,Residencial plus,502,2812846605.5791054,23,Quintana Roo,5603280.090795031
+0,Viviendas nuevas,Mujer,Residencial plus,223,1032035339.5184,23,Quintana Roo,4627961.163759641
+0,Viviendas existentes,Hombre,Residencial plus,278,1932564401.4904177,23,Quintana Roo,6951670.508958337
+0,Viviendas existentes,Mujer,Residencial plus,130,735559358.7779472,23,Quintana Roo,5658148.913676517
+0,Mejoramientos,Hombre,Residencial plus,3,23554200.0,23,Quintana Roo,7851400.0
+0,Mejoramientos,Mujer,Residencial plus,1,7111402.0,23,Quintana Roo,7111402.0
+0,Otros programas,Hombre,Residencial plus,138,834793088.0,23,Quintana Roo,6049225.275362318
+0,Otros programas,Mujer,Residencial plus,47,187909745.0,23,Quintana Roo,3998079.6808510637
+0,Mejoramientos,Hombre,,5594,62061399.53,24,San Luis Potosí,11094.279501251342
+0,Mejoramientos,Mujer,,3965,61655645.0,24,San Luis Potosí,15549.973518284994
+0,Otros programas,Hombre,,41,553500.0,24,San Luis Potosí,13500.0
+0,Otros programas,Mujer,,55,742500.0,24,San Luis Potosí,13500.0
+0,Viviendas nuevas,Hombre,Económica,92,8581983.38,24,San Luis Potosí,93282.42804347827
+0,Viviendas nuevas,Mujer,Económica,319,30388434.8,24,San Luis Potosí,95261.55109717869
+0,Viviendas existentes,Hombre,Económica,6,1857970.349552,24,San Luis Potosí,309661.72492533334
+0,Viviendas existentes,Mujer,Económica,6,2157134.6907968,24,San Luis Potosí,359522.4484661333
+0,Mejoramientos,Hombre,Económica,11,2579908.0311232,24,San Luis Potosí,234537.09373847273
+0,Mejoramientos,Mujer,Económica,10,2855334.0,24,San Luis Potosí,285533.4
+0,Otros programas,Hombre,Económica,78,25384857.851008,24,San Luis Potosí,325446.8955257436
+0,Otros programas,Mujer,Económica,61,19167081.9833088,24,San Luis Potosí,314214.4587427672
+0,Viviendas nuevas,Hombre,Popular,216,132435020.0918912,24,San Luis Potosí,613125.0930180148
+0,Viviendas nuevas,Mujer,Popular,195,116990176.5348144,24,San Luis Potosí,599949.6232554584
+0,Viviendas existentes,Hombre,Popular,861,496406654.5953664,24,San Luis Potosí,576546.6371607044
+0,Viviendas existentes,Mujer,Popular,814,461967285.6227072,24,San Luis Potosí,567527.3779148737
+0,Mejoramientos,Hombre,Popular,260,153505097.480232,24,San Luis Potosí,590404.2210778154
+0,Mejoramientos,Mujer,Popular,210,120949411.0869008,24,San Luis Potosí,575949.5766042895
+0,Otros programas,Hombre,Popular,235,130293803.5299984,24,San Luis Potosí,554441.7171489294
+0,Otros programas,Mujer,Popular,109,58827891.3669712,24,San Luis Potosí,539705.4253850569
+0,Viviendas nuevas,Hombre,Tradicional,2290,1603822743.620797,24,San Luis Potosí,700359.2766903043
+0,Viviendas nuevas,Mujer,Tradicional,1828,1153268917.602363,24,San Luis Potosí,630891.0927802862
+0,Viviendas existentes,Hombre,Tradicional,3514,2365497757.617778,24,San Luis Potosí,673163.8467893505
+0,Viviendas existentes,Mujer,Tradicional,2956,1745409520.0284927,24,San Luis Potosí,590463.3017687729
+0,Mejoramientos,Hombre,Tradicional,207,149343799.199664,24,San Luis Potosí,721467.628983884
+0,Mejoramientos,Mujer,Tradicional,125,79908889.1404512,24,San Luis Potosí,639271.1131236096
+0,Otros programas,Hombre,Tradicional,262,198734506.7910112,24,San Luis Potosí,758528.6518740886
+0,Otros programas,Mujer,Tradicional,116,80537124.8781536,24,San Luis Potosí,694285.5592944276
+0,Viviendas nuevas,Hombre,Media,3442,3669030131.1077986,24,San Luis Potosí,1065958.783006333
+0,Viviendas nuevas,Mujer,Media,2597,2474744557.2255554,24,San Luis Potosí,952924.357807299
+0,Viviendas existentes,Hombre,Media,2159,2375086747.702672,24,San Luis Potosí,1100086.4973148087
+0,Viviendas existentes,Mujer,Media,1690,1599919914.830613,24,San Luis Potosí,946698.1744559839
+0,Mejoramientos,Hombre,Media,25,46224241.3567888,24,San Luis Potosí,1848969.6542715519
+0,Mejoramientos,Mujer,Media,9,15990733.466656,24,San Luis Potosí,1776748.1629617778
+0,Otros programas,Hombre,Media,342,355411557.1060624,24,San Luis Potosí,1039215.0792574924
+0,Otros programas,Mujer,Media,184,179448798.3328672,24,San Luis Potosí,975265.2083308001
+0,Viviendas nuevas,Hombre,Residencial,1036,1873265474.3944943,24,San Luis Potosí,1808171.307330593
+0,Viviendas nuevas,Mujer,Residencial,703,1275807766.0384033,24,San Luis Potosí,1814804.7881058368
+0,Viviendas existentes,Hombre,Residencial,338,716172353.9046352,24,San Luis Potosí,2118853.118061051
+0,Viviendas existentes,Mujer,Residencial,244,438008130.9366752,24,San Luis Potosí,1795115.2907240787
+0,Mejoramientos,Hombre,Residencial,15,53324950.0,24,San Luis Potosí,3554996.6666666665
+0,Mejoramientos,Mujer,Residencial,6,23723811.0,24,San Luis Potosí,3953968.5
+0,Otros programas,Hombre,Residencial,197,326549500.8815488,24,San Luis Potosí,1657611.6796017706
+0,Otros programas,Mujer,Residencial,100,158366719.3386176,24,San Luis Potosí,1583667.193386176
+0,Viviendas nuevas,Hombre,Residencial plus,216,926242590.3168817,24,San Luis Potosí,4288160.140355933
+0,Viviendas nuevas,Mujer,Residencial plus,125,636161332.743816,24,San Luis Potosí,5089290.661950528
+0,Viviendas existentes,Hombre,Residencial plus,145,765145999.9607232,24,San Luis Potosí,5276868.965246366
+0,Viviendas existentes,Mujer,Residencial plus,60,285582161.0387088,24,San Luis Potosí,4759702.68397848
+0,Mejoramientos,Hombre,Residencial plus,6,43148001.0,24,San Luis Potosí,7191333.5
+0,Otros programas,Hombre,Residencial plus,148,579872943.0,24,San Luis Potosí,3918060.4256756757
+0,Otros programas,Mujer,Residencial plus,47,144101238.0,24,San Luis Potosí,3065983.787234043
+0,Mejoramientos,Hombre,,6793,34437055.12,25,Sinaloa,5069.491405858972
+0,Mejoramientos,Mujer,,7046,73229240.29,25,Sinaloa,10393.023032926483
+0,Otros programas,Hombre,,206,2781000.0,25,Sinaloa,13500.0
+0,Otros programas,Mujer,,307,4144500.0,25,Sinaloa,13500.0
+0,Viviendas nuevas,Hombre,Económica,158,29524225.9462912,25,Sinaloa,186862.18953348862
+0,Viviendas nuevas,Mujer,Económica,441,60604819.1743904,25,Sinaloa,137425.89381947936
+0,Viviendas existentes,Hombre,Económica,18,7514357.946568,25,Sinaloa,417464.3303648889
+0,Viviendas existentes,Mujer,Económica,17,6839484.41488,25,Sinaloa,402322.61264
+0,Mejoramientos,Hombre,Económica,29,5350833.2,25,Sinaloa,184511.48965517242
+0,Mejoramientos,Mujer,Económica,22,3896778.8553584,25,Sinaloa,177126.31160719998
+0,Otros programas,Hombre,Económica,70,20044185.7443152,25,Sinaloa,286345.5106330743
+0,Otros programas,Mujer,Económica,33,9761651.4902256,25,Sinaloa,295807.6209159273
+0,Viviendas nuevas,Hombre,Popular,494,288432064.1500288,25,Sinaloa,583870.5752024875
+0,Viviendas nuevas,Mujer,Popular,679,381773649.7441616,25,Sinaloa,562258.6888721084
+0,Viviendas existentes,Hombre,Popular,1019,585120828.9948463,25,Sinaloa,574210.823351174
+0,Viviendas existentes,Mujer,Popular,1019,567757901.4559984,25,Sinaloa,557171.6402904793
+0,Mejoramientos,Hombre,Popular,78,45389148.2713584,25,Sinaloa,581912.1573251077
+0,Mejoramientos,Mujer,Popular,40,21614135.7510576,25,Sinaloa,540353.39377644
+0,Otros programas,Hombre,Popular,79,40251121.8264272,25,Sinaloa,509507.8712205975
+0,Otros programas,Mujer,Popular,55,28621411.6043008,25,Sinaloa,520389.3018963782
+0,Viviendas nuevas,Hombre,Tradicional,1868,1168386576.5535936,25,Sinaloa,625474.6127160565
+0,Viviendas nuevas,Mujer,Tradicional,1938,1119599301.460736,25,Sinaloa,577708.6178847967
+0,Viviendas existentes,Hombre,Tradicional,3411,2213011617.8130946,25,Sinaloa,648786.753976281
+0,Viviendas existentes,Mujer,Tradicional,3097,1795336278.1132991,25,Sinaloa,579701.7365557957
+0,Mejoramientos,Hombre,Tradicional,160,108840485.6607232,25,Sinaloa,680253.0353795199
+0,Mejoramientos,Mujer,Tradicional,107,58492682.5620144,25,Sinaloa,546660.5846917233
+0,Otros programas,Hombre,Tradicional,130,99706766.410312,25,Sinaloa,766975.1262331692
+0,Otros programas,Mujer,Tradicional,70,45875232.542456,25,Sinaloa,655360.4648922286
+0,Viviendas nuevas,Hombre,Media,2777,3119181536.058803,25,Sinaloa,1123219.8545404405
+0,Viviendas nuevas,Mujer,Media,2423,2514034621.043408,25,Sinaloa,1037571.0363365283
+0,Viviendas existentes,Hombre,Media,2358,2640322886.23008,25,Sinaloa,1119729.8075615268
+0,Viviendas existentes,Mujer,Media,2122,2117864662.9917345,25,Sinaloa,998051.2078189135
+0,Mejoramientos,Hombre,Media,31,49823123.3622112,25,Sinaloa,1607197.5278132644
+0,Mejoramientos,Mujer,Media,15,21734260.1339472,25,Sinaloa,1448950.67559648
+0,Otros programas,Hombre,Media,293,319374853.5070464,25,Sinaloa,1090016.5648704655
+0,Otros programas,Mujer,Media,155,149486154.361424,25,Sinaloa,964426.8023317677
+0,Viviendas nuevas,Hombre,Residencial,1750,3869920556.675859,25,Sinaloa,2211383.175243348
+0,Viviendas nuevas,Mujer,Residencial,1173,2546023437.793011,25,Sinaloa,2170522.9648704273
+0,Viviendas existentes,Hombre,Residencial,643,1533609490.1882768,25,Sinaloa,2385084.7436831677
+0,Viviendas existentes,Mujer,Residencial,414,933364161.8255856,25,Sinaloa,2254502.806341994
+0,Mejoramientos,Hombre,Residencial,19,63043870.0439472,25,Sinaloa,3318098.423365642
+0,Mejoramientos,Mujer,Residencial,3,9235047.0,25,Sinaloa,3078349.0
+0,Otros programas,Hombre,Residencial,246,411374804.9153936,25,Sinaloa,1672255.3045341203
+0,Otros programas,Mujer,Residencial,129,205313721.0,25,Sinaloa,1591579.2325581396
+0,Viviendas nuevas,Hombre,Residencial plus,422,1972615005.9357808,25,Sinaloa,4674443.142027916
+0,Viviendas nuevas,Mujer,Residencial plus,200,871939312.9064016,25,Sinaloa,4359696.564532008
+0,Viviendas existentes,Hombre,Residencial plus,189,1033881422.738632,25,Sinaloa,5470272.07798218
+0,Viviendas existentes,Mujer,Residencial plus,89,426052255.38,25,Sinaloa,4787103.993033708
+0,Mejoramientos,Hombre,Residencial plus,4,39527600.0,25,Sinaloa,9881900.0
+0,Mejoramientos,Mujer,Residencial plus,3,29036000.0,25,Sinaloa,9678666.666666666
+0,Otros programas,Hombre,Residencial plus,161,631422816.0,25,Sinaloa,3921880.844720497
+0,Otros programas,Mujer,Residencial plus,81,280830254.0,25,Sinaloa,3467040.172839506
+0,Mejoramientos,Hombre,,12002,26591599.54,26,Sonora,2215.5973621063154
+0,Mejoramientos,Mujer,,10065,52724333.46,26,Sonora,5238.383850968704
+0,Otros programas,Hombre,,355,4792500.0,26,Sonora,13500.0
+0,Otros programas,Mujer,,545,7357500.0,26,Sonora,13500.0
+0,Viviendas nuevas,Hombre,Económica,1127,273643840.41,26,Sonora,242807.31181011538
+0,Viviendas nuevas,Mujer,Económica,3198,799402639.65,26,Sonora,249969.5558630394
+0,Viviendas existentes,Hombre,Económica,19,7589169.2295936,26,Sonora,399429.95945229474
+0,Viviendas existentes,Mujer,Económica,32,15512154.8566032,26,Sonora,484754.83926885
+0,Mejoramientos,Hombre,Económica,46,8174673.0,26,Sonora,177710.28260869565
+0,Mejoramientos,Mujer,Económica,36,5949482.0,26,Sonora,165263.38888888888
+0,Otros programas,Hombre,Económica,50,14275081.3087936,26,Sonora,285501.626175872
+0,Otros programas,Mujer,Económica,31,9508302.733464,26,Sonora,306719.4430149678
+0,Viviendas nuevas,Hombre,Popular,452,270199683.1714528,26,Sonora,597786.9096713559
+0,Viviendas nuevas,Mujer,Popular,483,285628610.1180656,26,Sonora,591363.5820249806
+0,Viviendas existentes,Hombre,Popular,2035,1162958899.9597695,26,Sonora,571478.5749188056
+0,Viviendas existentes,Mujer,Popular,2124,1182695233.4155617,26,Sonora,556824.4978416015
+0,Mejoramientos,Hombre,Popular,36,20593282.0601152,26,Sonora,572035.6127809777
+0,Mejoramientos,Mujer,Popular,31,17626775.5597904,26,Sonora,568605.6632190451
+0,Otros programas,Hombre,Popular,200,122288935.339664,26,Sonora,611444.67669832
+0,Otros programas,Mujer,Popular,102,61956876.2176224,26,Sonora,607420.3550747294
+0,Viviendas nuevas,Hombre,Tradicional,4594,2905120568.505397,26,Sonora,632372.7837408351
+0,Viviendas nuevas,Mujer,Tradicional,4395,2558296975.2888255,26,Sonora,582092.5996106543
+0,Viviendas existentes,Hombre,Tradicional,3873,2642663321.689296,26,Sonora,682329.8016238823
+0,Viviendas existentes,Mujer,Tradicional,3178,1904182464.5912304,26,Sonora,599176.357643559
+0,Mejoramientos,Hombre,Tradicional,171,111115424.9225856,26,Sonora,649797.8065648281
+0,Mejoramientos,Mujer,Tradicional,132,73884552.25192,26,Sonora,559731.4564539394
+0,Otros programas,Hombre,Tradicional,166,127517691.9375536,26,Sonora,768178.8670936964
+0,Otros programas,Mujer,Tradicional,94,71852039.9247936,26,Sonora,764383.4034552511
+0,Viviendas nuevas,Hombre,Media,2817,3093449400.4872336,26,Sonora,1098136.1024093835
+0,Viviendas nuevas,Mujer,Media,2249,2237619490.1121664,26,Sonora,994939.7466038979
+0,Viviendas existentes,Hombre,Media,2326,2725383799.00969,26,Sonora,1171704.1268313369
+0,Viviendas existentes,Mujer,Media,1750,1790602466.8390849,26,Sonora,1023201.4096223342
+0,Mejoramientos,Hombre,Media,23,35271278.3151152,26,Sonora,1533533.8397876173
+0,Mejoramientos,Mujer,Media,9,11948733.98456,26,Sonora,1327637.1093955555
+0,Otros programas,Hombre,Media,294,329385554.7398064,26,Sonora,1120359.0297272326
+0,Otros programas,Mujer,Media,158,165502881.363448,26,Sonora,1047486.5909078987
+0,Viviendas nuevas,Hombre,Residencial,1468,2942390208.36684,26,Sonora,2004353.0029746867
+0,Viviendas nuevas,Mujer,Residencial,918,1777258112.1168272,26,Sonora,1936011.0153778074
+0,Viviendas existentes,Hombre,Residencial,671,1553143700.6099424,26,Sonora,2314670.1946496908
+0,Viviendas existentes,Mujer,Residencial,393,857699071.8663776,26,Sonora,2182440.386428442
+0,Mejoramientos,Hombre,Residencial,14,48587466.874224,26,Sonora,3470533.3481588573
+0,Mejoramientos,Mujer,Residencial,3,10026040.0,26,Sonora,3342013.3333333335
+0,Otros programas,Hombre,Residencial,235,410090894.263216,26,Sonora,1745067.6351626213
+0,Otros programas,Mujer,Residencial,96,166973253.3349472,26,Sonora,1739304.7222390333
+0,Viviendas nuevas,Hombre,Residencial plus,525,2605527722.620032,26,Sonora,4962909.947847679
+0,Viviendas nuevas,Mujer,Residencial plus,257,1130421295.492784,26,Sonora,4398526.441606164
+0,Viviendas existentes,Hombre,Residencial plus,253,1329938003.9264495,26,Sonora,5256671.952278457
+0,Viviendas existentes,Mujer,Residencial plus,117,546414082.2800816,26,Sonora,4670205.831453689
+0,Mejoramientos,Hombre,Residencial plus,3,19348750.0,26,Sonora,6449583.333333333
+0,Mejoramientos,Mujer,Residencial plus,1,5770800.0,26,Sonora,5770800.0
+0,Otros programas,Hombre,Residencial plus,182,681604176.0,26,Sonora,3745077.89010989
+0,Otros programas,Mujer,Residencial plus,62,201367801.0,26,Sonora,3247867.7580645164
+0,Mejoramientos,Hombre,,13281,82773415.37,27,Tabasco,6232.468591973497
+0,Mejoramientos,Mujer,,7762,128725730.97,27,Tabasco,16584.093142231384
+0,Otros programas,Hombre,,55,742500.0,27,Tabasco,13500.0
+0,Otros programas,Mujer,,92,1242000.0,27,Tabasco,13500.0
+0,Viviendas nuevas,Hombre,Económica,1170,215116704.5,27,Tabasco,183860.4311965812
+0,Viviendas nuevas,Mujer,Económica,3305,621461467.76,27,Tabasco,188036.75272617248
+0,Viviendas existentes,Hombre,Económica,3,1112748.2473536,27,Tabasco,370916.08245120005
+0,Viviendas existentes,Mujer,Económica,6,2162598.5674672,27,Tabasco,360433.09457786666
+0,Mejoramientos,Hombre,Económica,6,971063.0,27,Tabasco,161843.83333333334
+0,Mejoramientos,Mujer,Económica,1,207283.0,27,Tabasco,207283.0
+0,Otros programas,Hombre,Económica,70,21753659.6790928,27,Tabasco,310766.56684418285
+0,Otros programas,Mujer,Económica,47,14661574.878376,27,Tabasco,311948.4016675745
+0,Viviendas nuevas,Hombre,Popular,32,16897232.058176,27,Tabasco,528038.501818
+0,Viviendas nuevas,Mujer,Popular,35,19375485.85816,27,Tabasco,553585.3102331428
+0,Viviendas existentes,Hombre,Popular,839,474709383.4541296,27,Tabasco,565803.7943434202
+0,Viviendas existentes,Mujer,Popular,648,363859548.1148384,27,Tabasco,561511.648325368
+0,Mejoramientos,Hombre,Popular,5,2497908.1906944,27,Tabasco,499581.63813888
+0,Mejoramientos,Mujer,Popular,2,1106130.768,27,Tabasco,553065.384
+0,Otros programas,Hombre,Popular,241,128354230.363792,27,Tabasco,532590.1674846141
+0,Otros programas,Mujer,Popular,65,32363905.6909952,27,Tabasco,497906.2413999262
+0,Viviendas nuevas,Hombre,Tradicional,448,321178956.068192,27,Tabasco,716917.3126522143
+0,Viviendas nuevas,Mujer,Tradicional,414,279735416.0621104,27,Tabasco,675689.4107780445
+0,Viviendas existentes,Hombre,Tradicional,1544,1142147657.7123263,27,Tabasco,739732.9389328539
+0,Viviendas existentes,Mujer,Tradicional,1347,973554198.0747728,27,Tabasco,722757.3853561787
+0,Mejoramientos,Hombre,Tradicional,8,6350626.940992,27,Tabasco,793828.367624
+0,Mejoramientos,Mujer,Tradicional,9,7643173.3148112,27,Tabasco,849241.4794234666
+0,Otros programas,Hombre,Tradicional,256,212932745.556088,27,Tabasco,831768.5373284688
+0,Otros programas,Mujer,Tradicional,70,51427809.5100832,27,Tabasco,734682.9930011885
+0,Viviendas nuevas,Hombre,Media,423,591992103.02644,27,Tabasco,1399508.5177930023
+0,Viviendas nuevas,Mujer,Media,319,412610647.0039872,27,Tabasco,1293450.304087734
+0,Viviendas existentes,Hombre,Media,952,1192289988.9118657,27,Tabasco,1252405.4505376741
+0,Viviendas existentes,Mujer,Media,933,1124019636.03968,27,Tabasco,1204737.0161197
+0,Mejoramientos,Hombre,Media,7,10505028.7169776,27,Tabasco,1500718.3881396572
+0,Mejoramientos,Mujer,Media,4,4894635.3661584,27,Tabasco,1223658.8415396
+0,Otros programas,Hombre,Media,159,216508357.78252,27,Tabasco,1361687.7847957232
+0,Otros programas,Mujer,Media,51,58135504.6025264,27,Tabasco,1139911.8549514979
+0,Viviendas nuevas,Hombre,Residencial,291,636729657.3692896,27,Tabasco,2188074.423949449
+0,Viviendas nuevas,Mujer,Residencial,230,454914807.5496384,27,Tabasco,1977890.4676071235
+0,Viviendas existentes,Hombre,Residencial,190,484076176.5240704,27,Tabasco,2547769.350126686
+0,Viviendas existentes,Mujer,Residencial,120,278847151.6964784,27,Tabasco,2323726.26413732
+0,Mejoramientos,Hombre,Residencial,2,7960400.0,27,Tabasco,3980200.0
+0,Otros programas,Hombre,Residencial,42,81192571.897992,27,Tabasco,1933156.4737617143
+0,Otros programas,Mujer,Residencial,19,35432550.0,27,Tabasco,1864871.0526315789
+0,Viviendas nuevas,Hombre,Residencial plus,60,262015148.468,27,Tabasco,4366919.141133334
+0,Viviendas nuevas,Mujer,Residencial plus,32,144740521.0,27,Tabasco,4523141.28125
+0,Viviendas existentes,Hombre,Residencial plus,50,276769136.3286304,27,Tabasco,5535382.726572608
+0,Viviendas existentes,Mujer,Residencial plus,25,106292559.0,27,Tabasco,4251702.36
+0,Otros programas,Hombre,Residencial plus,19,84584534.0,27,Tabasco,4451817.578947368
+0,Otros programas,Mujer,Residencial plus,10,28982532.0,27,Tabasco,2898253.2
+0,Mejoramientos,Hombre,,24055,56069339.87,28,Tamaulipas,2330.880892537934
+0,Mejoramientos,Mujer,,13420,57638130.6,28,Tamaulipas,4294.942667660209
+0,Otros programas,Hombre,,393,5305500.0,28,Tamaulipas,13500.0
+0,Otros programas,Mujer,,459,6196500.0,28,Tamaulipas,13500.0
+0,Viviendas nuevas,Hombre,Económica,444,78688623.29,28,Tamaulipas,177226.62903153154
+0,Viviendas nuevas,Mujer,Económica,1444,242723619.6,28,Tamaulipas,168091.1493074792
+0,Viviendas existentes,Hombre,Económica,148,71598327.1646192,28,Tamaulipas,483772.48084202164
+0,Viviendas existentes,Mujer,Económica,116,56227956.5979184,28,Tamaulipas,484723.7637751586
+0,Mejoramientos,Hombre,Económica,13,2190500.9987472,28,Tamaulipas,168500.07682670766
+0,Mejoramientos,Mujer,Económica,8,1515830.1598592,28,Tamaulipas,189478.7699824
+0,Otros programas,Hombre,Económica,147,44497561.5911936,28,Tamaulipas,302704.5006203646
+0,Otros programas,Mujer,Económica,78,23546862.8784576,28,Tamaulipas,301882.85741612304
+0,Viviendas nuevas,Hombre,Popular,3151,1926204056.453656,28,Tamaulipas,611299.2879891006
+0,Viviendas nuevas,Mujer,Popular,2815,1708817034.2741504,28,Tamaulipas,607039.7990316697
+0,Viviendas existentes,Hombre,Popular,4732,2713398019.7351794,28,Tamaulipas,573414.6280082797
+0,Viviendas existentes,Mujer,Popular,3910,2223137705.219965,28,Tamaulipas,568577.4182148247
+0,Mejoramientos,Hombre,Popular,212,120759817.3370624,28,Tamaulipas,569621.7798918037
+0,Mejoramientos,Mujer,Popular,264,150676743.5517424,28,Tamaulipas,570745.240726297
+0,Otros programas,Hombre,Popular,354,199257075.2084336,28,Tamaulipas,562873.0938091344
+0,Otros programas,Mujer,Popular,208,120500443.3501632,28,Tamaulipas,579329.0545680923
+0,Viviendas nuevas,Hombre,Tradicional,5267,3583879941.4874544,28,Tamaulipas,680440.467341457
+0,Viviendas nuevas,Mujer,Tradicional,4108,2557411155.952843,28,Tamaulipas,622544.0983332141
+0,Viviendas existentes,Hombre,Tradicional,4648,3241778123.5644097,28,Tamaulipas,697456.5670319299
+0,Viviendas existentes,Mujer,Tradicional,3662,2280565328.2508,28,Tamaulipas,622764.9722148553
+0,Mejoramientos,Hombre,Tradicional,367,266014459.5999472,28,Tamaulipas,724835.0397818725
+0,Mejoramientos,Mujer,Tradicional,255,163304231.3234528,28,Tamaulipas,640408.7502880502
+0,Otros programas,Hombre,Tradicional,216,155069454.3790704,28,Tamaulipas,717914.1406438445
+0,Otros programas,Mujer,Tradicional,135,94887781.6690608,28,Tamaulipas,702872.4568078577
+0,Viviendas nuevas,Hombre,Media,1266,1510595943.609952,28,Tamaulipas,1193203.7469272923
+0,Viviendas nuevas,Mujer,Media,882,925576728.4894128,28,Tamaulipas,1049406.7216433252
+0,Viviendas existentes,Hombre,Media,2318,2715745005.7676415,28,Tamaulipas,1171589.7350162389
+0,Viviendas existentes,Mujer,Media,1852,1905870667.249408,28,Tamaulipas,1029087.8332880173
+0,Mejoramientos,Hombre,Media,39,48545496.6359936,28,Tamaulipas,1244756.3239998359
+0,Mejoramientos,Mujer,Media,29,37026242.7089472,28,Tamaulipas,1276766.9899636963
+0,Otros programas,Hombre,Media,150,149208735.2473376,28,Tamaulipas,994724.9016489174
+0,Otros programas,Mujer,Media,115,115054138.8383264,28,Tamaulipas,1000470.772507186
+0,Viviendas nuevas,Hombre,Residencial,368,793749634.6989936,28,Tamaulipas,2156928.3551603085
+0,Viviendas nuevas,Mujer,Residencial,270,507984167.914472,28,Tamaulipas,1881422.8441276741
+0,Viviendas existentes,Hombre,Residencial,352,776125734.9117233,28,Tamaulipas,2204902.655999214
+0,Viviendas existentes,Mujer,Residencial,248,535082937.0670032,28,Tamaulipas,2157592.4881734
+0,Mejoramientos,Hombre,Residencial,7,26108517.818,28,Tamaulipas,3729788.259714286
+0,Mejoramientos,Mujer,Residencial,3,8341953.535208,28,Tamaulipas,2780651.1784026665
+0,Otros programas,Hombre,Residencial,106,164209889.637664,28,Tamaulipas,1549149.9022421131
+0,Otros programas,Mujer,Residencial,63,88251196.4796128,28,Tamaulipas,1400812.6425335365
+0,Viviendas nuevas,Hombre,Residencial plus,146,654307200.2197248,28,Tamaulipas,4481556.165888526
+0,Viviendas nuevas,Mujer,Residencial plus,74,329328821.036,28,Tamaulipas,4450389.47345946
+0,Viviendas existentes,Hombre,Residencial plus,94,437582532.0162304,28,Tamaulipas,4655133.3193216
+0,Viviendas existentes,Mujer,Residencial plus,40,178191618.3383616,28,Tamaulipas,4454790.45845904
+0,Mejoramientos,Hombre,Residencial plus,2,15000000.0,28,Tamaulipas,7500000.0
+0,Mejoramientos,Mujer,Residencial plus,1,5250000.0,28,Tamaulipas,5250000.0
+0,Otros programas,Hombre,Residencial plus,64,224083035.0,28,Tamaulipas,3501297.421875
+0,Otros programas,Mujer,Residencial plus,25,52847564.0,28,Tamaulipas,2113902.56
+0,Viviendas nuevas,Hombre,,4,440000.0,29,Tlaxcala,110000.0
+0,Viviendas nuevas,Mujer,,6,840000.0,29,Tlaxcala,140000.0
+0,Mejoramientos,Hombre,,3464,17985926.0,29,Tlaxcala,5192.241916859122
+0,Mejoramientos,Mujer,,2005,20439475.0,29,Tlaxcala,10194.25187032419
+0,Otros programas,Hombre,,43,580500.0,29,Tlaxcala,13500.0
+0,Otros programas,Mujer,,42,567000.0,29,Tlaxcala,13500.0
+0,Viviendas nuevas,Hombre,Económica,116,27842291.31,29,Tlaxcala,240019.75267241377
+0,Viviendas nuevas,Mujer,Económica,577,140927618.64,29,Tlaxcala,244241.97337954937
+0,Viviendas existentes,Hombre,Económica,7,2745469.754936,29,Tlaxcala,392209.9649908571
+0,Viviendas existentes,Mujer,Económica,3,1110239.6662928,29,Tlaxcala,370079.8887642667
+0,Mejoramientos,Hombre,Económica,2,719043.9731216,29,Tlaxcala,359521.9865608
+0,Mejoramientos,Mujer,Económica,3,795633.83,29,Tlaxcala,265211.2766666667
+0,Otros programas,Hombre,Económica,85,27700005.4743536,29,Tlaxcala,325882.41734533646
+0,Otros programas,Mujer,Económica,40,12643922.9423504,29,Tlaxcala,316098.07355876
+0,Viviendas nuevas,Hombre,Popular,152,82983981.9470192,29,Tlaxcala,545947.2496514422
+0,Viviendas nuevas,Mujer,Popular,178,99641978.9283824,29,Tlaxcala,559786.3984740584
+0,Viviendas existentes,Hombre,Popular,353,191333772.6132048,29,Tlaxcala,542022.0187342912
+0,Viviendas existentes,Mujer,Popular,276,148769619.8973808,29,Tlaxcala,539020.3619470319
+0,Mejoramientos,Hombre,Popular,203,105916348.8714576,29,Tlaxcala,521755.4131598897
+0,Mejoramientos,Mujer,Popular,146,75148744.88592,29,Tlaxcala,514717.4307254795
+0,Otros programas,Hombre,Popular,95,51669809.7358976,29,Tlaxcala,543892.73406208
+0,Otros programas,Mujer,Popular,48,27336786.8492704,29,Tlaxcala,569516.3926931333
+0,Viviendas nuevas,Hombre,Tradicional,337,245232534.1793072,29,Tlaxcala,727692.9797605554
+0,Viviendas nuevas,Mujer,Tradicional,263,173844618.9696928,29,Tlaxcala,661006.1557782996
+0,Viviendas existentes,Hombre,Tradicional,458,325519036.6158896,29,Tlaxcala,710740.2546198464
+0,Viviendas existentes,Mujer,Tradicional,429,303042336.2824832,29,Tlaxcala,706392.3922668607
+0,Mejoramientos,Hombre,Tradicional,16,12376079.5396304,29,Tlaxcala,773504.9712269
+0,Mejoramientos,Mujer,Tradicional,16,10284738.4362,29,Tlaxcala,642796.1522625
+0,Otros programas,Hombre,Tradicional,59,47573321.7349184,29,Tlaxcala,806327.4870325152
+0,Otros programas,Mujer,Tradicional,36,26017491.5851152,29,Tlaxcala,722708.0995865334
+0,Viviendas nuevas,Hombre,Media,268,344716184.799176,29,Tlaxcala,1286254.4208924477
+0,Viviendas nuevas,Mujer,Media,177,217848781.2410144,29,Tlaxcala,1230784.0748079908
+0,Viviendas existentes,Hombre,Media,550,683796604.6957072,29,Tlaxcala,1243266.5539921948
+0,Viviendas existentes,Mujer,Media,396,469319548.4628048,29,Tlaxcala,1185150.3749060726
+0,Mejoramientos,Hombre,Media,4,5018708.9294352,29,Tlaxcala,1254677.2323588
+0,Otros programas,Hombre,Media,45,50401935.2482,29,Tlaxcala,1120043.0055155556
+0,Otros programas,Mujer,Media,18,20981420.2784288,29,Tlaxcala,1165634.459912711
+0,Viviendas nuevas,Hombre,Residencial,49,103637306.6256384,29,Tlaxcala,2115047.07399262
+0,Viviendas nuevas,Mujer,Residencial,30,58614678.495904,29,Tlaxcala,1953822.6165301332
+0,Viviendas existentes,Hombre,Residencial,19,45471358.4352,29,Tlaxcala,2393229.3913263157
+0,Viviendas existentes,Mujer,Residencial,18,35398444.0358336,29,Tlaxcala,1966580.2242129776
+0,Mejoramientos,Hombre,Residencial,1,3850000.0,29,Tlaxcala,3850000.0
+0,Otros programas,Hombre,Residencial,9,17607239.4601856,29,Tlaxcala,1956359.940020622
+0,Otros programas,Mujer,Residencial,9,12583307.7123488,29,Tlaxcala,1398145.301372089
+0,Viviendas nuevas,Hombre,Residencial plus,5,17145900.0,29,Tlaxcala,3429180.0
+0,Viviendas nuevas,Mujer,Residencial plus,1,4040000.0,29,Tlaxcala,4040000.0
+0,Viviendas existentes,Hombre,Residencial plus,5,21867070.0,29,Tlaxcala,4373414.0
+0,Viviendas existentes,Mujer,Residencial plus,2,9574498.0,29,Tlaxcala,4787249.0
+0,Otros programas,Hombre,Residencial plus,1,2131028.0,29,Tlaxcala,2131028.0
+0,Viviendas nuevas,Hombre,,21,386099.84,30,Veracruz,18385.70666666667
+0,Viviendas nuevas,Mujer,,41,523725.21,30,Veracruz,12773.785609756098
+0,Mejoramientos,Hombre,,17327,112017649.72,30,Veracruz,6464.918896519882
+0,Mejoramientos,Mujer,,10326,146080106.15,30,Veracruz,14146.824147782298
+0,Otros programas,Hombre,,538,7263000.0,30,Veracruz,13500.0
+0,Otros programas,Mujer,,1009,13621500.0,30,Veracruz,13500.0
+0,Viviendas nuevas,Hombre,Económica,100,17712744.32,30,Veracruz,177127.4432
+0,Viviendas nuevas,Mujer,Económica,172,32965420.52,30,Veracruz,191659.42162790697
+0,Viviendas existentes,Hombre,Económica,56,20107600.9658352,30,Veracruz,359064.30296134285
+0,Viviendas existentes,Mujer,Económica,81,33338986.7351376,30,Veracruz,411592.42882885924
+0,Mejoramientos,Hombre,Económica,71,15981961.0,30,Veracruz,225098.04225352113
+0,Mejoramientos,Mujer,Económica,95,23897509.2919472,30,Veracruz,251552.7293889179
+0,Otros programas,Hombre,Económica,308,97794458.879488,30,Veracruz,317514.4768814546
+0,Otros programas,Mujer,Económica,177,54898873.0691824,30,Veracruz,310163.1246846463
+0,Viviendas nuevas,Hombre,Popular,1858,1029060098.8893328,30,Veracruz,553853.6592515246
+0,Viviendas nuevas,Mujer,Popular,2244,1217400900.2482417,30,Veracruz,542513.7701641006
+0,Viviendas existentes,Hombre,Popular,4390,2463208660.7757807,30,Veracruz,561095.3669193123
+0,Viviendas existentes,Mujer,Popular,3208,1774720607.0210495,30,Veracruz,553217.1468270104
+0,Mejoramientos,Hombre,Popular,29,15708391.168792,30,Veracruz,541668.6609928276
+0,Mejoramientos,Mujer,Popular,20,9903543.37856,30,Veracruz,495177.16892799997
+0,Otros programas,Hombre,Popular,609,316690756.2020224,30,Veracruz,520017.6620722863
+0,Otros programas,Mujer,Popular,236,119601433.3070496,30,Veracruz,506785.7343519051
+0,Viviendas nuevas,Hombre,Tradicional,2055,1460457257.5133407,30,Veracruz,710684.7968434748
+0,Viviendas nuevas,Mujer,Tradicional,1977,1323155861.0907345,30,Veracruz,669274.5883109431
+0,Viviendas existentes,Hombre,Tradicional,5964,4339252674.65838,30,Veracruz,727574.2244564687
+0,Viviendas existentes,Mujer,Tradicional,4317,2890426090.961714,30,Veracruz,669545.0755065355
+0,Mejoramientos,Hombre,Tradicional,23,20478017.9978224,30,Veracruz,890348.608600974
+0,Mejoramientos,Mujer,Tradicional,14,11337051.7336256,30,Veracruz,809789.4095446857
+0,Otros programas,Hombre,Tradicional,451,357647477.1699904,30,Veracruz,793009.9272061872
+0,Otros programas,Mujer,Tradicional,183,131910879.0706464,30,Veracruz,720824.4757958819
+0,Viviendas nuevas,Hombre,Media,1823,2261327247.7616224,30,Veracruz,1240442.8128149328
+0,Viviendas nuevas,Mujer,Media,1428,1647071709.7839696,30,Veracruz,1153411.5614733682
+0,Viviendas existentes,Hombre,Media,3109,3743643769.9403567,30,Veracruz,1204131.1579094103
+0,Viviendas existentes,Mujer,Media,2645,2909450566.320317,30,Veracruz,1099981.3105180783
+0,Mejoramientos,Hombre,Media,18,28758347.1905568,30,Veracruz,1597685.9550309335
+0,Mejoramientos,Mujer,Media,9,12371747.2672016,30,Veracruz,1374638.5852446223
+0,Otros programas,Hombre,Media,317,352239452.4872304,30,Veracruz,1111165.465259402
+0,Otros programas,Mujer,Media,203,203486234.1131632,30,Veracruz,1002395.2419367646
+0,Viviendas nuevas,Hombre,Residencial,802,1666688934.5764031,30,Veracruz,2078165.7538359142
+0,Viviendas nuevas,Mujer,Residencial,515,1042179537.6136336,30,Veracruz,2023649.5875992887
+0,Viviendas existentes,Hombre,Residencial,520,1172348074.0334496,30,Veracruz,2254515.526987403
+0,Viviendas existentes,Mujer,Residencial,377,774977386.7259616,30,Veracruz,2055642.93561263
+0,Mejoramientos,Hombre,Residencial,6,19927004.0,30,Veracruz,3321167.3333333335
+0,Mejoramientos,Mujer,Residencial,4,12836700.0,30,Veracruz,3209175.0
+0,Otros programas,Hombre,Residencial,163,265075378.0729104,30,Veracruz,1626229.3133307386
+0,Otros programas,Mujer,Residencial,78,123961066.0,30,Veracruz,1589244.435897436
+0,Viviendas nuevas,Hombre,Residencial plus,175,881736892.8860544,30,Veracruz,5038496.530777453
+0,Viviendas nuevas,Mujer,Residencial plus,101,464722835.5572544,30,Veracruz,4601216.193636182
+0,Viviendas existentes,Hombre,Residencial plus,124,663658253.13,30,Veracruz,5352082.686532258
+0,Viviendas existentes,Mujer,Residencial plus,55,277822536.0,30,Veracruz,5051318.836363636
+0,Mejoramientos,Hombre,Residencial plus,2,18313159.0,30,Veracruz,9156579.5
+0,Mejoramientos,Mujer,Residencial plus,1,7243250.0,30,Veracruz,7243250.0
+0,Otros programas,Hombre,Residencial plus,87,396803779.0,30,Veracruz,4560962.977011494
+0,Otros programas,Mujer,Residencial plus,26,130198078.0,30,Veracruz,5007618.384615385
+0,Mejoramientos,Hombre,,6184,20539570.65,31,Yucatán,3321.405344437257
+0,Mejoramientos,Mujer,,3610,33463258.42,31,Yucatán,9269.60067036011
+0,Otros programas,Hombre,,26,351000.0,31,Yucatán,13500.0
+0,Otros programas,Mujer,,46,621000.0,31,Yucatán,13500.0
+0,Viviendas nuevas,Hombre,Económica,967,166672548.51,31,Yucatán,172360.44313340227
+0,Viviendas nuevas,Mujer,Económica,2587,447848513.13,31,Yucatán,173115.00314263627
+0,Viviendas existentes,Hombre,Económica,7,2271479.026904,31,Yucatán,324497.00384342857
+0,Viviendas existentes,Mujer,Económica,7,2634054.0734752,31,Yucatán,376293.43906788575
+0,Mejoramientos,Hombre,Económica,66,8393167.8366304,31,Yucatán,127169.20964591515
+0,Mejoramientos,Mujer,Económica,37,4508251.33,31,Yucatán,121844.63054054054
+0,Otros programas,Hombre,Económica,29,8999727.77592,31,Yucatán,310335.44054896553
+0,Otros programas,Mujer,Económica,17,4798485.6914416,31,Yucatán,282263.86420244706
+0,Viviendas nuevas,Hombre,Popular,1443,822992554.286064,31,Yucatán,570334.4104546529
+0,Viviendas nuevas,Mujer,Popular,1353,740843981.3217856,31,Yucatán,547556.5272149191
+0,Viviendas existentes,Hombre,Popular,542,301752281.1009056,31,Yucatán,556738.526016431
+0,Viviendas existentes,Mujer,Popular,436,236529294.8855248,31,Yucatán,542498.3827649652
+0,Mejoramientos,Hombre,Popular,58,33795592.0703152,31,Yucatán,582682.6219019862
+0,Mejoramientos,Mujer,Popular,32,18597331.1622544,31,Yucatán,581166.59882045
+0,Otros programas,Hombre,Popular,34,17886680.817768,31,Yucatán,526078.8475814117
+0,Otros programas,Mujer,Popular,32,17477710.6120688,31,Yucatán,546178.45662715
+0,Viviendas nuevas,Hombre,Tradicional,2710,1754056693.600808,31,Yucatán,647253.3924726228
+0,Viviendas nuevas,Mujer,Tradicional,2428,1436745472.9379313,31,Yucatán,591740.310106232
+0,Viviendas existentes,Hombre,Tradicional,1212,818852207.646456,31,Yucatán,675620.6333716634
+0,Viviendas existentes,Mujer,Tradicional,907,578466756.5211296,31,Yucatán,637780.3269251705
+0,Mejoramientos,Hombre,Tradicional,28,22462992.6521984,31,Yucatán,802249.7375785143
+0,Mejoramientos,Mujer,Tradicional,17,13565067.3306912,31,Yucatán,797945.1370994824
+0,Otros programas,Hombre,Tradicional,87,68618020.446576,31,Yucatán,788712.8786962759
+0,Otros programas,Mujer,Tradicional,42,29953500.4069136,31,Yucatán,713178.5811169905
+0,Viviendas nuevas,Hombre,Media,2983,3547311977.0092034,31,Yucatán,1189175.9896108627
+0,Viviendas nuevas,Mujer,Media,2559,2823363767.0368514,31,Yucatán,1103307.450971806
+0,Viviendas existentes,Hombre,Media,1148,1465000776.128416,31,Yucatán,1276133.0802512334
+0,Viviendas existentes,Mujer,Media,959,1159425503.6415057,31,Yucatán,1208994.268656419
+0,Mejoramientos,Hombre,Media,26,41048014.0261216,31,Yucatán,1578769.7702354463
+0,Mejoramientos,Mujer,Media,15,24523076.1288352,31,Yucatán,1634871.7419223466
+0,Otros programas,Hombre,Media,184,169603414.17888,31,Yucatán,921757.6857547826
+0,Otros programas,Mujer,Media,139,131409121.8320608,31,Yucatán,945389.3656982791
+0,Viviendas nuevas,Hombre,Residencial,1469,3105012421.9958735,31,Yucatán,2113691.2334893625
+0,Viviendas nuevas,Mujer,Residencial,833,1710030935.4804752,31,Yucatán,2052858.2658829235
+0,Viviendas existentes,Hombre,Residencial,564,1369558219.9140208,31,Yucatán,2428294.7161596115
+0,Viviendas existentes,Mujer,Residencial,269,588986475.271152,31,Yucatán,2189540.8002645057
+0,Mejoramientos,Hombre,Residencial,15,55115232.4912736,31,Yucatán,3674348.832751573
+0,Mejoramientos,Mujer,Residencial,5,15669410.0,31,Yucatán,3133882.0
+0,Otros programas,Hombre,Residencial,204,339628223.3497312,31,Yucatán,1664844.2321065255
+0,Otros programas,Mujer,Residencial,125,183607143.0,31,Yucatán,1468857.144
+0,Viviendas nuevas,Hombre,Residencial plus,408,2118508058.873128,31,Yucatán,5192421.712924333
+0,Viviendas nuevas,Mujer,Residencial plus,179,798072563.727168,31,Yucatán,4458505.942609877
+0,Viviendas existentes,Hombre,Residencial plus,292,1585126439.567264,31,Yucatán,5428515.20399748
+0,Viviendas existentes,Mujer,Residencial plus,109,565320338.969112,31,Yucatán,5186425.128156991
+0,Mejoramientos,Hombre,Residencial plus,10,81722885.0,31,Yucatán,8172288.5
+0,Mejoramientos,Mujer,Residencial plus,4,25683499.0,31,Yucatán,6420874.75
+0,Otros programas,Hombre,Residencial plus,197,710523518.0,31,Yucatán,3606718.3654822335
+0,Otros programas,Mujer,Residencial plus,50,140423558.0,31,Yucatán,2808471.16
+0,Mejoramientos,Hombre,,3755,27925882.0,32,Zacatecas,7436.985885486019
+0,Mejoramientos,Mujer,,2279,31430000.0,32,Zacatecas,13791.136463361123
+0,Otros programas,Hombre,,11,148500.0,32,Zacatecas,13500.0
+0,Otros programas,Mujer,,13,175500.0,32,Zacatecas,13500.0
+0,Viviendas nuevas,Hombre,Económica,175,35449864.88,32,Zacatecas,202570.65645714288
+0,Viviendas nuevas,Mujer,Económica,645,134456665.49,32,Zacatecas,208459.94649612406
+0,Viviendas existentes,Hombre,Económica,2,645551.050128,32,Zacatecas,322775.525064
+0,Mejoramientos,Hombre,Económica,1,362994.0,32,Zacatecas,362994.0
+0,Mejoramientos,Mujer,Económica,3,839179.0,32,Zacatecas,279726.3333333333
+0,Otros programas,Hombre,Económica,45,14021007.2494592,32,Zacatecas,311577.9388768711
+0,Otros programas,Mujer,Económica,15,3871457.1324448,32,Zacatecas,258097.14216298665
+0,Viviendas nuevas,Hombre,Popular,227,125634370.9235632,32,Zacatecas,553455.3785178995
+0,Viviendas nuevas,Mujer,Popular,212,111126908.3281408,32,Zacatecas,524183.5298497207
+0,Viviendas existentes,Hombre,Popular,429,245059859.3980544,32,Zacatecas,571235.1034919682
+0,Viviendas existentes,Mujer,Popular,421,233826474.6556848,32,Zacatecas,555407.3032201539
+0,Mejoramientos,Hombre,Popular,15,9610588.8947104,32,Zacatecas,640705.9263140266
+0,Mejoramientos,Mujer,Popular,20,12714064.9360032,32,Zacatecas,635703.24680016
+0,Otros programas,Hombre,Popular,85,49514107.4478272,32,Zacatecas,582518.9111509082
+0,Otros programas,Mujer,Popular,56,30799411.1805168,32,Zacatecas,549989.4853663715
+0,Viviendas nuevas,Hombre,Tradicional,849,567620280.9415264,32,Zacatecas,668575.1247838945
+0,Viviendas nuevas,Mujer,Tradicional,748,469329462.3073248,32,Zacatecas,627445.8052236963
+0,Viviendas existentes,Hombre,Tradicional,718,481038847.1504368,32,Zacatecas,669970.5392067365
+0,Viviendas existentes,Mujer,Tradicional,554,333417562.4369984,32,Zacatecas,601836.7553014412
+0,Mejoramientos,Hombre,Tradicional,107,76831491.9274784,32,Zacatecas,718051.3264250318
+0,Mejoramientos,Mujer,Tradicional,63,37789460.6792576,32,Zacatecas,599832.7091945651
+0,Otros programas,Hombre,Tradicional,85,67144600.5165168,32,Zacatecas,789936.4766649036
+0,Otros programas,Mujer,Tradicional,56,37423868.6328544,32,Zacatecas,668283.3684438287
+0,Viviendas nuevas,Hombre,Media,584,628448102.5270336,32,Zacatecas,1076109.7646010849
+0,Viviendas nuevas,Mujer,Media,561,553430666.0211473,32,Zacatecas,986507.4260626511
+0,Viviendas existentes,Hombre,Media,305,320067753.6998288,32,Zacatecas,1049402.4711469796
+0,Viviendas existentes,Mujer,Media,295,272717488.4197792,32,Zacatecas,924466.0624399295
+0,Mejoramientos,Hombre,Media,7,9467638.6397152,32,Zacatecas,1352519.8056736
+0,Mejoramientos,Mujer,Media,6,8714653.9132048,32,Zacatecas,1452442.3188674666
+0,Otros programas,Hombre,Media,68,75042205.458144,32,Zacatecas,1103561.8449727057
+0,Otros programas,Mujer,Media,38,38640288.4102064,32,Zacatecas,1016849.6950054315
+0,Viviendas nuevas,Hombre,Residencial,106,206977043.2387552,32,Zacatecas,1952613.6154599546
+0,Viviendas nuevas,Mujer,Residencial,79,148660717.6616608,32,Zacatecas,1881781.2362235542
+0,Viviendas existentes,Hombre,Residencial,49,107422140.093048,32,Zacatecas,2192288.57332751
+0,Viviendas existentes,Mujer,Residencial,29,46870902.2453824,32,Zacatecas,1616238.008461462
+0,Mejoramientos,Hombre,Residencial,1,3476016.0,32,Zacatecas,3476016.0
+0,Mejoramientos,Mujer,Residencial,1,2500000.0,32,Zacatecas,2500000.0
+0,Otros programas,Hombre,Residencial,22,29094295.0,32,Zacatecas,1322467.9545454546
+0,Otros programas,Mujer,Residencial,8,12158330.0,32,Zacatecas,1519791.25
+0,Viviendas nuevas,Hombre,Residencial plus,20,73458069.67,32,Zacatecas,3672903.4835
+0,Viviendas nuevas,Mujer,Residencial plus,5,21386300.0,32,Zacatecas,4277260.0
+0,Viviendas existentes,Hombre,Residencial plus,5,20696436.6139472,32,Zacatecas,4139287.3227894404
+0,Viviendas existentes,Mujer,Residencial plus,6,19706763.0,32,Zacatecas,3284460.5
+0,Otros programas,Hombre,Residencial plus,13,86417074.0,32,Zacatecas,6647467.230769231
+0,Otros programas,Mujer,Residencial plus,4,8554600.0,32,Zacatecas,2138650.0

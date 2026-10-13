@@ -1,0 +1,749 @@
+﻿[
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Tradicional",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  6,
+        "monto":  5718181.87
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Tradicional",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  6,
+        "monto":  6671084.03
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Tradicional",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  8,
+        "monto":  2104288.24
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Tradicional",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  10,
+        "monto":  3009460.60
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Tradicional",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  264,
+        "monto":  155809041.82
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Pensionados",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  2,
+        "monto":  1125241.09
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  2,
+        "monto":  173560.26
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Tradicional",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  365,
+        "monto":  214575164.14
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  1,
+        "monto":  219382.22
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Pensionados",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  2,
+        "monto":  1190658.03
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  1,
+        "monto":  86433.16
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Tradicional",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  508,
+        "monto":  292937245.93
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Pensionados",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  11,
+        "monto":  5460118.71
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  5,
+        "monto":  1485619.13
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Tradicional",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  581,
+        "monto":  338568800.93
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Pensionados",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  12,
+        "monto":  5893107.06
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  5,
+        "monto":  303464.61
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Tradicional",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  3957,
+        "monto":  3148402977.89
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  86,
+        "monto":  53229779.05
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Pensionados",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  27,
+        "monto":  14868492.61
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  49,
+        "monto":  7769026.44
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Individual fov-inf",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  27,
+        "monto":  17383968.94
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Tradicional",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  7126,
+        "monto":  5783023087.02
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  134,
+        "monto":  87492717.61
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Pensionados",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  55,
+        "monto":  36125877.02
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  97,
+        "monto":  11441387.85
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Individual fov-inf",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  20,
+        "monto":  12023276.64
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Tradicional",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  5533,
+        "monto":  4427440778.56
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  64,
+        "monto":  40498226.80
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Pensionados",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  55,
+        "monto":  31127044.94
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  70,
+        "monto":  10935817.61
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Individual fov-inf",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  16,
+        "monto":  8809020.23
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Tradicional",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  8929,
+        "monto":  7354122985.41
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  125,
+        "monto":  83281895.26
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Pensionados",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  106,
+        "monto":  65645278.52
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  108,
+        "monto":  11526371.80
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Individual fov-inf",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  17,
+        "monto":  11624156.71
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Tradicional",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  5951,
+        "monto":  7516957101.54
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  412,
+        "monto":  347205016.61
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Pensionados",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  13,
+        "monto":  7870252.92
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  385,
+        "monto":  80839612.95
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Individual fov-inf",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  116,
+        "monto":  97308073.78
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Tradicional",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  7333,
+        "monto":  9062425099.85
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  1161,
+        "monto":  949340018.12
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Pensionados",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  27,
+        "monto":  16414197.76
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  506,
+        "monto":  87700003.68
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Individual fov-inf",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  109,
+        "monto":  91040065.60
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Tradicional",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  7118,
+        "monto":  8437899352.32
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  242,
+        "monto":  206954187.04
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Pensionados",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  31,
+        "monto":  18217373.99
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  313,
+        "monto":  55288539.48
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Individual fov-inf",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  62,
+        "monto":  52663986.98
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Tradicional",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  9800,
+        "monto":  11630446756.71
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  672,
+        "monto":  537993104.54
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Pensionados",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  37,
+        "monto":  24451791.09
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  456,
+        "monto":  68521336.87
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Individual fov-inf",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  55,
+        "monto":  44522533.27
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Tradicional",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  406,
+        "monto":  575177989.54
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  37,
+        "monto":  44100500.89
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  284,
+        "monto":  62692863.75
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Individual fov-inf",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  24,
+        "monto":  28280195.98
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Tradicional",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  418,
+        "monto":  604699297.79
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  102,
+        "monto":  103297032.89
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Pensionados",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  1,
+        "monto":  579243.02
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  335,
+        "monto":  68689575.61
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Individual fov-inf",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  12,
+        "monto":  13867807.82
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Tradicional",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  544,
+        "monto":  746423146.91
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  31,
+        "monto":  42692616.24
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  248,
+        "monto":  52438453.58
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Individual fov-inf",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  16,
+        "monto":  21037310.72
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Tradicional",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  678,
+        "monto":  909342269.81
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  57,
+        "monto":  63473287.79
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Pensionados",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  2,
+        "monto":  1406025.78
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  282,
+        "monto":  58040836.12
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Individual fov-inf",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  9,
+        "monto":  10387065.59
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  30,
+        "monto":  7048440.64
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Nueva",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  22,
+        "monto":  4575721.68
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Tradicional",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  19,
+        "monto":  25293444.61
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  1,
+        "monto":  1801525.96
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  48,
+        "monto":  12237149.88
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Tradicional",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  18,
+        "monto":  23502401.11
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste infonavit conyugal",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  2,
+        "monto":  1948436.11
+    },
+    {
+        "año":  0,
+        "modalidad":  "Vivienda Existente",
+        "esquema":  "Fovissste para todos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  69,
+        "monto":  16235058.11
+    }
+]

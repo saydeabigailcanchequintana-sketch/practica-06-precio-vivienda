@@ -1,0 +1,772 @@
+﻿[
+    {
+        "linea_credito":  "Linea IV",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Autoconstrucción",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  271,
+        "monto":  0.0
+    },
+    {
+        "linea_credito":  "Linea III",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Autoconstrucción",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  31,
+        "monto":  0.0
+    },
+    {
+        "linea_credito":  "Linea IV",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Autoconstrucción",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  158,
+        "monto":  0.0
+    },
+    {
+        "linea_credito":  "Linea III",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Autoconstrucción",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  6,
+        "monto":  0.0
+    },
+    {
+        "linea_credito":  "Linea IV",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Ampliación y rehabilitación",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "No disponible",
+        "acciones":  346187,
+        "monto":  471894707.38
+    },
+    {
+        "linea_credito":  "Linea IV",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Ampliación y rehabilitación",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "No disponible",
+        "acciones":  177511,
+        "monto":  258965407.34
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  47,
+        "monto":  12758936.8073152
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  27,
+        "monto":  9198618.7301280
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  1148,
+        "monto":  496697307.5959248
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  965,
+        "monto":  420279495.4236592
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  1870,
+        "monto":  597029152.7819360
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  1076,
+        "monto":  334375755.6181824
+    },
+    {
+        "linea_credito":  "Linea III",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  11,
+        "monto":  4111881.2382784
+    },
+    {
+        "linea_credito":  "Linea III",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  7,
+        "monto":  2440198.6135472
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  468,
+        "monto":  124425269.4948704
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Económica",
+        "acciones":  16,
+        "monto":  5191601.7611392
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Económica",
+        "acciones":  207,
+        "monto":  54391826.9881168
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  29888,
+        "monto":  17589893844.1819104
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  25771,
+        "monto":  14765128484.3220064
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  58761,
+        "monto":  32881557798.4733296
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  48779,
+        "monto":  26923827929.6070720
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  3188,
+        "monto":  1684862323.5828816
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  1414,
+        "monto":  726567299.8307664
+    },
+    {
+        "linea_credito":  "Linea III",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  5695,
+        "monto":  3348831795.4356016
+    },
+    {
+        "linea_credito":  "Linea III",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  4387,
+        "monto":  2469493992.0058256
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  562,
+        "monto":  289801173.8979696
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Popular",
+        "acciones":  23,
+        "monto":  12040762.1005328
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  294,
+        "monto":  145254513.5675392
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Popular",
+        "acciones":  12,
+        "monto":  5718574.7003440
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "No disponible",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  1,
+        "monto":  0
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  88832,
+        "monto":  57435856704.6127440
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  69418,
+        "monto":  38975790958.1501888
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  89991,
+        "monto":  60883191367.6364128
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  67264,
+        "monto":  39103807332.5476976
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  2403,
+        "monto":  2076378389.5466288
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  1010,
+        "monto":  848724310.7846672
+    },
+    {
+        "linea_credito":  "Linea III",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  5103,
+        "monto":  3618749077.0071632
+    },
+    {
+        "linea_credito":  "Linea III",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  3206,
+        "monto":  1946966079.5116720
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  522,
+        "monto":  448589359.9398400
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  18,
+        "monto":  14922062.8157520
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  208,
+        "monto":  156436529.8635856
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Tradicional",
+        "acciones":  9,
+        "monto":  6942559.7909680
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "No disponible",
+        "valor_vivienda":  "Media",
+        "acciones":  2,
+        "monto":  0
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  57908,
+        "monto":  58448381330.6092576
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  40572,
+        "monto":  33563413945.7769088
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  46529,
+        "monto":  51515795625.9200080
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  33854,
+        "monto":  30354133873.1792304
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  1274,
+        "monto":  1926837105.7059872
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  524,
+        "monto":  780465842.9281424
+    },
+    {
+        "linea_credito":  "Linea III",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  789,
+        "monto":  1090441409.8430384
+    },
+    {
+        "linea_credito":  "Linea III",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  487,
+        "monto":  542880917.3478000
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  328,
+        "monto":  508379363.6680272
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Media",
+        "acciones":  32,
+        "monto":  50616818.9865008
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  150,
+        "monto":  209019309.2531760
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Media",
+        "acciones":  16,
+        "monto":  22249791.9027296
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "No disponible",
+        "valor_vivienda":  "Residencial",
+        "acciones":  4,
+        "monto":  0
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  18768,
+        "monto":  20346536487.9461824
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  12073,
+        "monto":  10984883303.5932880
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  6668,
+        "monto":  11739033591.6718048
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  4450,
+        "monto":  6567415299.9036384
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  119,
+        "monto":  291809922.1701968
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  45,
+        "monto":  103629932.0435632
+    },
+    {
+        "linea_credito":  "Linea III",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  87,
+        "monto":  225362504.3567360
+    },
+    {
+        "linea_credito":  "Linea III",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  30,
+        "monto":  47586101.4541024
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  34,
+        "monto":  82637161.7938016
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial",
+        "acciones":  6,
+        "monto":  15639471.5544464
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  16,
+        "monto":  29213904.6263872
+    },
+    {
+        "linea_credito":  "Linea V",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Pago de pasivos",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial",
+        "acciones":  5,
+        "monto":  4294019.3674880
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "No disponible",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  1,
+        "monto":  0
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  2819,
+        "monto":  1399566816.8274336
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Nueva",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  1497,
+        "monto":  795517962.3133360
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Existente",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  1102,
+        "monto":  1753606292.2722272
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Existente",
+        "año":  0,
+        "modalidad":  "Existente",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  805,
+        "monto":  1185259410.6942688
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Adquisición de suelo",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  3,
+        "monto":  8662621.3383152
+    },
+    {
+        "linea_credito":  "Linea II",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Adquisición de suelo",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  3,
+        "monto":  10427223.7380720
+    },
+    {
+        "linea_credito":  "Linea III",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Con disponibilidad de terreno",
+        "sexo":  "Hombre",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  2,
+        "monto":  5266072.2848544
+    },
+    {
+        "linea_credito":  "Linea III",
+        "vivienda":  "Nueva",
+        "año":  0,
+        "modalidad":  "Con disponibilidad de terreno",
+        "sexo":  "Mujer",
+        "valor_vivienda":  "Residencial plus",
+        "acciones":  2,
+        "monto":  5410584.5463168
+    }
+]
